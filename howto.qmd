@@ -6,7 +6,7 @@ If you are new to computational biology and R programming, join the `#bioinfo-pr
 
 Check out the Slack tips in the pinned posts in [#help-](https://jravilab.slack.com/archives/CATMCKFT9)proj_management to get oriented since you are new to Slack (the channel used to be `#howto-slack`)!
 
-To re-familiarize yourself with R/Python/Unix, check out these two resources in addition to Slack \| [CompBio gists](https://github.com/jananiravi/compbio-gists) and [R-Ladies East Lansing](https://github.com/rladies-eastlansing). If you are new to R-Ladies East Lansing and Women+ Data Science, check them out and join [Meetup](https://meetup.com/rladies-eastlansing) and their [Slack](https://rladies-eastlansing.slack.com/) to remain apprised of upcoming events and to connect with the local R and data science communities.
+To re-familiarize yourself with R/Python/Unix, check out these two resources in addition to Slack \| [CompBio gists](https://github.com/jananiravi/compbio-gists) and [R-Ladies East Lansing](https://github.com/rladies-eastlansing). If you are new to R-Ladies Aurora, R-Ladies East Lansing, and Women+ Data Science, check them out and join [Meetup-RLA](https://meetup.com/rladies-aurora)/[Meetup-RLEL](https://meetup.com/rladies-eastlansing) and their [Discord](https://bit.ly/rladies-aurora-discord)/[Slack](https://rladies-eastlansing.slack.com/) to remain apprised of upcoming events and to connect with the local R and data science communities.
 
 💡*If you find other useful resources, please add them to [this list](https://github.com/jananiravi/compbio-gists) (or share them with me).*
 
@@ -14,7 +14,7 @@ To re-familiarize yourself with R/Python/Unix, check out these two resources in 
 
 To learn R, I would recommend getting started with the pinned posts in [#courses-primers](https://jravilab.slack.com/archives/CARJ72W3U).
 
-A couple of helpful GitHub repositories - <https://github.com/jananiravi/workshop-tidyverse> (Intro to `R's tidyverse package` --- very useful to learn right away) - Other R workshop materials from our R-Ladies East Lansing chapter: <https://github.com/rladies-eastlansing> - Interactive tutorials with [learnr](https://rstudio.github.io/learnr/) & [swirl](https://swirlstats.com/). - [R for Genomics from Data Carpentry](https://datacarpentry.org/R-genomics/index.html) - [R on HPC](https://github.com/JRaviLab/group/tree/master/resources-courses/r-on-hpc)
+A couple of helpful GitHub repositories - <https://github.com/jananiravi/workshop-tidyverse> (Intro to `R's tidyverse package` --- handy to learn right away) - Other R workshop materials from our R-Ladies East Lansing chapter: <https://github.com/rladies-eastlansing> - Interactive tutorials with [learnr](https://rstudio.github.io/learnr/) & [swirl](https://swirlstats.com/). - [R for Genomics from Data Carpentry](https://datacarpentry.org/R-genomics/index.html) - [R on HPC](https://github.com/JRaviLab/group/tree/master/resources-courses/r-on-hpc)
 
 -   Coursera
     -   [Intro to R programming and tidyverse](https://www.coursera.org/learn/r-programming-tidyverse)
@@ -57,19 +57,19 @@ A couple of helpful GitHub repositories - <https://github.com/jananiravi/worksho
 
 [Templates](https://github.com/JRaviLab/group/tree/master/docs/templates) on yearly/[semester planning](https://github.com/JRaviLab/group/blob/master/docs/Yearly-Planning-Document.pdf) and professional development are available [here](https://github.com/JRaviLab/group/tree/master/docs).
 
-## Remote server Work (Alpine & Jravilab server)
+## Remote server work (JRaviLab server & Alpine HPC)
 
-For computing that requires high performance hardware, we utilize two different remote servers.
+For computing that requires high performance hardware and computing clusters, we utilize two different remote servers.
 
-### Jravilab server
+### JRaviLab server
 
-- A single high performance machine only for our group
-- To get setup contact the system administrator `shaddai.amolitos@cuanschutz.edu` by sending him your CU username and a brief message that you will need access to the server. CC janani.ravi@cuanschutz.edu, so they can both verify your access.
-- If you are new to remote server work, then it maybe helpful to learn about using an [ssh config](https://linuxize.com/post/using-the-ssh-config-file/) for manaing your remote hosts.
+- A single high performance machine used only by our group.
+- To request access, contact the system administrator `shaddai.amolitos@cuanschutz.edu` by sending him your CU username (e.g., the CU auto-generated `ravijan` instead of `janani.ravi@cuanschutz.edu`) and a brief message that you will need access to the server. CC janani.ravi@cuanschutz.edu, so they can both verify your access.
+- If you are new to remote server work, then it maybe helpful to learn about using an [ssh config](https://linuxize.com/post/using-the-ssh-config-file/) for managing your remote hosts.
 
-### Alpine
+### Alpine HPC
 
-- Alpine is the HPC cluster for all the Colorado University campuses, including Anschutz.
+- Alpine is the HPC cluster for all the University of Colorado campuses, including Anschutz.
 - There is extensive [documentation about getting setup](https://curc.readthedocs.io/en/latest/clusters/alpine/index.html)
 - At the moment, a [web shell](https://ondemand-rmacc.rc.colorado.edu/pun/sys/shell/ssh/default) is the only access option for Anschutz members. This is different from a typical SSH login, and it is best to follow the official, latest Alpine documentation.
 
