@@ -1,10 +1,14 @@
 # Offboarding
 
-We are delighted to have been a part of your research life. We wish you great laurels as you move on to the next phase of your career.
+We are aware that career plans change, and that is perfectly ok. The Ravi lab always encourages you to pursue your future endeavors and dreams. Ensure you do your best to make Janani aware of any changes in your career plans so the offboarding process can run smoothly. 
 
 ## Ready to head out?
 
+We are delighted to have been a part of your research life. We wish you great laurels as you move on to the next phase of your career.
+
 Please make sure you have checked these boxes before leaving our group.
+
+-   [ ] Please return any devices, cords, or computers that belong to the lab.
 
 -   [ ] All your code is on GitHub
 
@@ -24,8 +28,17 @@ Please make sure you have checked these boxes before leaving our group.
 
 -   [ ] If you have worked with us for a considerable period of time, you will remain a part of `#the-continuum` channel on our Slack.
 
+-   [ ] Leave and update us of any changes in contact information for authorship purposes in case we need to reach you and add you to the list of authors for all the work you contributed to the published project.
+
+#### If you need more information on the leave policy, please refer to the appropriate link at the bottom.
+
+Undergraduate and Masters Students: [Student Employment Handbook](https://www.ucdenver.edu/docs/librariesprovider41/student-employment/student_hourly_employment_handbook.pdf?sfvrsn=8e3963ba_6)
+
+Ph.D. Students:[Graduate School Policy for Vacation and Leave](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2)
+
 Good luck!
 
 ## Stay in touch
 
 [Webpage](https://jravilab.github.io) \| [PI](https://jravilab.github.io/#about) \| [Twitter](https://twitter.com/jravilab) \| [Mastodon](https://genomic.social/@jravilab) \| [Email](mailto:janani.ravi@cuanschutz.edu)
+
