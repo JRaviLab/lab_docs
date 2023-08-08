@@ -22,6 +22,7 @@ If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
 
 ## Research associates (research professionals/PRAs)
 
+Lead projects and support other lab members. Leading projects involves contributing new ideas, presenting updates, hosting journal-clubs, workshop sessions, and attending all project meetings. The supportive role can overlap with the project leading tasks, but it may also include non-project specific tasks like code review and any coding/environment/installation assistance. It can be a mutual investment for PRAs to develop certain skills that will benefit both the lab as a whole and your future professional development.
 
 ## Undergraduates
 
