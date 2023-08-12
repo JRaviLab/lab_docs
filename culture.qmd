@@ -21,8 +21,17 @@ If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
 
 
 ## Research associates (research professionals/PRAs)
-
-Lead projects and support other lab members. Leading projects involves contributing new ideas, presenting updates, hosting journal-clubs, workshop sessions, and attending all project meetings. The supportive role can overlap with the project leading tasks, but it may also include non-project specific tasks like code review and any coding/environment/installation assistance. It can be a mutual investment for PRAs to develop certain skills that will benefit both the lab as a whole and your future professional development.
+- Lead individual projects and support other lab members' projects collaboratively, and contribute to new ideas and research directions.
+- Perform scientifically rigorous data management and bioinformatic analyses.
+-	Develop and disseminate a variety of tools designed to access relevant experimental and clinical data.
+-	Develop and implement complex analyses pipelines, modular functional programming, and data visualization techniques (e.g., for multi-layered -omics datasets)
+-	Creatively and effectively integrate data from multiple sources to accelerate discoveries;	Write custom scripts to access databases and analyze data.
+-	Assist with the design and development of major bioinformatics-related programming projects
+-	Write custom web tools and R/Py packages for the group and the larger scientific/technical community.
+- Present research/technical updates periodically, host journal-clubs, workshops and tutorials, and attend all group and project meetings.
+- The supportive role can overlap with the project-related scientific tasks, or other technical and software-development tasks like code review and any assistance with coding/environment/installation issues.
+- It is in the best and mutual interest of PRAs and the lab to hone and develop scientific, technical, and personnel/leadership skills that will benefit all involved parties, especially the PRAs' professional and career development.
+- Work with the PI to make short- and long-term research, professional, and career plans to stay on track towards your next steps.
 
 ## Undergraduates
 
