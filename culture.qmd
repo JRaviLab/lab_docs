@@ -124,11 +124,27 @@ Diversity, accessibility
 -   Communication within the group \| [Slack](https://jravilab.slack.com "JRaviLab Slack Workspace") \| In-person/Zoom co-work
 
 ### Remote work & working hours
+At a very broad level, the more time you put into your work, the more you’ll get accomplished. However, this is also an obvious oversimplification. Some people prefer a typical 9-5, others thrive with a 10 hour/4 day workweek, and others still find their productivity falls off after 6 hours of work. Adding to this, our work can often be asynchronous, and working remotely can be integrated into a routine as well.
+
+Generally speaking, if you are meeting milestones, participating in project and group discussions, and comfortable with your work-life balance in our lab, the details of your work schedule are flexible. For a diverse group, a schedule that accommodates everyone necessarily requires compromise. Your exact schedule will come down to your role in the lab, your preferences, and the group’s availability. There are some basic rules and tenants to be aware of.
+
+### Hours
+
+For full time members (e.g., PRAs, postdocs, grads), expect to put in 30-40 hours of work per week on average. 
+
+For part time members (e.g., undergraduates during the semester, interns, and other volunteers), you might be in the range of 10-30 hours a week typically.
+
+These ranges are estimates, and they will vary between people and over time. We never want to find ourselves in crunch, but deadlines sometimes do pile up and some weeks may require more hours. At the same time, some weeks will be lighter, breaks are encouraged, and working to the clock or overtime should not be glorified either.
+
+[Presenteeism](https://pubmed.ncbi.nlm.nih.gov/15559575/) isn’t a healthy mindset, and health and productivity ranks ahead (in that order!) of simply being present. 
+
 -   [Working remotely](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU Remote Work Agreement](https://app.smartsheet.com/b/form/f5c5dd3f01dc4eefb3711a4fce6955fe "CU Anschutz Remote Work Agreement")
 
 ### Leave policy
 
-*Links and details to follow.*
+-   For staff: The University of Colorado's [leave policies are available here](https://www.cu.edu/employee-services/leave-policies).
+-   For graduate students: Details may vary per your specific graduate program's handbook, but [the Graduate School offers basic guidelines here](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2). 
+-   Because our group is tightly collaborative, please plan non-sick leave ahead of time to best fit all schedules when possible.
 
 
 ## Publication, Authorship, & Research Ethics
