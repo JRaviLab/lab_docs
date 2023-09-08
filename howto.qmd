@@ -22,6 +22,22 @@ A couple of helpful GitHub repositories - <https://github.com/jananiravi/worksho
     -   [Getting Started with Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r)
     -   ... and more \| explore by topic, duration, skill-level
 
+## Helpful Links to learn more about Machine Learning
+
+-   Youtube Videos
+    -   [Machine Learning from Scratch by AssemblyAI] (https://www.youtube.com/watch?v=p1hGz0w_OCo&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
+    -   [MIT Deep Learning Course] (http://introtodeeplearning.com/)
+    -   [Deep Learning by Assembly AI] (https://www.youtube.com/watch?v=dccdadl90vs&list=PLcWfeUsAys2nPgh-gYRlexc6xvscdvHqX)
+    -   [Understanding Tensors by Dan Fleisch] (https://www.youtube.com/watch?v=f5liqUk0ZTw) 
+    -   [Understanding Neural Networks] (https://www.youtube.com/watch?v=aircAruvnKk)
+    -   [Basic Computer Parts Explained] (https://www.youtube.com/watch?v=ExxFxD4OSZ0)
+
+-   Articles: 
+    -   [Transformers] (http://jalammar.github.io/illustrated-transformer/)
+
+-   Coding Practice Sites
+    -   [LeetCode] (https://leetcode.com/)
+
 📌 Go-to books (also in pinned posts on Slack)
 
 -   [R for Data Science](https://r4ds.had.co.nz/) (for tidyverse and such)
