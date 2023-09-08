@@ -47,7 +47,24 @@ As a postdoctoral researcher, you wear many hats in addition to those of more ju
 ## Short-term interns/Visiting scientists
 
 
-### Code of conduct
+## Code of conduct
+### Overview:
+There is zero tolerance for harassment or discrimination in the Ravi Lab and at the University of Colorado. These are forms of abuse, and they create a workplace environment that can leave people feeling unsafe and unwelcome. Members of the Ravi Lab come from many different backgrounds, and this diversity is one of our greatest strengths. 
+
+While this is not exhaustive, examples of unacceptable behaviors include harassment, discrimination, or other unwanted behaviors, verbal or physical, that make others uncomfortable, both at and outside work. This applies to conduct in public or on social media, not just at the job. Protected categories include but are not limited to gender identity and sexuality, physical appearance, size, weight, and disability (of all types), race, ethnic group, age, and religion. These topics are covered in part by the required training modules you will take after employment at the University of Colorado. 
+
+You can review the policies from the Office of Equity’s Discrimination and Harassment page [here](https://www.ucdenver.edu/offices/equity/university-policies-procedures/discrimination-and-harassment), and from the Anschutz Medical Campus’ office of Diversity, Equity, Inclusion and Community Engagement [here](https://www.cuanschutz.edu/offices/diversity-equity-inclusion-community/resources/policies). 
+
+We recognize that because of our diverse backgrounds, our experiences with what conduct is considered appropriate may vary, and similarly, no-one should feel afraid to be themselves out of fear of violating an unspoken rule. Instead, it is our collective responsibility to educate each other. If we see or hear conduct that is inappropriate, whether it is targeted at us or other individuals or groups, each of us must commit to calling that behavior out. A joke in poor taste alone won’t get anyone terminated, but a pattern of misconduct despite being told it is inappropriate, arguing back or justification of misconduct when asked to avoid such behaviors, or severe misconduct are grounds for discipline. 
+
+If you are unsure what constitutes acceptable behavior and where the line is drawn, talk to us! These rules are important, but they are also a socially determined set of boundaries – they are not universally known and universally evident, and it is our collective responsibility to help each other understand what the boundaries are and how to steer safely clear of them. Similarly, if you feel like a comment or behavior might be inappropriate, you do not need to have a justification for feeling upset, you do not need to seek second opinions from others, and you do not need to observe the behavior repeatedly for it to be a problem – all of our individual boundaries, personalities, and histories are what define the rules, and your voice is important. You should always feel comfortable speaking up, especially if you are a lone voice!
+
+If you observe or are the recipient of discrimination, sexual misconduct, or harassment, reports should be made to the Office of Equity. [You can read about this process here]( https://www.ucdenver.edu/offices/equity/resolutions/make-a-report). Depending on your classification, [you may be a mandatory reporter of misconduct](https://www.ucdenver.edu/offices/equity/resolutions/who-is-required-to-report), meaning you must report any such misconduct you observe.
+
+## Professional Conduct:
+Details on responsible science, authorship, and the expectations of your role are found throughout this document. Generally speaking, as a member of the Ravi Lab, you are a professional researcher, and you can and should take pride in this. We are better for your membership! With this role comes certain responsibilities that go beyond the code of conduct overview mentioned above. Remember that your behaviors represent the lab, all of our research, and even Anschutz and the University of Colorado at large. Treat our fellow scientists in other labs and the general public with respect and understanding, try to avoid being drawn into public arguments on social media (nobody wins these), always be open to learning and re-learning, and do not let ego cloud judgement. Academia has its problems, and even if the opportunity presents itself, we should not seek to use or diminish others merely to climb a career ladder. 
+
+As a group, our success and reputation, and the quality of our science and its positive impacts on society all depend on our lab having a sense of social cohesion and [psychological safety]( https://www.hbs.edu/recruiting/insights-and-advice/blog/post/how-to-create-a-psychologically-safe-workplace). This goal is aspirational and does not materialize automatically, but with our collective efforts and daily upkeep, is very attainable. 
 
 
 ### Health and wellness
