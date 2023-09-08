@@ -21,23 +21,29 @@ If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
 
 #### Ph.D. Students
 
+As a Ph.D. student, you're expected to ... 
 - Strive to be independent and creative.
 - Be willing to learn new things and be open-minded to new ideas.
-- Engage in lab activities.
+- Actively engage in lab, department, and program activities.
 - Attend all required meetings specific to your project, one-on-one and group meetings. All others will be optional. We encourage you to join optional meetings so you have a general understanding of the other projects.
 - Interact professionally with all your peers and everyone on the floor. 
-- Establish clear deadlines/ academic plans, e.g., comprehensive exam, defense. 
+- Establish clear deadlines/ academic plans, e.g., comprehensive exam, defense. If the plan is to graduate within 5 years, the comprehensive exam should be completed by the end of your third year. 
 - Mentor junior students by giving primers, helping them troubleshoot anything related to their projects, helping them contact the correct individuals when you can't help them, and answering their questions.
 - Have a clear understanding of concepts related to your research project.
 - Keep up with the literature and have a sound reading system.
+- Set aside 3-4 hours productive slots on days without classes for (i) writing code, (ii) writing papers, and (iii) generate results. 
 - Have good time management skills. Ensure you have an efficient work-life balance to maintain physical and mental health.
-- Reproducibility
 - Writing clean and well-documented code.
+- Do code review or request review(s) from other lab members at a proper frequency e.g., once a month.
+- Keep applying for internal/external funding opportunities (good practice for scientific writing).
+- Contribute to grant proposal writing with the PI such as proposing new ideas and generating preliminary results. 
+- [Side projects] Learn more about other projects in the lab and make meaningful contributions to them.
+
 
 *Communication Roles*
 - Communicate well with the PI(s) on research, academic progress, and other professional development goals.
 - Maintain a good frequency of one-on-one meetings, especially if you work with multiple PIs. Do your best to keep both PIs on the same page.
-- Interpersonal communications
+- Have good/proper interpersonal communications with everyone.
 - Come prepared for all the meetings by noting what questions you have, your future steps, or the results you want to present.
 
 *Science communication Roles*
