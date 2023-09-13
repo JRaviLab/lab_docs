@@ -12,7 +12,36 @@ Good luck & welcome aboard! 🎉
 -   [Health, wellness](https://jravilab.github.io/lab_docs/resources.html#health-and-wellness), safety
 -   Diversity, accessibility
 
-We value believe in investing in and nurturing scientists as much as the science. We pride ourselves on providing a safe and inclusive space for people across intersectionalities. We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development. We are passionate about finding ways to increase diversity and retention in STEM and quantitative sciences. If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
+We believe in investing in and nurturing scientists as much as the science. We pride ourselves on providing a safe and inclusive space for people across intersectionalities. We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development. We are passionate about increasing diversity and retention in STEM and quantitative sciences. If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
+
+#### Work hours
+-   Undergraduate and Masters Students can only work 20-25 hours a week during the Fall and Spring semesters.  
+-   Undergraduate and Masters Students can work 30-40 hours a week during the Summer.
+-   If you are a student, please schedule your work hours around classes and work at least 20 hours a week. This minimum ensures you make the most of your time here to gain experience, attend meetings, and interact with your peers.
+
+For any student-employee-related questions, please refer to the University of Colorado Denver [student hourly employment handbook](https://www.ucdenver.edu/docs/librariesprovider41/student-employment/student_hourly_employment_handbook.pdf?sfvrsn=8e3963ba_6)  or the [student employment website](https://www.ucdenver.edu/lynxconnect/career-center/student-employment). 
+
+Both handbooks define the student employment rules for the Denver and Anschutz Medical Campus. 
+
+#### Time Off
+
+Always be a happy researcher! To be a happy researcher means you need a good balance between work and time off. We encourage you to take time off when needed, but there are a few things to remember.
+
+-   Mark your time off on the lab calendar and notify your PI and coworkers in advance. 
+
+-   Let others know if you miss any meetings during your time off.
+Please do your best to plan your work accordingly when known vacation times are approaching. Don't leave too much undone before going on vacation because you may have too much to do when you return, which can cause stress. 
+
+-   Also, leave good notes on what you were working on and what you must do when you return. Sometimes, when you are gone for too long, remembering where you left off can be hard, so having these notes can help you get back on track.
+
+-  Studies have shown not having a sustainable work-life balance can lead to difficulties in maintaining an efficient, productive, and healthy research experience. Therefore, it is essential to maintain a healthy work-life balance to ensure the best and most productive research experience.[(Bartlett et al., 2021)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009124)
+
+-   Be respectful of your labmates and avoid sending them messages when they are on vacation. If you are working closely with them on a project or need their help, notify them of any deadlines that may overlap with their vacation. This way meetings can be determined before your labmate leaves for vacation.
+
+-   If you receive work-related messages during vacation, you are not obligated to answer them unless they are critical. If the message is urgent (esp. something you've committed to prior to your vacation), please do your best to answer them as soon as possible. 
+
+For more information on time off regulations, refer to the [Student Employment Handbook](https://www.ucdenver.edu/docs/librariesprovider41/student-employment/student_hourly_employment_handbook.pdf?sfvrsn=8e3963ba_6) for Undergraduate and Masters Students
+For Ph.D. Students refer to the [Graduate School Policy for Vacation and Leave](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2)
 
 *Links and details to follow.*
 
