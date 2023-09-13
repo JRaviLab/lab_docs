@@ -27,6 +27,85 @@ As a postdoctoral researcher, you wear many hats in addition to those of more ju
 
 ## Graduate students
 
+#### Ph.D. Students
+
+As a Ph.D. student, you're expected to ... 
+- Strive to be independent and creative.
+- Be willing to learn new things and be open-minded to new ideas.
+- Actively engage in lab, department, and program activities.
+- Attend all required meetings specific to your project, one-on-one and group meetings. All others will be optional. We encourage you to join optional meetings so you have a general understanding of the other projects.
+- Interact professionally with all your peers and everyone on the floor. 
+- Establish clear deadlines/ academic plans, e.g., comprehensive exam, defense. If the plan is to graduate within 5 years, the comprehensive exam should be completed by the end of your third year. 
+- Mentor junior students by giving primers, helping them troubleshoot anything related to their projects, helping them contact the correct individuals when you can't help them, and answering their questions.
+- Have a clear understanding of concepts related to your research project.
+- Keep up with the literature and have a sound reading system.
+- Set aside 3-4 hours productive slots on days without classes for (i) writing code, (ii) writing papers, and (iii) generate results. 
+- Have good time management skills. Ensure you have an efficient work-life balance to maintain physical and mental health.
+- Writing clean and well-documented code.
+- Do code review or request review(s) from other lab members at a proper frequency e.g., once a month.
+- Keep applying for internal/external funding opportunities (good practice for scientific writing).
+- Contribute to grant proposal writing with the PI such as proposing new ideas and generating preliminary results. 
+- [Side projects] Learn more about other projects in the lab and make meaningful contributions to them.
+
+
+*Communication Roles*
+- Communicate well with the PI(s) on research, academic progress, and other professional development goals.
+- Maintain a good frequency of one-on-one meetings, especially if you work with multiple PIs. Do your best to keep both PIs on the same page.
+- Have good/proper interpersonal communications with everyone.
+- Come prepared for all the meetings by noting what questions you have, your future steps, or the results you want to present.
+
+*Science communication Roles*
+- Formal/semi-formal scientific writing, e.g., abstracts, manuscripts, blog posts
+- Give oral presentations in different settings, e.g., group meetings, posters, talks, research updates, and journal club meetings.
+- Keep well-organized meeting notes.
+- Check emails and Outlook lab calendar daily.
+- Look out for opportunities that Janani often posts in the lab Slack, the DBMI Slack, or email. Opportunities to look out for are but are not limited to funding, poster events, presentation, conferences, seminars, and courses. 
+
+*Semester planning* 
+- Set goals for professional and personal development. Below is a general list of what semester planning entails. 
+  1. Academic planning: required/elective courses  
+  2. Take on leadership roles through mentoring or presenting.
+  3. Attending seminars and conferences
+  4. Volunteering
+  5. Set recurring meetings with the PI(s) and attending project meetings.
+
+#### Master's Students
+
+- Strive to be independent and creative.
+- Be willing to learn new things and be open-minded to new ideas.
+- Engage in lab activities.
+- Attend all required meetings specific to your project, one-on-one and group meetings. All others will be optional. We encourage you to join optional meetings so you have a general understanding of the other projects.
+- Interact professionally with all your peers and everyone on the floor. 
+- Establish clear deadlines/academic plans. Some tasks with deadlines are but are not limited to thesis, internship presentations/reports, poster abstracts, and primer presentations. 
+- Be a team player by helping to mentor junior students by giving primers, helping them troubleshoot anything related to their projects, helping them contact the correct individuals when you can't help them, and answering their questions.
+- Commit your work often to Github.
+- Work often on developing your computational skills and learning how to apply biological concepts to computational problems.
+- Writing clean and well-documented code.
+- Have a clear understanding of concepts related to your research project.
+- Have good time management skills. Ensure you have an efficient work-life balance to maintain physical and mental health.
+- Your work must be reproducible, so abide by rules to ensure reproducibility. The following link will take you to the [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285). This short paper will give you an insight into some rules you can follow to help maintain reproducibility when doing computational research.
+
+*Communication Roles*
+- Communicate well with the PI(s) on research, academic progress, and other professional development goals.
+- Maintain a good frequency of one-on-one meetings, especially if you work with multiple PIs. Do your best to keep both PIs on the same page.
+- Setting recurring meetings with the PI(s) and attending project meetings.
+- Come prepared for all the meetings by noting what questions you have, your future steps, or the results you want to present.
+
+*Scientific Communication Roles*
+- Practice your scientific writing, including but not limited to writing abstracts and sections of manuscripts.
+- Give oral presentations in different settings. These presentations can occur in group meetings, posters, talks, research updates, and journal club meetings.
+- Keep well-organized meeting notes.
+- Check emails and Outlook lab calendar daily.
+- Look out for opportunities that Janani often posts in the lab Slack, the DBMI Slack, or email. Opportunities to look out for are but are not limited to funding, poster events, presentation, seminars, conferences, and courses. 
+
+*Semester planning* 
+- Set goals for professional and personal development. Below is a general list of what to include in your semester planning. 
+  1. Academic planning; deciding what required/elective courses to take each semester.
+  2. Taking on leadership roles through mentoring or presenting opportunities.
+  3. Attending seminars and conferences.
+  4. Read a journal article related to your project or any other of the lab's projects at least once a week.
+
+
 
 ## Research associates (research professionals/PRAs)
 - Lead individual projects and support other lab members' projects collaboratively, and contribute to new ideas and research directions.
@@ -69,11 +148,28 @@ Diversity, accessibility
 - Communication within the group \| [Slack](https://jravilab.slack.com "JRaviLab Slack Workspace") \| In-person/Zoom co-work
 
 ### Remote work & working hours
+At a very broad level, the more time you put into your work, the more you’ll get accomplished. However, this is also an obvious oversimplification. Some people prefer a typical 9-5, others thrive with a 10 hour/4 day workweek, and others still find their productivity falls off after 6 hours of work. Adding to this, our work can often be asynchronous, and working remotely can be integrated into a routine as well.
+
+Generally speaking, if you are meeting milestones, participating in project and group discussions, and comfortable with your work-life balance in our lab, the details of your work schedule are flexible. For a diverse group, a schedule that accommodates everyone necessarily requires compromise. Your exact schedule will come down to your role in the lab, your preferences, and the group’s availability. There are some basic rules and tenants to be aware of.
+
+### Hours
+
+For full time members (e.g., PRAs, postdocs, grads), expect to put in 30-40 hours of work per week on average. 
+
+For part time members (e.g., undergraduates during the semester, interns, and other volunteers), you might be in the range of 10-30 hours a week typically.
+
+These ranges are estimates, and they will vary between people and over time. We never want to find ourselves in crunch, but deadlines sometimes do pile up and some weeks may require more hours. At the same time, some weeks will be lighter, breaks are encouraged, and working to the clock or overtime should not be glorified either.
+
+[Presenteeism](https://pubmed.ncbi.nlm.nih.gov/15559575/) isn’t a healthy mindset, and health and productivity ranks ahead (in that order!) of simply being present. 
+
 - [Working remotely](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU Remote Work Agreement](https://app.smartsheet.com/b/form/d1dae0d3ba83403f8d5525213f8968d6 "CU Anschutz Remote Work Agreement")
+
 
 ### Leave policy
 
-*Links and details to follow.*
+-   For staff: The University of Colorado's [leave policies are available here](https://www.cu.edu/employee-services/leave-policies).
+-   For graduate students: Details may vary per your specific graduate program's handbook, but [the Graduate School offers basic guidelines here](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2). 
+-   Because our group is tightly collaborative, please plan non-sick leave ahead of time to best fit all schedules when possible.
 
 ## Publication, Authorship & Research Misconduct
 ### Publishing
