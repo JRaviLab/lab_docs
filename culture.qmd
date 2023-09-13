@@ -1,0 +1,193 @@
+# Lab culture
+
+## Mission, Expectations, Conduct, Support
+### Mission
+We value and believe in investing in and nurturing scientists as much as the science.
+We pride ourselves on providing a safe and inclusive space for people across intersectionalities.
+We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development.
+We are passionate about finding ways to increase diversity and retention in STEM and quantitative sciences.
+If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
+
+### Roles and expectations
+## PI
+
+### Mentoring philosophy
+
+
+## Postdocs
+As a postdoctoral researcher, you wear many hats in addition to those of more junior scientists in the lab.
+
+-   A postdoctoral position is a training opportunity -- you are here to learn new skills and expand your scientific boundaries. You are not expected to know everything, but you should be comfortable (and preferably excited!) throwing yourself into new problems and solving them.
+-   You are also here to help others learn. Postdocs have considerable experience in many aspects typically involving academia, research, and more. That experience can be very helpful for scientists who are earlier in their own careers. Contribute generously where you can, and make yourself available for ohers in the group. A rising tide lifts all boats.
+-   You may work on a number of existing projects across the lab, either leading them or helping each team navigate research obstacles. Postdocs have already had experience troubleshooting their way through their work in the past, and are expected to be able to leverage that experience by operating more independently. Some projects you work on might be new and higher risk, and some might be stalled and in need of a fresh perspective.
+-   In addition, postdocs are strongly encouraged to pursue their own independent research interests along paths related to the work we do. For projects that succeed, they should have "future directions" that a postdoc can take forward into their own, independent careers in the future.
+-   Grant writing is a crucial aspect of a postdoc's job. It both funds your position and your research where possible, and most critically, gives you practice and experience seeking and applying for funding opportunities needed for launching into independent faculty positions.
+-   Communicating science is extremely important, be it through manuscripts, conference presentations, or workshops. Expect to keep busy presenting the work you do to others, and use the experience to get your name out there and network!
+-   Finding your next step is the ultimate goal of your position. For all the roles you have, they should help focus your skillset, your CV, and open future opportunties for you to move onwards and upwards towards where you want to end up in life.  
+
+## Graduate students
+
+#### Ph.D. Students
+
+As a Ph.D. student, you're expected to ... 
+- Strive to be independent and creative.
+- Be willing to learn new things and be open-minded to new ideas.
+- Actively engage in lab, department, and program activities.
+- Attend all required meetings specific to your project, one-on-one and group meetings. All others will be optional. We encourage you to join optional meetings so you have a general understanding of the other projects.
+- Interact professionally with all your peers and everyone on the floor. 
+- Establish clear deadlines/ academic plans, e.g., comprehensive exam, defense. If the plan is to graduate within 5 years, the comprehensive exam should be completed by the end of your third year. 
+- Mentor junior students by giving primers, helping them troubleshoot anything related to their projects, helping them contact the correct individuals when you can't help them, and answering their questions.
+- Have a clear understanding of concepts related to your research project.
+- Keep up with the literature and have a sound reading system.
+- Set aside 3-4 hours productive slots on days without classes for (i) writing code, (ii) writing papers, and (iii) generate results. 
+- Have good time management skills. Ensure you have an efficient work-life balance to maintain physical and mental health.
+- Writing clean and well-documented code.
+- Do code review or request review(s) from other lab members at a proper frequency e.g., once a month.
+- Keep applying for internal/external funding opportunities (good practice for scientific writing).
+- Contribute to grant proposal writing with the PI such as proposing new ideas and generating preliminary results. 
+- [Side projects] Learn more about other projects in the lab and make meaningful contributions to them.
+
+
+*Communication Roles*
+- Communicate well with the PI(s) on research, academic progress, and other professional development goals.
+- Maintain a good frequency of one-on-one meetings, especially if you work with multiple PIs. Do your best to keep both PIs on the same page.
+- Have good/proper interpersonal communications with everyone.
+- Come prepared for all the meetings by noting what questions you have, your future steps, or the results you want to present.
+
+*Science communication Roles*
+- Formal/semi-formal scientific writing, e.g., abstracts, manuscripts, blog posts
+- Give oral presentations in different settings, e.g., group meetings, posters, talks, research updates, and journal club meetings.
+- Keep well-organized meeting notes.
+- Check emails and Outlook lab calendar daily.
+- Look out for opportunities that Janani often posts in the lab Slack, the DBMI Slack, or email. Opportunities to look out for are but are not limited to funding, poster events, presentation, conferences, seminars, and courses. 
+
+*Semester planning* 
+- Set goals for professional and personal development. Below is a general list of what semester planning entails. 
+  1. Academic planning: required/elective courses  
+  2. Take on leadership roles through mentoring or presenting.
+  3. Attending seminars and conferences
+  4. Volunteering
+  5. Set recurring meetings with the PI(s) and attending project meetings.
+
+#### Master's Students
+
+- Strive to be independent and creative.
+- Be willing to learn new things and be open-minded to new ideas.
+- Engage in lab activities.
+- Attend all required meetings specific to your project, one-on-one and group meetings. All others will be optional. We encourage you to join optional meetings so you have a general understanding of the other projects.
+- Interact professionally with all your peers and everyone on the floor. 
+- Establish clear deadlines/academic plans. Some tasks with deadlines are but are not limited to thesis, internship presentations/reports, poster abstracts, and primer presentations. 
+- Be a team player by helping to mentor junior students by giving primers, helping them troubleshoot anything related to their projects, helping them contact the correct individuals when you can't help them, and answering their questions.
+- Commit your work often to Github.
+- Work often on developing your computational skills and learning how to apply biological concepts to computational problems.
+- Writing clean and well-documented code.
+- Have a clear understanding of concepts related to your research project.
+- Have good time management skills. Ensure you have an efficient work-life balance to maintain physical and mental health.
+- Your work must be reproducible, so abide by rules to ensure reproducibility. The following link will take you to the [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285). This short paper will give you an insight into some rules you can follow to help maintain reproducibility when doing computational research.
+
+*Communication Roles*
+- Communicate well with the PI(s) on research, academic progress, and other professional development goals.
+- Maintain a good frequency of one-on-one meetings, especially if you work with multiple PIs. Do your best to keep both PIs on the same page.
+- Setting recurring meetings with the PI(s) and attending project meetings.
+- Come prepared for all the meetings by noting what questions you have, your future steps, or the results you want to present.
+
+*Scientific Communication Roles*
+- Practice your scientific writing, including but not limited to writing abstracts and sections of manuscripts.
+- Give oral presentations in different settings. These presentations can occur in group meetings, posters, talks, research updates, and journal club meetings.
+- Keep well-organized meeting notes.
+- Check emails and Outlook lab calendar daily.
+- Look out for opportunities that Janani often posts in the lab Slack, the DBMI Slack, or email. Opportunities to look out for are but are not limited to funding, poster events, presentation, seminars, conferences, and courses. 
+
+*Semester planning* 
+- Set goals for professional and personal development. Below is a general list of what to include in your semester planning. 
+  1. Academic planning; deciding what required/elective courses to take each semester.
+  2. Taking on leadership roles through mentoring or presenting opportunities.
+  3. Attending seminars and conferences.
+  4. Read a journal article related to your project or any other of the lab's projects at least once a week.
+
+
+
+## Research associates (research professionals/PRAs)
+- Lead individual projects and support other lab members' projects collaboratively, and contribute to new ideas and research directions.
+- Perform scientifically rigorous data management and bioinformatic analyses.
+-	Develop and disseminate a variety of tools designed to access relevant experimental and clinical data.
+-	Develop and implement complex analyses pipelines, modular functional programming, and data visualization techniques (e.g., for multi-layered -omics datasets)
+-	Creatively and effectively integrate data from multiple sources to accelerate discoveries;	Write custom scripts to access databases and analyze data.
+-	Assist with the design and development of major bioinformatics-related programming projects
+-	Write custom web tools and R/Py packages for the group and the larger scientific/technical community.
+- Present research/technical updates periodically, host journal-clubs, workshops and tutorials, and attend all group and project meetings.
+- The supportive role can overlap with the project-related scientific tasks, or other technical and software-development tasks like code review and any assistance with coding/environment/installation issues.
+- It is in the best and mutual interest of PRAs and the lab to hone and develop scientific, technical, and personnel/leadership skills that will benefit all involved parties, especially the PRAs' professional and career development.
+- Work with the PI to make short- and long-term research, professional, and career plans to stay on track towards your next steps.
+
+## Undergraduates
+
+
+## Short-term interns/Visiting scientists
+
+
+### Code of conduct
+
+
+### Health and wellness
+[Health, wellness](https://jravilab.github.io/lab_docs/resources.html#health-and-wellness), safety
+
+### Inclusive and safe space
+Diversity, accessibility
+[currently, also part of the mission, but explicit pointers can go here]
+
+*Links and details to follow.*
+
+## Lab Proceedings
+### Meetings and formats
+[More details here]()
+- Research update presentations
+- Giving & receiving constructive feedback
+
+### Communication
+- Communication within the group \| [Slack](https://jravilab.slack.com "JRaviLab Slack Workspace") \| In-person/Zoom co-work
+
+### Remote work & working hours
+At a very broad level, the more time you put into your work, the more you’ll get accomplished. However, this is also an obvious oversimplification. Some people prefer a typical 9-5, others thrive with a 10 hour/4 day workweek, and others still find their productivity falls off after 6 hours of work. Adding to this, our work can often be asynchronous, and working remotely can be integrated into a routine as well.
+
+Generally speaking, if you are meeting milestones, participating in project and group discussions, and comfortable with your work-life balance in our lab, the details of your work schedule are flexible. For a diverse group, a schedule that accommodates everyone necessarily requires compromise. Your exact schedule will come down to your role in the lab, your preferences, and the group’s availability. There are some basic rules and tenants to be aware of.
+
+### Hours
+
+For full time members (e.g., PRAs, postdocs, grads), expect to put in 30-40 hours of work per week on average. 
+
+For part time members (e.g., undergraduates during the semester, interns, and other volunteers), you might be in the range of 10-30 hours a week typically.
+
+These ranges are estimates, and they will vary between people and over time. We never want to find ourselves in crunch, but deadlines sometimes do pile up and some weeks may require more hours. At the same time, some weeks will be lighter, breaks are encouraged, and working to the clock or overtime should not be glorified either.
+
+[Presenteeism](https://pubmed.ncbi.nlm.nih.gov/15559575/) isn’t a healthy mindset, and health and productivity ranks ahead (in that order!) of simply being present. 
+
+- [Working remotely](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU Remote Work Agreement](https://app.smartsheet.com/b/form/d1dae0d3ba83403f8d5525213f8968d6 "CU Anschutz Remote Work Agreement")
+
+
+### Leave policy
+
+-   For staff: The University of Colorado's [leave policies are available here](https://www.cu.edu/employee-services/leave-policies).
+-   For graduate students: Details may vary per your specific graduate program's handbook, but [the Graduate School offers basic guidelines here](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2). 
+-   Because our group is tightly collaborative, please plan non-sick leave ahead of time to best fit all schedules when possible.
+
+## Publication, Authorship & Research Misconduct
+### Publishing
+
+To quote the Foreign Secretary of the Royal Society, Dr. Mark Walport, ["Science isn't finished until it's communicated."](https://www.climatechangenews.com/2013/10/03/science-is-not-finished-until-its-communicated-uk-chief-scientist/) If work isn't documented, written up, peer-reviewed, and made publicly available, it's no different than if the work hadn't been performed in the first place. For our group, that might involve writing clearly commented, clean code, submitting it for code reviews, and sharing it through GitHub, or it could involve writing a manuscript and submitting it to scientific journals. In any case, it is imperative to work towards sharing [reproducible, repeatable, and replicable science.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5778115/)
+
+### Authorship
+
+It's often said that publications and citations are the [currency of science](https://socialsciences.nature.com/posts/54635-publication-a-universal-currency-in-academia). How does one become an author on a paper? What even is a paper? When is a project ready to publish? Many of these questions are best answered through conversations with peers and collaborators, but there are resources available to help provide context.
+
+- A paper, a publication, a manuscript, or whatever you might hear it called is a formal write-up of a scientific project. It typically follows a format referred to as [IMRAD](https://en.wikipedia.org/wiki/IMRAD) for Introduction, Methods, Results, and Discussion. These refer to the order of [sections of the paper](https://ori.hhs.gov/content/Chapter-9-Authorship-and-Publication-Responsible-publication), which roughly presents the introduction to the problem or knowledge gap, the methodological approach or techniques the authors decided to use to address the issue established in the introduction, what the results and data outputs of those methods are, and the interpretation of those findings and how they relate back to the problem established at the start. While the exact formatting varies journal-to-journal, this structure generally captures [how scientific results are written and reported.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC442179/)
+
+- Having your name on a paper's author list typically requires a [substantial intellectual contribution.](https://ori.hhs.gov/content/Chapter-9-Authorship-and-Publication-Authorship) Without your work, the story in the manuscript would not have been complete. Typically, the position of the authors in the list reflects the amount of credit they deserve for the work done, and the PI(s) who oversaw the project receive(s) the last author position(s) to signify that it was their lab(s) who performed the work. Many people make minor contributions that do not make the cut for the author list, and they may earn a space in an Acknowledgements section. Discussions about project responsibilities and the positions contributors will earn on a manuscript should happen early and often. The details of this vary from field to field and lab to lab, but a good overview can be found [in this article, interviewing many different scientists across disciplines.](https://www.science.org/content/article/how-navigate-authorship-scientific-manuscripts).
+
+- What kinds of contributions are important? Researchers have asked this question enough times to lead to the creation of a framework called [CRediT](https://credit.niso.org/) for Contributor Roles Taxonomy. While this isn't the final say on what types of contributions there can be on a manuscript, many journals have adopted the CRediT system to specifically assign which authors contributed in what ways in a paper, so it's definitely worth a look. 
+
+- What does it mean if you're an author? No matter your position in the author list, it means you are literally assigning your name to work performed. Even if you only worked on one small part of the analysis, you must be familiar with all aspects of the paper. Your authorship is a statement that you vouch for the content, the methods, and the conclusions made in the paper. While honest mistakes do happen and can slip through to publication, all authors should do their best to ensure everything was conducted to the highest standards for scientific rigor. Mistakes that significantly change the interpretation or outcome of an experiment, or worse, intentionally misleading or fraudulent data, can seriously affect or even end scientific careers for authors on erroneous papers. Authorship should be taken seriously because contributing to the larger body of scientific knowledge can and does have real impacts on the world and lives in it. 
+
+### Research Misconduct
+
+- If you are concerned about misconduct by fellow scientists, talk to them first! Science is inherently collaborative, and everybody brings a unique perspective -- you may notice something that others have missed, and simply asking about it can course-correct a project. If you don't feel satisfied with the answers, or if a researcher is not acting in good faith, it is your responsibility to [report potential misconduct](https://www.colorado.edu/researchinnovation/rcr/research-misconduct). In cases where you aren't certain but still have concerns, you can speak with a Research Integrity Officer at CU and discuss whether the issue qualifies as misconduct before escalating to a formal report. 
