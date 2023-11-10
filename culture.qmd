@@ -11,8 +11,20 @@ If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
 ### Roles and expectations
 ## PI
 
-### Mentoring Philosophy
+### Mentoring Philosophy | [full_post](https://github.com/JRaviLab/group/blob/main/docs/mentoring_philosophy.md)
+My experiences as a mentee have varied widely: fantastic professors in college inspired me to start a research career; later, a mentor overlooked my whole dissertation work resulting in prolonged authorship discussion. In my postdoctoral lab, I was the sole computational researcher collaborating with a dozen experimental biologists. I seized this invaluable opportunity to restart my academic career from scratch in a different field (i.e., studying microbial diseases), to learn, understand, and speak the language of both experimental and computational biologists, and to bring these worlds together. Collectively, these experiences have shaped my mentoring philosophy.
 
+- _Opening doors and leveling the playing field_ (i.e., not gate-keeping)
+- _Lives bigger than work_
+- _Collaborative mentoring_ (i.e., not top-down advising)
+- _Mentoring is not imprinting_
+
+### Inclusive lab climate | [full_post](https://github.com/JRaviLab/group/blob/main/docs/mentoring_philosophy.md)
+I have mentored 15+ diverse undergraduate and graduate students. Several joined my lab as first-time coders and have co-authored computational papers; five have contributed to submitted manuscripts (see Bibliography). All these students have had positive research experiences, presented at (inter-)national conferences, and won awards/support from national programs, including NIH-funded BRUSH, NSF-funded REU-ACRES, SROP, and NSURP. Several undergraduate trainees have graduated and started advanced studies at prestigious graduate and medical schools or jobs at pharmaceutical/IT companies. Using lessons learned from these experiences, I will focus on the following key areas to ensure an equitable and inclusive lab climate.
+
+- _Recruiting practices_ - e.g., working with the Offices of Inclusion/Diversity, R/Py-Ladies, W+DS, and online groups for minorities in STEM (e.g., Black in Computational Biology, LatinR, AfricaR, AsiaR, ArabR, RainbowR).
+- _Safe space for full participation_ - for people from all intersectionalities, zero tolerance to discriminatory or exclusionary behavior, appropriate pronoun usage, sustain a culture rooted in mutual respect.
+- _Empowering mentees to forge their path_ - e.g., co-developing semester plans, conducting professional development workshops within the lab, creating networking opportunities through local/national/international meetings, and tailoring mentoring strategies to each mentee’s career aspirations.
 
 ## Postdocs
 As a postdoctoral researcher, you wear many hats besides those of more junior scientists in the lab.
