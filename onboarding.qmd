@@ -8,16 +8,14 @@ Good luck & welcome aboard! 🎉
 
 # Mission, Expectations, Conduct, Support
 
--   Mission, expectations, code of conduct
+-   [Mission, expectations, code of conduct](https://jravilab.github.io/lab_docs/culture.html)
 -   [Health, wellness](https://jravilab.github.io/lab_docs/resources.html#health-and-wellness), safety
--   Diversity, accessibility
+-   [Diversity, accessibility](https://jravilab.github.io/lab_docs/culture.html#inclusive-and-safe-space)
 
 We believe in investing in and nurturing scientists as much as the science. We pride ourselves on providing a safe and inclusive space for people across intersectionalities. We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development. We are passionate about increasing diversity and retention in STEM and quantitative sciences. If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
 
 #### Work hours
--   Undergraduate and Masters Students can only work 20-25 hours a week during the Fall and Spring semesters.  
--   Undergraduate and Masters Students can work 30-40 hours a week during the Summer.
--   If you are a student, please schedule your work hours around classes and work at least 20 hours a week. This minimum ensures you make the most of your time here to gain experience, attend meetings, and interact with your peers.
+See the [Hours section here](https://jravilab.github.io/lab_docs/culture.html#hours).
 
 For any student-employee-related questions, please refer to the University of Colorado Denver [student hourly employment handbook](https://www.ucdenver.edu/docs/librariesprovider41/student-employment/student_hourly_employment_handbook.pdf?sfvrsn=8e3963ba_6)  or the [student employment website](https://www.ucdenver.edu/lynxconnect/career-center/student-employment). 
 
@@ -40,77 +38,18 @@ Please do your best to plan your work accordingly when known vacation times are 
 
 -   If you receive work-related messages during vacation, you are not obligated to answer them unless they are critical. If the message is urgent (esp. something you've committed to prior to your vacation), please do your best to answer them as soon as possible. 
 
-For more information on time off regulations, refer to the [Student Employment Handbook](https://www.ucdenver.edu/docs/librariesprovider41/student-employment/student_hourly_employment_handbook.pdf?sfvrsn=8e3963ba_6) for Undergraduate and Masters Students
-For Ph.D. Students refer to the [Graduate School Policy for Vacation and Leave](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2)
-
-*Links and details to follow.*
+For more information on time off regulations, refer to [the Leave policy section here](https://jravilab.github.io/lab_docs/culture.html#leave-policy).
 
 
 # Role-Specific Expectations
-
-## Undergraduates
-
-Welcome to the JRaviLab — we’re excited to have you!
-This may be your first research experience, and we understand that the onboarding process can feel overwhelming.
-Know that everyone is here to support and guide you as you navigate your research journey.
-Chances are, conducting independent research will be much different from your previous academic experiences,
-so we have compiled a list of pointers to help you understand your roles and expectations as an undergraduate researcher.
-
-<details>
-<summary>Roles and expectations for undergrads</summary>
-
--   **Be present.** Attend meetings and bring forth your best effort.
--   **Ask for help.** We encourage you to be proactive; ask questions and provide any updates or ideas to our Slack channels.
--   **Strive for growth.** It will be challenging, but we want you to keep trying and to persist – learning is the main goal, and being receptive and open to constructive feedback is a great way to improve.
--   **Give yourself grace.** You’ve earned a spot in our community, and you belong here. Failure is inevitable with the work we’re doing; your work doesn’t define you or your abilities. We’re all here for you!
--   **Stay organized.** Keeping track of your priorities, tasks, and responsibilities will allow you to monitor your progress and make it easier for others to help you. Time management is essential for pacing yourself to achieve your goals.
--   **Collaborate.** We encourage you to present your work and discuss with others frequently. Learn about the projects your labmates are working on, communicate any troubles or issues before they boil (work-related and not), and keep a positive mental attitude!
--   **Own your research.** This is *your* research process, so be sure that you’re putting forth your best work and that you continue to practice scientific reading and writing.
--   **Take advantage of resources.** There are many avenues for learning in research. Here are a few to get you started:
-    + [JRaviLab: How to X](https://jravilab.github.io/lab_docs/howto.html)
-    + Slack channels
-    + [Stack Overflow](https://stackoverflow.com/)
-    + [NIH NCBI](https://www.ncbi.nlm.nih.gov/pmc/)
-    + Google, [Google Scholar](https://scholar.google.com/)
-    + [ChatGPT](https://chat.openai.com/auth/login)
-</details>
-
-## Research associates (PRAs)
--   
--   
--   
-
-
-## Graduate students
--   
--   
--   
-
-
-## Postdoctoral fellows (Postdocs)
-
-As a postdoctoral researcher, you wear many hats in addition to those of more junior scientists in the lab.
-
--   A postdoctoral position is a training opportunity -- you are here to learn new skills and expand your scientific boundaries. You are not expected to know everything, but you should be comfortable (and preferably excited!) throwing yourself into new problems and solving them.
--   You are also here to help others learn. Postdocs have considerable experience in many aspects typically involving academia, research, and more. That experience can be very helpful for scientists who are earlier in their own careers. Contribute generously where you can, and make yourself available for ohers in the group. A rising tide lifts all boats.
--   You may work on a number of existing projects across the lab, either leading them or helping each team navigate research obstacles. Postdocs have already had experience troubleshooting their way through their work in the past, and are expected to be able to leverage that experience by operating more independently. Some projects you work on might be new and higher risk, and some might be stalled and in need of a fresh perspective.
--   In addition, postdocs are strongly encouraged to pursue their own independent research interests along paths related to the work we do. For projects that succeed, they should have "future directions" that a postdoc can take forward into their own, independent careers in the future.
--   Grant writing is a crucial aspect of a postdoc's job. It both funds your position and your research where possible, and most critically, gives you practice and experience seeking and applying for funding opportunities needed for launching into independent faculty positions.
--   Communicating science is extremely important, be it through manuscripts, conference presentations, or workshops. Expect to keep busy presenting the work you do to others, and use the experience to get your name out there and network!
--   Finding your next step is the ultimate goal of your position. For all the roles you have, they should help focus your skillset, your CV, and open future opportunties for you to move onwards and upwards towards where you want to end up in life.  
-
-## Principal Investigator (PI)
-
-
+Details on expectations per-role can be found here in [the Roles and expectations section](https://jravilab.github.io/lab_docs/culture.html#roles-and-expectations), but if you have any questions, feel free to talk to any of us!
 
 # Lab Proceedings
 
 -   [Working remotely](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU Remote Work Agreement](https://app.smartsheet.com/b/form/f5c5dd3f01dc4eefb3711a4fce6955fe "CU Anschutz Remote Work Agreement")
 -   Communication within the group \| [Slack](https://jravilab.slack.com "JRaviLab Slack Workspace") \| In-person/Zoom co-work
--   Research update presentations
+-   Research update presentations \| [Meetings](https://jravilab.github.io/lab_docs/culture.html#meetings-and-formats)
 -   Giving & receiving constructive feedback
-
-*Links and details to follow.*
 
 # Slack
 
@@ -138,6 +77,6 @@ If you haven't already, please create a professional GitHub account (e.g., `jana
 
 # Social media
 
-If you have officially joined us as a grad or postdoc, or undergrad for 3/6+ months, you will automatically get added to our [group webpage](https://jravilab.github.io/#people). If not, please check a few sample pages and furnish me with those details -- I can add you there right away. Also, we use Twitter for professional networking & announcements (connecting with the broader scientific/R/technical communities). If you have a Twitter handle, share it with me (DM), or follow #auto-twitter for updates. You can check out/follow a few accounts maintained by us: [JRaviLab](https://twitter.com/jravilab) \| [my handle](https://twitter.com/janani137) \| [RLadies-Aurora](https://twitter.com/rladies-aurora) \| [RLadies-EastLansing](https://twitter.com/rladies-eastlansing) \| [Women+ Data Science](https://twitter.com/womenplusdata) \| [AsiaR](https://twitter.com/AsiaR-comm) \| [ISMB EvolCompGen COSI](https://twitter.com/EvolComp). Thanks to recent *interesting* changes at Twitter, people have been migrating to Mastodon (e.g., [genomic.social](https://genomic.social/explore), [fosstodon](https://fosstodon.org/explore))!
+If you have officially joined us as a grad or postdoc, or undergrad for 3/6+ months, you will automatically get added to our [group webpage](https://jravilab.github.io/#people). If not, please check a few sample pages and furnish me with those details -- I can add you there right away. Also, we use Twitter for professional networking & announcements (connecting with the broader scientific/R/technical communities). If you have a Twitter handle, share it with me (DM), or follow #auto-twitter for updates. You can check out/follow a few accounts maintained by us: [JRaviLab](https://twitter.com/jravilab) \| [my handle](https://twitter.com/janani137) \| [RLadies-Aurora](https://twitter.com/rladies-aurora) \| [RLadies-EastLansing](https://twitter.com/rladies-eastlansing) \| [Women+ Data Science](https://twitter.com/womenplusdata) \| [AsiaR](https://twitter.com/AsiaR-comm) \| [ISMB EvolCompGen COSI](https://twitter.com/EvolComp). Thanks to recent *interesting* changes at Twitter, people have been migrating to Mastodon (e.g., [genomic.social](https://genomic.social/explore), [fosstodon](https://fosstodon.org/explore)) and Bluesky \| [my handle](https://bsky.app/profile/jananiravi.bsky.social)!
 
 If you would like to co-maintain any of these accounts or our webpage, please DM me. I'm always looking for volunteers! :)
