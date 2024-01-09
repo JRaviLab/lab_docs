@@ -13,11 +13,11 @@ If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
 My role as a PI would be to ensure your growth and success as a trainee, and the success of the project. Towards this, I will <br>
 - serve as a sounding board for all your ideas. You will have the freedom to work on your best ideas broadly aligned with the lab's vision and you will always find in me an audience to discuss and brainstorm.
 - help outline and plan your project(s) and design appropriate analyses.
-- check-in with you once a semester as you plan your time, and more regularly to ensure you're on track -- based on the professional, scientifical, and personal goals you've set for yourself.
+- check-in with you once a semester as you plan your time, and more regularly to ensure you're on track -- based on the professional, scientific, and personal goals you've set for yourself.
 - provide resources to develop your research program and technical skills as you plan the next stage of your career (e.g., PRA --> grad school, PhD student --> postdoc/industry, postdoc --> PI/research lead).
 - help you with scientific communication (reading, writing grants and papers, presenting) and provide ample opportunities to engage and network at national meetings.
 - connect you with potential collaborators and mentors for scientific and professional growth and reciprocity. Team science is one of several skills you will learn during your tenure with us -- you will learn to communicate effectively not just with other computational colleagues but with the admin, grants, and scientific writing teams, experimental and clinical collaborators.
-- create a diverse yet inclusive safe space for all intersectionalities in the lab to ensure everyone thrives scientifically, professionally, and personally while respecting and supporting their colleagues.
+- create a diverse and inclusive safe space for all intersectionalities in the lab to ensure everyone thrives scientifically, professionally, and personally while respecting and supporting their colleagues.
 - enable you to pay forward by creating inclusive communities through scientific and technical education and outreach reach opportunities (e.g., R-Ladies, AsiaR, WiSTEM, SACNAS).
 
 ### Mentoring Philosophy | [full_post](https://github.com/JRaviLab/group/blob/main/docs/mentoring_philosophy.md)
@@ -38,13 +38,13 @@ I have mentored 15+ diverse undergraduate and graduate students. Several joined 
 ## Postdocs
 As a postdoctoral researcher, you wear many hats besides those of more junior scientists in the lab.
 
--   A postdoctoral position is a training opportunity -- you are here to learn new skills and expand your scientific boundaries. You are not expected to know everything, but you should be comfortable (and preferably excited!) throwing yourself into new problems and solving them.
--   You are also here to help others learn. Postdocs have considerable experience in many aspects, typically involving academia, research, and more. That experience can be beneficial for scientists who are earlier in their careers. Contribute generously where you can, and make yourself available for others in the group. A rising tide lifts all boats.
--   You may work on several existing projects across the lab -- either leading them or helping each team navigate research obstacles. Postdocs have already had experience troubleshooting their way through their work in the past, and are expected to be able to leverage that experience by operating more independently. Some projects you work on might be new and higher risk, and some might be stalled and in need of a fresh perspective.
--   In addition, postdocs are strongly encouraged to pursue their independent research interests aligned with the group's research interests. For projects that succeed, they should have "future directions" they can take forward into their independent careers in the future.
--   Grant writing is a crucial aspect of a postdoc's job. It funds your position and research where possible and, most critically, gives you practice and experience seeking and applying for funding opportunities needed for launching into independent faculty positions.
--   Communicating science is a fundamental and essential part of this role, be it through manuscripts, conference presentations, or workshops. Expect to keep busy presenting your work at regional and (inter)national platforms, and use the experience to get your name out there and network!
--   Finding your next step is the ultimate goal of your position. For all the roles you have, they should help focus your skillset, CV, and open future opportunities for you to move onwards and upwards towards where you want to end up in life.  
+- A postdoctoral position is a training opportunity -- you are here to learn new skills and expand your scientific boundaries. You are not expected to know everything, but you should be comfortable (and preferably excited!) throwing yourself into new problems and solving them.
+- You are also here to help others learn. Postdocs have considerable experience in many aspects, typically involving academia, research, and more. That experience can be beneficial for scientists who are earlier in their careers. Contribute generously where you can, and make yourself available for others in the group. A rising tide lifts all boats.
+- You may work on several existing projects across the lab -- either leading them or helping each team navigate research obstacles. Postdocs have already had experience troubleshooting their way through their work in the past, and are expected to be able to leverage that experience by operating more independently. Some projects you work on might be new and higher risk, and some might be stalled and in need of a fresh perspective.
+- In addition, postdocs are strongly encouraged to pursue their independent research interests aligned with the group's research interests. For projects that succeed, they should have "future directions" they can take forward into their independent careers in the future.
+- Grant writing is a crucial aspect of a postdoc's job. It funds your position and research where possible and, most critically, gives you practice and experience seeking and applying for funding opportunities needed for launching into independent faculty positions.
+- Communicating science is a fundamental and essential part of this role, be it through manuscripts, conference presentations, or workshops. Expect to keep busy presenting your work at regional and (inter)national platforms, and use the experience to get your name out there and network!
+- Finding your next step is the ultimate goal of your position. For all the roles you have, they should help focus your skillset, CV, and open future opportunities for you to move onwards and upwards towards where you want to end up in life.  
 
 ## Graduate students
 
@@ -56,20 +56,17 @@ As a Ph.D. student, you're expected to ...
 - Actively engage in lab, department, and program activities.
 - Attend all required meetings specific to your project, one-on-one, and group meetings. All others will be optional. We encourage you to join optional meetings, so you have a general understanding of the other projects.
 - Interact professionally with all your peers and everyone on the floor. 
-- Establish clear deadlines/ academic plans, e.g., comprehensive exam, defense. Plan to graduate within 5 years; finishing your comprehensive exam by the end of your third year (end-of-second-year would be preferable and ideal to keep you on track). 
+- Establish clear deadlines/academic plans, e.g., comprehensive exam, defense. Plan to graduate within 5 years; finishing your comprehensive exam by the end of your third year (end-of-second-year would be preferable and ideal to keep you on track). 
 - Mentor junior students by giving primers, helping them troubleshoot anything related to their projects, helping them contact the correct individuals when you can't help them, and answering their questions.
 - Have a clear and deep understanding of concepts related to your research project.
-- Keep up with the literature and have a sound reading system (update your project/group members and PI of your most recent exciting reads via Slack/Jclubs).
+- Keep up with the literature and have a sound reading system (update your project/group members and PI of your most recent exciting reads via Slack/Journal clubs).
 - Set aside 3-4 hours of productive slots on days without classes for (i) writing code, (ii) reading/writing papers, and (iii) generating results. 
-- Inculcate good time management skills. Ensure you have an efficient work-life balance to maintain physical and mental health.
+- Inculcate good time management skills. Ensure you have an efficient work-life balance to nurture your physical and mental health.
 - Writing clean and well-documented code.
 - Do code review or request review(s) from other lab members at a proper frequency e.g., once a month.
 - Keep applying for internal/external funding opportunities (good practice for scientific writing).
 - Contribute to grant proposal writing with the PI by proposing new ideas and generating preliminary results. 
 - [Side projects] Learn more about other projects in the lab and make meaningful contributions to them.
-
-
-*Communication Roles*
 - Communicate well with the PI(s) on research, academic progress, and other professional development goals.
 - Maintain a good frequency of one-on-one meetings, especially when you are co-mentored. Do your best to keep both PIs on the same page.
 - Have good/proper interpersonal communication with everyone.
@@ -105,8 +102,6 @@ As a Ph.D. student, you're expected to ...
 - Have a clear understanding of concepts related to your research project.
 - Have good time management skills. Ensure you have an efficient work-life balance to maintain physical and mental health.
 - Your work must be reproducible; this applies to the methodology, codebase, software, and data you work on. The following link will take you to the [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285). This short paper will give you an insight into some rules you can follow to help maintain reproducibility when doing computational research.
-
-*Communication Roles*
 - Communicate well with the PI(s) on research, academic progress, and other professional development goals.
 - Maintain a good frequency of one-on-one meetings, especially if you work with multiple PIs. Do your best to keep both PIs on the same page.
 - Setting recurring meetings with the PI(s) and attending project meetings.
@@ -133,7 +128,7 @@ As a Ph.D. student, you're expected to ...
 - Perform scientifically rigorous data management and bioinformatic analyses.
 -	Develop and disseminate a variety of tools designed to access relevant experimental and clinical data.
 -	Develop and implement complex analysis pipelines, modular functional programming, and data visualization techniques (e.g., for multi-layered -omics datasets)
--	Creatively and effectively integrate data from multiple sources to accelerate discoveries;	Write custom scripts to access databases and analyze data.
+-	Creatively and effectively integrate data from multiple sources to accelerate discoveries;	write custom scripts to access databases and analyze data.
 -	Assist with the design and development of major bioinformatics-related programming projects
 -	Write custom web tools and R/Py packages for the group and the larger scientific/technical community.
 - Present research/technical updates periodically, host journal clubs, workshops/tutorials, and attend all group and project meetings.
@@ -142,14 +137,14 @@ As a Ph.D. student, you're expected to ...
 - Work with the PI to make short- and long-term research, professional, and career plans to stay on track towards your next steps.
 
 ## Undergraduates (Short-term interns/Visiting scientists)
--   **Be present.** Attend meetings and bring forth your best effort.
--   **Ask for help.** We encourage you to be proactive; ask questions and provide any updates or ideas to our Slack channels.
--   **Strive for growth.** It will be challenging, but we want you to keep trying and persist – learning is the main goal, and being receptive and open to constructive feedback is a great way to improve.
--   **Give yourself grace.** You’ve earned a spot in our community, and you belong here. Failure is inevitable with the work we’re doing; your work doesn’t define you or your abilities. We're all here for you!
--   **Stay organized.** Keeping track of your priorities, tasks, and responsibilities will allow you to monitor your progress and make it easier for others to help you. Time management is essential for pacing yourself to achieve your goals.
--   **Collaborate.** We encourage you to present your work and discuss it with others frequently. Learn about the projects your labmates are working on, communicate any troubles or issues before they boil (work-related and not), and keep a positive mental attitude!
--   **Own your research.** This is *your* research process, so be sure that you’re putting forth your best work and that you continue to practice scientific reading and writing.
--   **Take advantage of resources.** There are many avenues for learning in research. Here are a few to get you started:
+-   __Be present.__ Attend meetings and bring forth your best effort.
+-   __Ask for help.__ We encourage you to be proactive; ask questions and provide any updates or ideas to our Slack channels.
+-   __Strive for growth.__ It will be challenging, but we want you to keep trying and persist – learning is the main goal, and being receptive and open to constructive feedback is a great way to improve.
+-   __Give yourself grace.__ You’ve earned a spot in our community, and you belong here. Failure is inevitable with the work we’re doing; your work doesn’t define you or your abilities. We're all here for you!
+-   __Stay organized.__ Keeping track of your priorities, tasks, and responsibilities will allow you to monitor your progress and make it easier for others to help you. Time management is essential for pacing yourself to achieve your goals.
+-   __Collaborate.__ We encourage you to present your work and discuss it with others frequently. Learn about the projects your labmates are working on, communicate any troubles or issues before they boil over (work-related and not), and keep a positive mental attitude!
+-   __Own your research.__ This is *your* research process, so be sure that you’re putting forth your best work and that you continue to practice scientific reading and writing.
+-   __Take advantage of resources.__ There are many avenues for learning in research. Here are a few to get you started:
     + [JRaviLab: How to X](https://jravilab.github.io/lab_docs/howto.html)
     + Slack channels
     + [Stack Overflow](https://stackoverflow.com/)
@@ -157,8 +152,24 @@ As a Ph.D. student, you're expected to ...
     + Google, [Google Scholar](https://scholar.google.com/)
     + [ChatGPT](https://chat.openai.com/auth/login)
 
-### Code of conduct
+## Code of conduct
+### Overview:
+There is zero tolerance for harassment or discrimination in the Ravi Lab and at the University of Colorado. These are forms of abuse, and they create a workplace environment that can leave people feeling unsafe and unwelcome. Members of the Ravi Lab come from many different backgrounds, and this diversity is one of our greatest strengths. 
 
+While this is not exhaustive, examples of unacceptable behaviors include harassment, discrimination, or other unwanted behaviors, verbal or physical, that make others uncomfortable, both at and outside work. This applies to conduct in public or on social media, not just at the job. Protected categories include but are not limited to gender identity and sexuality, physical appearance, size, weight, and disability (of all types), race, ethnic group, age, and religion. These topics are covered in part by the required training modules you will take after employment at the University of Colorado. 
+
+You can review the policies from the Office of Equity’s Discrimination and Harassment page [here](https://www.ucdenver.edu/offices/equity/university-policies-procedures/discrimination-and-harassment), and from the Anschutz Medical Campus’ office of Diversity, Equity, Inclusion and Community Engagement [here](https://www.cuanschutz.edu/offices/diversity-equity-inclusion-community/resources/policies). 
+
+We recognize that because of our diverse backgrounds, our experiences with what conduct is considered appropriate may vary, and similarly, no-one should feel afraid to be themselves out of fear of violating an unspoken rule. Instead, it is our collective responsibility to educate each other. If we see or hear conduct that is inappropriate, whether it is targeted at us or other individuals or groups, each of us must commit to calling that behavior out. A joke in poor taste alone won’t get anyone terminated, but a pattern of misconduct despite being told it is inappropriate, arguing back or justification of misconduct when asked to avoid such behaviors, or severe misconduct are grounds for discipline. 
+
+If you are unsure what constitutes acceptable behavior and where the line is drawn, talk to us! These rules are important, but they are also a socially determined set of boundaries – they are not universally known and universally evident, and it is our collective responsibility to help each other understand what the boundaries are and how to steer safely clear of them. Similarly, if you feel like a comment or behavior might be inappropriate, you do not need to have a justification for feeling upset, you do not need to seek second opinions from others, and you do not need to observe the behavior repeatedly for it to be a problem – all of our individual boundaries, personalities, and histories are what define the rules, and your voice is important. You should always feel comfortable speaking up, especially if you are a lone voice!
+
+If you observe or are the recipient of discrimination, sexual misconduct, or harassment, reports should be made to the Office of Equity. [You can read about this process here]( https://www.ucdenver.edu/offices/equity/resolutions/make-a-report). Depending on your classification, [you may be a mandatory reporter of misconduct](https://www.ucdenver.edu/offices/equity/resolutions/who-is-required-to-report), meaning you must report any such misconduct you observe.
+
+## Professional Conduct:
+Details on responsible science, authorship, and the expectations of your role are found throughout this document. Generally speaking, as a member of the Ravi Lab, you are a professional researcher, and you can and should take pride in this. We are better for your membership! With this role comes certain responsibilities that go beyond the code of conduct overview mentioned above. Remember that your behaviors represent the lab, all of our research, and even Anschutz and the University of Colorado at large. Treat our fellow scientists in other labs and the general public with respect and understanding, try to avoid being drawn into public arguments on social media (nobody wins these), always be open to learning and re-learning, and do not let ego cloud judgement. Academia has its problems, and if the opportunity presents itself, we should never seek to use or diminish others merely to climb a career ladder. 
+
+As a group, our success and reputation, and the quality of our science and its positive impacts on society all depend on our lab having a sense of social cohesion and [psychological safety]( https://www.hbs.edu/recruiting/insights-and-advice/blog/post/how-to-create-a-psychologically-safe-workplace). This goal is aspirational and does not materialize automatically, but with our collective efforts and daily upkeep, is very attainable. 
 
 ### Health and wellness
 [Health, wellness](https://jravilab.github.io/lab_docs/resources.html#health-and-wellness), safety
@@ -171,12 +182,19 @@ Diversity, accessibility
 
 ## Lab Proceedings
 ### Meetings and formats
-[More details here]()
-- Research update presentations
-- Giving & receiving constructive feedback
+Lab meetings are divided into a few formats. 
+
+- Weekly lab meetings provide a space for everyone to share updates and roadblocks, and depending on the needs of the group, these meetings can be in a roundtable format where everybody who has updates can share them briefly (<10min per person), longer form updates or presentations for 1-2 people (<30min per person), or the entire slot can be reserved so one person can give a practice talk or major project summaries (<60min per person). We operate a Google Calendar where members can put themselves down for specific topics, times, and dates. In all cases, these weekly lab meetings are required for all members to attend.
+- Weekly project-specific meetings give lab members under a broadly shared project/topic umbrella a space for more detailed discussions and to seek specific feedback and help from their peers in the same or similar topics. These meetings are only required for those in the relevant associated projects, but are open to any members curious to sit in, learn, and  contribute. Like the weekly lab meetings, lab members can schedule themselves for specific topics or times. Because of their more focused scope, there may be times where these meetings can be quick updates dropped in Slack instead, and all involved lab members should communicate regularly to ensure each meeting is necessary.
+- One-on-one meetings or small group meetings can be scheduled as-needed, either with Janani or others. 
+- Journal club or technical primers serve as opportunities to present interesting new research papers from other groups, or to give practice teaching a topic by sharing how-to or tutorial lectures on topics of your choosing. For journal clubs, all members of the lab must read the selected paper ahead of time and be prepared to help their peers explain it. Likewise, to be respectful of the time commitments of others, the presenter must share their selected paper at least a few days before the meeting, and preferably the week before to give everyone a chance to read it thoroughly. The format of journal club is largely up to the presenter, but it should walk briefly through the background to the problem, the question or need the paper addresses, how they did the work, what the results were, and how it ties back to the larger problems in the field and future directions. While the presenter can take the lead and walk the group through everything, journal clubs are a lot more engaging and educational with participation, so having the audience explain figures and interpretations is an easy way to ensure people are learning instead of just listening.
+
+Meetings are almost always held in-person, but are held in a hybrid format with Zoom. While it's strongly encouraged for members to attend whenever possible in-person, remote attendance is an option. If you do plan on joining meetings remotely, please communicate this via Slack ahead of time when possible (with our collective understanding that emergencies arise), and you must still make an effort to actively participate. Mid-workday naps are okay, but please don't schedule them during meetings! Finally, for members attending meetings in-person, don't forget any people online -- make an effort to involve remote participants too, including actively soliciting feedback or checking in. It can be difficult for members in a Zoom call to find a good moment to interrupt a conversation happening in the room, so try to be aware of the limits of the format and make everyone feel welcome and included.
 
 ### Communication
 - Communication within the group \| [Slack](https://jravilab.slack.com "JRaviLab Slack Workspace") \| In-person/Zoom co-work
+
+In all meetings and interactions, it is imperative that lab members are constructive in feedback and respectful of each other. Critiques are always welcome and encouraged, but they should be supportive and aimed at building others up and improving our science, not tearing others down. At the same time, we shouldn't shy away from providing critical feedback! As scientists, we all need regular practice critically analyzing and interpreting what we read and hear, and a friendly environment like our lab group is the best place to work on these skills together. 
 
 ### Remote work & working hours
 At a very broad level, the more time you put into your work, the more you’ll get accomplished. However, this is also an obvious oversimplification. Some people prefer a typical 9-5, others thrive with a 10 hour/4 day workweek, and others still find their productivity falls off after 6 hours of work. Adding to this, our work can often be asynchronous, and working remotely can be integrated into a routine as well.
