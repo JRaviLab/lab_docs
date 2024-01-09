@@ -10,6 +10,15 @@ If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
 
 ### Roles and expectations
 ## PI
+My role as a PI would be to ensure your growth and success as a trainee, and the success of the project. Towards this, I will <br>
+- serve as a sounding board for all your ideas. You will have the freedom to work on your best ideas broadly aligned with the lab's vision and you will always find in me an audience to discuss and brainstorm.
+- help outline and plan your project(s) and design appropriate analyses.
+- check-in with you once a semester as you plan your time, and more regularly to ensure you're on track -- based on the professional, scientifical, and personal goals you've set for yourself.
+- provide resources to develop your research program and technical skills as you plan the next stage of your career (e.g., PRA --> grad school, PhD student --> postdoc/industry, postdoc --> PI/research lead).
+- help you with scientific communication (reading, writing grants and papers, presenting) and provide ample opportunities to engage and network at national meetings.
+- connect you with potential collaborators and mentors for scientific and professional growth and reciprocity. Team science is one of several skills you will learn during your tenure with us -- you will learn to communicate effectively not just with other computational colleagues but with the admin, grants, and scientific writing teams, experimental and clinical collaborators.
+- create a diverse yet inclusive safe space for all intersectionalities in the lab to ensure everyone thrives scientifically, professionally, and personally while respecting and supporting their colleagues.
+- enable you to pay forward by creating inclusive communities through scientific and technical education and outreach reach opportunities (e.g., R-Ladies, AsiaR, WiSTEM, SACNAS).
 
 ### Mentoring Philosophy | [full_post](https://github.com/JRaviLab/group/blob/main/docs/mentoring_philosophy.md)
 My experiences as a mentee have varied widely: fantastic professors in college inspired me to start a research career; later, a mentor overlooked my whole dissertation work resulting in prolonged authorship discussion. In my postdoctoral lab, I was the sole computational researcher collaborating with a dozen experimental biologists. I seized this invaluable opportunity to restart my academic career from scratch in a different field (i.e., studying microbial diseases), to learn, understand, and speak the language of both experimental and computational biologists, and to bring these worlds together. Collectively, these experiences have shaped my mentoring philosophy.
