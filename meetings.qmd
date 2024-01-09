@@ -23,11 +23,11 @@ Please update this semester's meeting schedule [here](https://docs.google.com/sp
 
 ### Weekly Group Meetings
 
-Thu: 10a MST / 12p EST
+Fri: 10.30a MST
 
 We usually go around the table and give quick 5min progress updates from the week before. Alternatively, we can schedule research updates/journal club presentations each month or host separate monthly journal clubs.
 
-[Bioinfo primer series](https://github.com/JRaviLab/bioinfo-primers) <br> Mon: 11a--12p MST / 1--2p EST
+[Bioinfo primer series](https://github.com/JRaviLab/bioinfo-primers) <br> Thu: 11a--12p MST
 
 ### Monthly Group Socials ☕ 🍵 🥐
 
@@ -44,12 +44,11 @@ Book via [Outlook bookings](https://bit.ly/janani-cucal).
 
 ### Project meetings (~15min per person)
 
--   Microbial G2P (MolEvolvR/CompGenomeR/AMR) \| Tue 10a MST (wk)
--   Software engg (MolEvolvR, server, & such) \| Wed 9.15a MST (wk) \| DBMI-SET (CU)
--   Host response and disease/drug gene expression \| Wed, 10a MST / 12p EST (wk) \| w/ KrishnanLab (CU)
--   EEPID \| Wed, 11a (wk) \| w/ WaleLab (MSU)
--   Legionella \| Wed, 1p MST / 3p EST (mon) \| w/ ShamesLab (MSU)
--   AMR omics \| Wed, 3p MST (wk) \| w/ ChatterjeeLab (UC Boulder) | _paused_
+-   Software engg (MolEvolvR, server, & such) \| Mon 1p MST (wk) \| DBMI-SET (CU)
+-   Microbial G2P (MolEvolvR/CompGenomeR/AMR) \| Mon 2.30p MST (wk)
+-   Host response and disease/drug signatures \| Thu, 9a MST (wk) \| w/ KrishnanLab (CU)
+-   AMR ms \| TBD (wk)
+-   EEPID \| TBD (wk) \| w/ WaleLab (MSU)
 
 ### DBMI seminar schedule
 Posted by the [DBMI seminar committee](https://github.com/jananiravi/dbmi_seminar)
