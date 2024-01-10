@@ -154,7 +154,7 @@ As a Ph.D. student, you're expected to ...
 
 ## Code of conduct
 ### Overview:
-There is zero tolerance for harassment or discrimination in the Ravi Lab and at the University of Colorado. These are forms of abuse, and they create a workplace environment that can leave people feeling unsafe and unwelcome. Members of the Ravi Lab come from many different backgrounds, and this diversity is one of our greatest strengths. 
+There is zero tolerance for harassment or discrimination in the JRaviLab and at the University of Colorado. These are forms of abuse, and they create a workplace environment that can leave people feeling unsafe and unwelcome. Members of the JRaviLab come from many different backgrounds, and this diversity is one of our greatest strengths. 
 
 While this is not exhaustive, examples of unacceptable behaviors include harassment, discrimination, or other unwanted behaviors, verbal or physical, that make others uncomfortable, both at and outside work. This applies to conduct in public or on social media, not just at the job. Protected categories include but are not limited to gender identity and sexuality, physical appearance, size, weight, and disability (of all types), race, ethnic group, age, and religion. These topics are covered in part by the required training modules you will take after employment at the University of Colorado. 
 
@@ -167,7 +167,7 @@ If you are unsure what constitutes acceptable behavior and where the line is dra
 If you observe or are the recipient of discrimination, sexual misconduct, or harassment, reports should be made to the Office of Equity. [You can read about this process here]( https://www.ucdenver.edu/offices/equity/resolutions/make-a-report). Depending on your classification, [you may be a mandatory reporter of misconduct](https://www.ucdenver.edu/offices/equity/resolutions/who-is-required-to-report), meaning you must report any such misconduct you observe.
 
 ## Professional Conduct:
-Details on responsible science, authorship, and the expectations of your role are found throughout this document. Generally speaking, as a member of the Ravi Lab, you are a professional researcher, and you can and should take pride in this. We are better for your membership! With this role comes certain responsibilities that go beyond the code of conduct overview mentioned above. Remember that your behaviors represent the lab, all of our research, and even Anschutz and the University of Colorado at large. Treat our fellow scientists in other labs and the general public with respect and understanding, try to avoid being drawn into public arguments on social media (nobody wins these), always be open to learning and re-learning, and do not let ego cloud judgement. Academia has its problems, and if the opportunity presents itself, we should never seek to use or diminish others merely to climb a career ladder. 
+Details on responsible science, authorship, and the expectations of your role are found throughout this document. Generally speaking, as a member of the JRaviLab, you are a professional researcher, and you can and should take pride in this. We are better for your membership! With this role comes certain responsibilities that go beyond the code of conduct overview mentioned above. Remember that your behaviors represent the lab, all of our research, and even Anschutz and the University of Colorado at large. Treat our fellow scientists in other labs and the general public with respect and understanding, try to avoid being drawn into public arguments on social media (nobody wins these), always be open to learning and re-learning, and do not let ego cloud judgement. We should never seek to use or diminish others merely to climb a career ladder. 
 
 As a group, our success and reputation, and the quality of our science and its positive impacts on society all depend on our lab having a sense of social cohesion and [psychological safety]( https://www.hbs.edu/recruiting/insights-and-advice/blog/post/how-to-create-a-psychologically-safe-workplace). This goal is aspirational and does not materialize automatically, but with our collective efforts and daily upkeep, is very attainable. 
 
@@ -175,29 +175,27 @@ As a group, our success and reputation, and the quality of our science and its p
 [Health, wellness](https://jravilab.github.io/lab_docs/resources.html#health-and-wellness), safety
 
 ### Inclusive and safe space
-Diversity, accessibility
-[currently, also part of the mission, but explicit pointers can go here.]
+The University of Colorado offers trainings in diversity, equity, and inclusion topics, including the [Health Equity in Action Lab (HEAL)](https://www.cuanschutz.edu/offices/diversity-equity-inclusion-community/news-events-and-learning-opportunities/heal-trainings-and-workshops#ac-foundations-in-equity-certificate-program-0). We encourage you to participate in these trainings, including the [Foundations in Equity Certificate Program](https://www.cuanschutz.edu/offices/diversity-equity-inclusion-community/news-events-and-learning-opportunities/heal-trainings-and-workshops/equity-certificate-program). 
+
+While not required by CU, these modules will introduce you a great range of perspectives, explain topics like implicit bias or microaggressions and how to recognize and interrupt them in ourselves and others, and treat others more equitably and respectfully. Beyond the obvious benefits to our lab culture, these topics are absolutely critical to recognize for scientific study design (e.g. using human data). Being aware of our implicit biases and systemic issues can help navigate potential pitfalls in data collection and interpretation which can affect people worldwide. 
 
 *Links and details to follow.*
 
 ## Lab Proceedings
-### Meetings and formats
-Lab meetings are divided into a few formats. 
-
-- Weekly lab meetings provide a space for everyone to share updates and roadblocks, and depending on the needs of the group, these meetings can be in a roundtable format where everybody who has updates can share them briefly (<10min per person), longer form updates or presentations for 1-2 people (<30min per person), or the entire slot can be reserved so one person can give a practice talk or major project summaries (<60min per person). We operate a Google Calendar where members can put themselves down for specific topics, times, and dates. In all cases, these weekly lab meetings are required for all members to attend.
-- Weekly project-specific meetings give lab members under a broadly shared project/topic umbrella a space for more detailed discussions and to seek specific feedback and help from their peers in the same or similar topics. These meetings are only required for those in the relevant associated projects, but are open to any members curious to sit in, learn, and  contribute. Like the weekly lab meetings, lab members can schedule themselves for specific topics or times. Because of their more focused scope, there may be times where these meetings can be quick updates dropped in Slack instead, and all involved lab members should communicate regularly to ensure each meeting is necessary.
-- One-on-one meetings or small group meetings can be scheduled as-needed, either with Janani or others. 
-- Journal club or technical primers serve as opportunities to present interesting new research papers from other groups, or to give practice teaching a topic by sharing how-to or tutorial lectures on topics of your choosing. For journal clubs, all members of the lab must read the selected paper ahead of time and be prepared to help their peers explain it. Likewise, to be respectful of the time commitments of others, the presenter must share their selected paper at least a few days before the meeting, and preferably the week before to give everyone a chance to read it thoroughly. The format of journal club is largely up to the presenter, but it should walk briefly through the background to the problem, the question or need the paper addresses, how they did the work, what the results were, and how it ties back to the larger problems in the field and future directions. While the presenter can take the lead and walk the group through everything, journal clubs are a lot more engaging and educational with participation, so having the audience explain figures and interpretations is an easy way to ensure people are learning instead of just listening.
-
-Meetings are almost always held in-person, but are held in a hybrid format with Zoom. While it's strongly encouraged for members to attend whenever possible in-person, remote attendance is an option. If you do plan on joining meetings remotely, please communicate this via Slack ahead of time when possible (with our collective understanding that emergencies arise), and you must still make an effort to actively participate. Mid-workday naps are okay, but please don't schedule them during meetings! Finally, for members attending meetings in-person, don't forget any people online -- make an effort to involve remote participants too, including actively soliciting feedback or checking in. It can be difficult for members in a Zoom call to find a good moment to interrupt a conversation happening in the room, so try to be aware of the limits of the format and make everyone feel welcome and included.
-
 ### Communication
 - Communication within the group \| [Slack](https://jravilab.slack.com "JRaviLab Slack Workspace") \| In-person/Zoom co-work
 
 In all meetings and interactions, it is imperative that lab members are constructive in feedback and respectful of each other. Critiques are always welcome and encouraged, but they should be supportive and aimed at building others up and improving our science, not tearing others down. At the same time, we shouldn't shy away from providing critical feedback! As scientists, we all need regular practice critically analyzing and interpreting what we read and hear, and a friendly environment like our lab group is the best place to work on these skills together. 
 
+### Meetings and formats
+Since communication is key to good science, we meet regularly as a lab in a variety of formats. The details about these meetings [can be found here](https://jravilab.github.io/lab_docs/meetings.html).
+
 ### Remote work & working hours
 At a very broad level, the more time you put into your work, the more you’ll get accomplished. However, this is also an obvious oversimplification. Some people prefer a typical 9-5, others thrive with a 10 hour/4 day workweek, and others still find their productivity falls off after 6 hours of work. Adding to this, our work can often be asynchronous, and working remotely can be integrated into a routine as well.
+
+Regardless of your working style, taking breaks is important! Stretch, take a brisk walk, hydrate, enjoy some caffeine (in __moderation__). 
+
+If you are working remotely for extended periods, communicate regularly on Slack, and schedule a few co-work times where you and others can log on together and work in a shared virtual space that makes spontaneous interactions possible. Remote work has advantages, but a major drawback is the lack of this spontaneity. Being able to walk to a neighboring desk and ask a quick question, take a shared tea break, and see the faces of the people you work with are real advantages to collaborative science. Some of these aspects can still be done remotely, but they require active effort. Please stay involved like this even if you aren't on campus!
 
 Generally speaking, if you are meeting milestones, participating in project and group discussions, and comfortable with your work-life balance in our lab, the details of your work schedule are flexible. For a diverse group, a schedule that accommodates everyone necessarily requires compromise. Your exact schedule will come down to your role in the lab, your preferences, and the group’s availability. There are some basic rules and tenants to be aware of.
 
@@ -212,7 +210,6 @@ These ranges are estimates, and will vary across people and over time. We never 
 [Presenteeism](https://pubmed.ncbi.nlm.nih.gov/15559575/) isn’t a healthy mindset, and health and productivity rank ahead (in that order!) of simply being present. 
 
 - [Working remotely](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU Remote Work Agreement](https://app.smartsheet.com/b/form/d1dae0d3ba83403f8d5525213f8968d6 "CU Anschutz Remote Work Agreement")
-
 
 ### Leave policy
 
