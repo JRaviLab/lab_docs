@@ -48,7 +48,7 @@ Details on expectations per-role can be found here in [the Roles and expectation
 
 -   [Working remotely](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU Remote Work Agreement](https://app.smartsheet.com/b/form/f5c5dd3f01dc4eefb3711a4fce6955fe "CU Anschutz Remote Work Agreement")
 -   Communication within the group \| [Slack](https://jravilab.slack.com "JRaviLab Slack Workspace") \| In-person/Zoom co-work
--   Research update presentations \| [Meetings](https://jravilab.github.io/lab_docs/culture.html#meetings-and-formats)
+-   Research update presentations \| [Meetings](https://jravilab.github.io/lab_docs/meetings.html)
 -   Giving & receiving constructive feedback
 
 # Slack
@@ -73,7 +73,7 @@ You may have briefly spoken to a few group members prior to joining. I urge you 
 
 # GitHub
 
-If you haven't already, please create a professional GitHub account (e.g., `jananiravi`) with your full name. Once you pass that along to us, we will add you to the [JRaviLab GitHub organization](https://github.com/jravilab). Also, a neat memorable username will give you the opportunity to host your own webpage (e.g., `jravilab.github.io` or `jananiravi.github.io`). Our group repo is [here](https://github.com/JRaviLab/group/tree/master/meetings).
+If you haven't already, please create a professional GitHub account (e.g., `jananiravi`) with your full name. Once you pass that along to us, we will add you to the [JRaviLab GitHub organization](https://github.com/jravilab). Also, a neat memorable username will give you the opportunity to host your own webpage (e.g., `jravilab.github.io` or `jananiravi.github.io`). Our group repo is [here](https://github.com/JRaviLab/group/tree/main/meetings).
 
 # Social media
 
