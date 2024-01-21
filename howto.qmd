@@ -24,19 +24,17 @@ A couple of helpful GitHub repositories - <https://github.com/jananiravi/worksho
 
 ## Helpful Links to learn more about Machine Learning
 
--   Youtube Videos
-    -   [Machine Learning from Scratch by AssemblyAI] (https://www.youtube.com/watch?v=p1hGz0w_OCo&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
-    -   [MIT Deep Learning Course] (http://introtodeeplearning.com/)
-    -   [Deep Learning by Assembly AI] (https://www.youtube.com/watch?v=dccdadl90vs&list=PLcWfeUsAys2nPgh-gYRlexc6xvscdvHqX)
-    -   [Understanding Tensors by Dan Fleisch] (https://www.youtube.com/watch?v=f5liqUk0ZTw) 
-    -   [Understanding Neural Networks] (https://www.youtube.com/watch?v=aircAruvnKk)
-    -   [Basic Computer Parts Explained] (https://www.youtube.com/watch?v=ExxFxD4OSZ0)
-
--   Articles: 
-    -   [Transformers] (http://jalammar.github.io/illustrated-transformer/)
-
+-   YouTube Videos
+    -   \[Machine Learning from Scratch by AssemblyAI\] (https://www.youtube.com/watch?v=p1hGz0w_OCo&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
+    -   \[MIT Deep Learning Course\] (http://introtodeeplearning.com/)
+    -   \[Deep Learning by Assembly AI\] (https://www.youtube.com/watch?v=dccdadl90vs&list=PLcWfeUsAys2nPgh-gYRlexc6xvscdvHqX)
+    -   \[Understanding Tensors by Dan Fleisch\] (https://www.youtube.com/watch?v=f5liqUk0ZTw)
+    -   \[Understanding Neural Networks\] (https://www.youtube.com/watch?v=aircAruvnKk)
+    -   \[Basic Computer Parts Explained\] (https://www.youtube.com/watch?v=ExxFxD4OSZ0)
+-   Articles:
+    -   \[Transformers\] (http://jalammar.github.io/illustrated-transformer/)
 -   Coding Practice Sites
-    -   [LeetCode] (https://leetcode.com/)
+    -   \[LeetCode\] (https://leetcode.com/)
 
 📌 Go-to books (also in pinned posts on Slack)
 
@@ -79,17 +77,17 @@ For computing that requires high performance hardware and computing clusters, we
 
 ### JRaviLab server
 
-- A single high performance machine used only by our group.
-- To request access, contact the system administrator `shaddai.amolitos@cuanschutz.edu` by sending him your CU username (e.g., the CU auto-generated `ravijan` instead of `janani.ravi@cuanschutz.edu`) and a brief message that you will need access to the server. CC janani.ravi@cuanschutz.edu, so they can both verify your access.
-- If you are new to remote server work, then it maybe helpful to learn about using an [ssh config](https://linuxize.com/post/using-the-ssh-config-file/) for managing your remote hosts.
+-   A single high performance machine used only by our group.
+-   To request access, contact the system administrator `shaddai.amolitos@cuanschutz.edu` by sending him your CU username (e.g., the CU auto-generated `ravijan` instead of `janani.ravi@cuanschutz.edu`) and a brief message that you will need access to the server. CC janani.ravi\@cuanschutz.edu, so they can both verify your access.
+-   If you are new to remote server work, then it maybe helpful to learn about using an [ssh config](https://linuxize.com/post/using-the-ssh-config-file/) for managing your remote hosts.
 
 ### Alpine HPC
 
-- Alpine is the HPC cluster for all the University of Colorado campuses, including Anschutz.
-- There is extensive [documentation about getting setup](https://curc.readthedocs.io/en/latest/clusters/alpine/index.html)
-- At the moment, a [web shell](https://ondemand-rmacc.rc.colorado.edu/pun/sys/shell/ssh/default) is the only access option for Anschutz members. This is different from a typical SSH login, and it is best to follow the official, latest Alpine documentation.
+-   Alpine is the HPC cluster for all the University of Colorado campuses, including Anschutz.
+-   There is extensive [documentation about getting setup](https://curc.readthedocs.io/en/latest/clusters/alpine/index.html)
+-   At the moment, a [web shell](https://ondemand-rmacc.rc.colorado.edu/pun/sys/shell/ssh/default) is the only access option for Anschutz members. This is different from a typical SSH login, and it is best to follow the official, latest Alpine documentation.
 
-Whenver possible, we highly recommend using the [VSCode extension](https://code.visualstudio.com/docs/remote/ssh) which provides an IDE on the remote host without having to worry about server-side installation of other IDEs like RStudio or Jupyter.
+Whenever possible, we highly recommend using the [VSCode extension](https://code.visualstudio.com/docs/remote/ssh) which provides an IDE on the remote host without having to worry about server-side installation of other IDEs like RStudio or Jupyter.
 
 ## Others
 

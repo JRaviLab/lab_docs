@@ -1,0 +1,30 @@
+# Career/Professional Development
+
+### Define and Measure Immediate, Tangible Growth Opportunities
+
+## Writing
+
+-   [ ] Update CV & submit it for feedback
+-   [ ] Perform and submit a self-evaluation: strengths, weakness, and career goals (w/ timeline)?
+-   [ ] Create a blog or submit a blog post about your project or lab experience to be posted on the lab's blog
+-   [ ] Read and review an article and post your comments on PubPeer or bioRxiv
+
+## Presenting
+
+-   [ ] Prepare for an elevator pitch
+-   [ ] Volunteer to give a talk (campus event, seminar, or elsewhere for outreach)
+-   [ ] Sign-up for mentoring and outreach
+
+## Networking
+
+-   [ ] Join Mastodon/BlueSky/Twitter and post a message
+-   [ ] Make a simple website (or LinkedIn profile) promoting yourself and your science/technology
+-   [ ] Initiate contact with a scientist/professional outside the lab/institution (whom you don't know before) -- get career advice, scientific advice, or a letter
+
+## Other
+
+-   [ ] Join a professional society
+
+### Credits
+
+Avasthi and Krishnan labs.

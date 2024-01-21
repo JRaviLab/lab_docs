@@ -1,6 +1,6 @@
 # Offboarding
 
-We are aware that career plans change, and that is perfectly ok. The Ravi lab always encourages you to pursue your future endeavors and dreams. Ensure you do your best to make Janani aware of any changes in your career plans so the offboarding process can run smoothly. 
+We are aware that career plans change, and that is perfectly OK. The Ravi lab always encourages you to pursue your future endeavors and dreams. Ensure you do your best to make Janani aware of any changes in your career plans so the offboarding process can run smoothly.
 
 ## Ready to head out?
 
@@ -12,7 +12,7 @@ Please make sure you have checked these boxes before leaving our group.
 
 -   [ ] All your code is on GitHub
 
--   [ ] All your processed data files/figures/reports (\<100mb) are on GitHub
+-   [ ] All your processed data files/figures/reports (\<100MB) are on GitHub
 
 -   [ ] Large data files (raw/processed) are on the server (and backed up)
 
@@ -34,11 +34,10 @@ Please make sure you have checked these boxes before leaving our group.
 
 Undergraduate and Masters Students: [Student Employment Handbook](https://www.ucdenver.edu/docs/librariesprovider41/student-employment/student_hourly_employment_handbook.pdf?sfvrsn=8e3963ba_6)
 
-Ph.D. Students:[Graduate School Policy for Vacation and Leave](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2)
+Ph.D. Students: [Graduate School Policy for Vacation and Leave](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2)
 
 Good luck!
 
 ## Stay in touch
 
 [Webpage](https://jravilab.github.io) \| [PI](https://jravilab.github.io/#about) \| [Twitter](https://twitter.com/jravilab) \| [Mastodon](https://genomic.social/@jravilab) \| [Email](mailto:janani.ravi@cuanschutz.edu)
-

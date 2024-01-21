@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.475">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>JRaviLab docs - Appendix B — Code Review</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./howto_work_remotely.html" rel="next">
+<link href="./howto_write_sourcecode.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Appendix B — Code Review</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">JRaviLab docs</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/jravilab/lab_docs" title="Source Code" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-reader-toggle sidebar-tool" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+    </div>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">About JRaviLab docs</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./onboarding.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Onboarding</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./culture.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Lab culture</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./howto.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">How to X</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./resources.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Resources</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./meetings.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Meetings</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./offboarding.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Offboarding</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Appendices</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./howto_write_sourcecode.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">A</span>&nbsp; <span class="chapter-title">Code/Data Best Practices</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./howto_code_review.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Code Review</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./howto_work_remotely.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">C</span>&nbsp; <span class="chapter-title">Remote Work</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./howto_make_poster.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">D</span>&nbsp; <span class="chapter-title">Make a poster</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./howto_write_paper.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">E</span>&nbsp; <span class="chapter-title">Writing papers</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./career-dev.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">F</span>&nbsp; <span class="chapter-title">Career/Professional Development Week</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#why-do-it" id="toc-why-do-it" class="nav-link active" data-scroll-target="#why-do-it"><span class="toc-section-number">B.1</span>  Why do it?</a></li>
+  <li><a href="#preparation-for-code-review" id="toc-preparation-for-code-review" class="nav-link" data-scroll-target="#preparation-for-code-review"><span class="toc-section-number">B.2</span>  Preparation for Code Review</a></li>
+  <li><a href="#code-review-process" id="toc-code-review-process" class="nav-link" data-scroll-target="#code-review-process"><span class="toc-section-number">B.3</span>  Code Review Process</a></li>
+  <li><a href="#if-you-have-any-questions" id="toc-if-you-have-any-questions" class="nav-link" data-scroll-target="#if-you-have-any-questions"><span class="toc-section-number">B.4</span>  If you have any questions</a>
+  <ul class="collapse">
+  <li><a href="#acknowledgments" id="toc-acknowledgments" class="nav-link" data-scroll-target="#acknowledgments"><span class="toc-section-number">B.4.1</span>  Acknowledgments</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/jravilab/lab_docs/edit/main/howto_code_review.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/jravilab/lab_docs/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Appendix B — Code Review</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="why-do-it" class="level2" data-number="B.1">
+<h2 data-number="B.1" class="anchored" data-anchor-id="why-do-it"><span class="header-section-number">B.1</span> Why do it?</h2>
+<ul>
+<li><strong>Pride</strong>: Lab members (along with co-PIs) sign their code/software via attributable commits. This means we are happy to and should stand behind our code, whether private or public.</li>
+<li><strong>Licensing</strong>: The lab code/repositories carry a LICENSE file with the PI’s labs. Code review helps stand by the licensing agreement. Also, when using dependencies (other published, in-dev packages, codebases, be sure to read and follow their licenses. We can only be as inclusive as the least inclusive cited resource.</li>
+<li><strong>Attribution</strong>: When using code taken from elsewhere (other repositories, SO, papers, or alternate sources), make sure the code and coder are appropriately acknowledged. Within code attribution is important. If this is substantial, we need to add them to other centralized attribution files, as well.</li>
+</ul>
+</section>
+<section id="preparation-for-code-review" class="level2" data-number="B.2">
+<h2 data-number="B.2" class="anchored" data-anchor-id="preparation-for-code-review"><span class="header-section-number">B.2</span> Preparation for Code Review</h2>
+<blockquote class="blockquote">
+<p>Things to be done by the author <strong><em>before</em></strong> code review. <br> Please note that all repos should remain private by default. Students, postdocs, and staff should discuss with Janani about when to make each repo public. <br> By default, the code contributors and the PI will be co-authors on all software and codebases.</p>
+</blockquote>
+<ul>
+<li><strong>Adhering to “good enough” practices:</strong> Make sure you code adheres to the <a href="https://github.com/JRaviLab/lab_docs/blob/main/howto_write_source_code.md#good-enough-practices-for-writing-code">checklist of good-enough practices</a>. Enforcing basic style rules is typically not a good reason to do code review.
+<ul>
+<li>For e.g., this means everyone follows <a href="https://styler.r-lib.org">styler</a>/<a href="https://lintr.r-lib.org">lintr</a>, <a href="https://google.github.io/styleguide/Rguide.xml">Google’s R Style Guide</a>, or <a href="https://www.python.org/dev/peps/pep-0008">Python PEP8</a>, or the <a href="https://google.github.io/styleguide/javascriptguide.xml">Javascript</a>, <a href="https://google.github.io/styleguide/htmlcssguide.xml">HTML/CSS</a> equivalents for basic cleanly formatted code.</li>
+<li>Use a max line length of 80 (or 100) to make sure the code is readable without wraps.</li>
+<li>Make sure there are no unnecessary white spaces (and that necessary ones are present).</li>
+<li>Are your variable and function names descriptive and interpretable?</li>
+</ul></li>
+<li><strong>Common sense debugging:</strong> Catching bugs is not a good reason to do code review unless you’ve tried all of the following:
+<ul>
+<li>Have you created a small toy/example/test dataset, ran your code, and matched the output with hand-calculated results? You need to have this dataset handy during code review.</li>
+<li>Are there off-by-one errors? Python and R begin their indices differently.</li>
+<li>Do the loops terminate in the way you expect? Do they terminate at all?</li>
+<li>Have you declared and initialized all variables properly? For all a, b, c, &amp; d, it is worthwhile peppering the code with a number of print statements to follow along and see if each step checks out.</li>
+<li>Have you run automated tests, debuggers, etc.?</li>
+<li>Do you have top-level and within function/code-chunk comments? This includes file comments to include what each file does broadly and how to run them from the command line, docstring comments for functions, and in-line comments for detailed logical steps within the code chunk.</li>
+<li>Are all dependencies and imports defined in the R package files or at the top of the file?</li>
+</ul></li>
+<li><strong>A visual flowchart of the code:</strong> Before you ask anyone else to look at your code, you need to be able to clearly explain to them what your code (or part of it) is meant to do. If it is a long piece of code, you should bring a drawing of which methods call which other methods, or which objects use which other objects.</li>
+<li><strong>Prioritizing the goals of code review:</strong>
+<ul>
+<li>If you’re trying to use code review to gather thoughts on speeding up some calculation, but your teammates are thinking about catching bugs, neither of you will get much from the process.</li>
+<li>Good reasons to do code review:
+<ul>
+<li>To help learn how to think like a coworker so that it’s easy to navigate and change their code in the future.</li>
+<li>To bring up to speed on what files and features have changed recently so that when bugs sneak in, at least two people can help in diagnosing and fixing the problem.</li>
+<li>To get critical feedback on a specific section that requires improvement in terms of speed-up, unfathomable errors, etc.</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="code-review-process" class="level2" data-number="B.3">
+<h2 data-number="B.3" class="anchored" data-anchor-id="code-review-process"><span class="header-section-number">B.3</span> Code Review Process</h2>
+<blockquote class="blockquote">
+<p>Involves the author and at least one reviewer (ideally someone related to the project)</p>
+</blockquote>
+<ul>
+<li>Set up a time and set a time limit (say, half an hour or one hour maximum; no more than 400 lines of code should be reviewed at a time). Then, divide the process into three phases:
+<ul>
+<li>Phase 1: The author should give a description of the code/feature (using the visual flowchart of code, if necessary) including the list of input files, output files, and usage. This should include clearly stating the primary goals of the code review to spend time more efficiently.</li>
+<li>Phase 2: Reviewers do a first pass of the code along with the author trying to understand the changes (or the whole thing if it’s the first time) and write down questions (you can ask questions for clarification but do not give feedback yet). If you think you can approve the code/change at this point, do it and be done.</li>
+<li>Phase 3: If you think the code is not ready, list your thoughts or questions to the author and engage in a discussion in the order the code is designed to run.</li>
+</ul></li>
+<li>Practice a positive code review culture
+<ul>
+<li>Each bug or clunky piece of code is an opportunity for the team as a whole to improve code quality. Ask questions, acknowledge good practices, politely suggest fixes, and explain your reasoning.</li>
+<li>The process allows junior team members to learn from senior members. So, seniors, set a good example by making it clear that this whole exercise is about the code, not the person.</li>
+<li>Practice the art of <a href="https://github.com/jravilab/lab_docs/blob/main/howto_give_receive_feedback.qmd">giving and receiving critical feedback</a>: i) Give mutual respect, ii) Be specific, iii) Follow the keep-discard-improve rule, and iv) Have a “how can I help you?” mindset.</li>
+</ul></li>
+</ul>
+</section>
+<section id="if-you-have-any-questions" class="level2" data-number="B.4">
+<h2 data-number="B.4" class="anchored" data-anchor-id="if-you-have-any-questions"><span class="header-section-number">B.4</span> If you have any questions</h2>
+<p>Please reach out to me (JR) if any of these aspects are unclear before requesting a code review.</p>
+<section id="acknowledgments" class="level3" data-number="B.4.1">
+<h3 data-number="B.4.1" class="anchored" data-anchor-id="acknowledgments"><span class="header-section-number">B.4.1</span> Acknowledgments</h3>
+<p>We would like to thank members of CU Anschutz DBMI (Drs. Krishnan, Greene, and the DBMI software engineering team) for inspiration. Here’s a quick starter <a href="https://www.codereviewchecklist.com">checklist</a> to get the process going.</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./howto_write_sourcecode.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">A</span>&nbsp; <span class="chapter-title">Code/Data Best Practices</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./howto_work_remotely.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">C</span>&nbsp; <span class="chapter-title">Remote Work</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+</body></html>

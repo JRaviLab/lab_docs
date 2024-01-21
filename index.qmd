@@ -1,10 +1,10 @@
 # About JRaviLab docs {.unnumbered}
 
-This is a short e-book compiled to guide, onboard, and offboard JRaviLab members at the University of Colorado Anschutz Medical Campus (and Michigan State University).
+This is a short e-book compiled to guide, onboard, and offboard JRaviLab members at the University of Colorado Anschutz Medical Campus (previously at Michigan State University).
 
 ### Acknowledgments
 
-We appreciate and build upon awesome onboarding resources from Arjun Krishnan, Fan Zhang, Casey Greene, Annika Barber, Christoph Rau, Jeff Leek, [elife](https://doi.org/10.7554/eLife.88853), and several others.
+We appreciate and build upon awesome onboarding resources from Arjun Krishnan, Casey Greene, Fan Zhang, Annika Barber, Christoph Rau, Jeff Leek, [eLife](https://doi.org/10.7554/eLife.88853), and several others.
 
 ✍️ If you'd like to edit/update/contribute to this e-book (*built with [Quarto](https://quarto.org/docs/books)*), please [email me](mailto:janani.ravi@cuanschutz.edu) or submit a pull request to the [GitHub repository](https://github.com/JRaviLab/lab_docs) directly.
 

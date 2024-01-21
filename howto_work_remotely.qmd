@@ -1,0 +1,40 @@
+# Remote Work
+
+*updated during/due to the COVID-19 pandemic.*
+
+# Few generic tips
+
+1.  Focus on health -- physical and mental
+2.  Setting goals & planning a 'tight' schedule
+3.  Figure out what's accomplished and what not on a weekly basis & start the process over
+4.  Find accountability partners
+5.  Maintain good contact with me and the group
+6.  Relax and meditate! \[my audible/kindle account details are shared via Slack\]
+
+# #WorkFromHome tips
+
+\~ Most tips may also be applicable to your coursework.
+
+## 1. Daily Scrum
+
+At the beginning of each day you're working, think or write down the following:
+
+1.  What did you do yesterday? \["Yesterday, I ..."\]
+2.  What will you do today? \["Today, I'm going to ..."\]
+3.  Are there any impediments in your way?
+
+## 2. Casual Co-work
+
+Members are encouraged to setup co-work times to co-write, for code review, or just to work! (based off our most recent When2meet poll)
+
+## 3. Finding time to chat with me
+
+Finally, as a substitute for scheduling in-person meetings via Slack, I've made my full calendar available [here](http://bit.ly/janani-cucal), where you can easily fix a time to chat.
+
+-   No need to ping me ahead.
+-   No need to have a specific purpose/agenda, although this might help me prepare if it's for a scientific/technical check-in. We can talk about anything -- research, courses, work-life, home-life -- or just say "Hi!" 🙂
+-   Pick a corresponding slot -- 15min, 30min, or 1h.
+
+## Acknowledgments
+
+Our JRaviLab group discussions + ideas from Baucom and Krishnan Labs.

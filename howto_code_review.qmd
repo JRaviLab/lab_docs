@@ -1,0 +1,53 @@
+# Code Review
+
+## Why do it?
+
+-   **Pride**: Lab members (along with co-PIs) sign their code/software via attributable commits. This means we are happy to and should stand behind our code, whether private or public.
+-   **Licensing**: The lab code/repositories carry a LICENSE file with the PI's labs. Code review helps stand by the licensing agreement. Also, when using dependencies (other published, in-dev packages, codebases, be sure to read and follow their licenses. We can only be as inclusive as the least inclusive cited resource.
+-   **Attribution**: When using code taken from elsewhere (other repositories, SO, papers, or alternate sources), make sure the code and coder are appropriately acknowledged. Within code attribution is important. If this is substantial, we need to add them to other centralized attribution files, as well.
+
+## Preparation for Code Review
+
+> Things to be done by the author ***before*** code review. <br> Please note that all repos should remain private by default. Students, postdocs, and staff should discuss with Janani about when to make each repo public. <br> By default, the code contributors and the PI will be co-authors on all software and codebases.
+
+-   **Adhering to "good enough" practices:** Make sure you code adheres to the [checklist of good-enough practices](https://github.com/JRaviLab/lab_docs/blob/main/howto_write_source_code.md#good-enough-practices-for-writing-code). Enforcing basic style rules is typically not a good reason to do code review.
+    -   For e.g., this means everyone follows [styler](https://styler.r-lib.org)/[lintr](https://lintr.r-lib.org), [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml), or [Python PEP8](https://www.python.org/dev/peps/pep-0008), or the [Javascript](https://google.github.io/styleguide/javascriptguide.xml), [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.xml) equivalents for basic cleanly formatted code.
+    -   Use a max line length of 80 (or 100) to make sure the code is readable without wraps.
+    -   Make sure there are no unnecessary white spaces (and that necessary ones are present).
+    -   Are your variable and function names descriptive and interpretable?
+-   **Common sense debugging:** Catching bugs is not a good reason to do code review unless you've tried all of the following:
+    -   Have you created a small toy/example/test dataset, ran your code, and matched the output with hand-calculated results? You need to have this dataset handy during code review.
+    -   Are there off-by-one errors? Python and R begin their indices differently.
+    -   Do the loops terminate in the way you expect? Do they terminate at all?
+    -   Have you declared and initialized all variables properly? For all a, b, c, & d, it is worthwhile peppering the code with a number of print statements to follow along and see if each step checks out.
+    -   Have you run automated tests, debuggers, etc.?
+    -   Do you have top-level and within function/code-chunk comments? This includes file comments to include what each file does broadly and how to run them from the command line, docstring comments for functions, and in-line comments for detailed logical steps within the code chunk.
+    -   Are all dependencies and imports defined in the R package files or at the top of the file?
+-   **A visual flowchart of the code:** Before you ask anyone else to look at your code, you need to be able to clearly explain to them what your code (or part of it) is meant to do. If it is a long piece of code, you should bring a drawing of which methods call which other methods, or which objects use which other objects.
+-   **Prioritizing the goals of code review:**
+    -   If you're trying to use code review to gather thoughts on speeding up some calculation, but your teammates are thinking about catching bugs, neither of you will get much from the process.
+    -   Good reasons to do code review:
+        -   To help learn how to think like a coworker so that it's easy to navigate and change their code in the future.
+        -   To bring up to speed on what files and features have changed recently so that when bugs sneak in, at least two people can help in diagnosing and fixing the problem.
+        -   To get critical feedback on a specific section that requires improvement in terms of speed-up, unfathomable errors, etc.
+
+## Code Review Process
+
+> Involves the author and at least one reviewer (ideally someone related to the project)
+
+-   Set up a time and set a time limit (say, half an hour or one hour maximum; no more than 400 lines of code should be reviewed at a time). Then, divide the process into three phases:
+    -   Phase 1: The author should give a description of the code/feature (using the visual flowchart of code, if necessary) including the list of input files, output files, and usage. This should include clearly stating the primary goals of the code review to spend time more efficiently.
+    -   Phase 2: Reviewers do a first pass of the code along with the author trying to understand the changes (or the whole thing if it's the first time) and write down questions (you can ask questions for clarification but do not give feedback yet). If you think you can approve the code/change at this point, do it and be done.
+    -   Phase 3: If you think the code is not ready, list your thoughts or questions to the author and engage in a discussion in the order the code is designed to run.
+-   Practice a positive code review culture
+    -   Each bug or clunky piece of code is an opportunity for the team as a whole to improve code quality. Ask questions, acknowledge good practices, politely suggest fixes, and explain your reasoning.
+    -   The process allows junior team members to learn from senior members. So, seniors, set a good example by making it clear that this whole exercise is about the code, not the person.
+    -   Practice the art of [giving and receiving critical feedback](https://github.com/jravilab/lab_docs/blob/main/howto_give_receive_feedback.qmd): i) Give mutual respect, ii) Be specific, iii) Follow the keep-discard-improve rule, and iv) Have a "how can I help you?" mindset.
+
+## If you have any questions
+
+Please reach out to me (JR) if any of these aspects are unclear before requesting a code review.
+
+### Acknowledgments
+
+We would like to thank members of CU Anschutz DBMI (Drs. Krishnan, Greene, and the DBMI software engineering team) for inspiration. Here's a quick starter [checklist](https://www.codereviewchecklist.com) to get the process going.
