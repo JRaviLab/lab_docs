@@ -95,7 +95,7 @@
     "href": "howto.html#helpful-links-to-learn-more-about-machine-learning",
     "title": "3  How to X",
     "section": "3.3 Helpful Links to learn more about Machine Learning",
-    "text": "3.3 Helpful Links to learn more about Machine Learning\n\nYouTube Videos\n\n[Machine Learning from Scratch by AssemblyAI] (https://www.youtube.com/watch?v=p1hGz0w_OCo&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)\n[MIT Deep Learning Course] (http://introtodeeplearning.com/)\n[Deep Learning by Assembly AI] (https://www.youtube.com/watch?v=dccdadl90vs&list=PLcWfeUsAys2nPgh-gYRlexc6xvscdvHqX)\n[Understanding Tensors by Dan Fleisch] (https://www.youtube.com/watch?v=f5liqUk0ZTw)\n[Understanding Neural Networks] (https://www.youtube.com/watch?v=aircAruvnKk)\n[Basic Computer Parts Explained] (https://www.youtube.com/watch?v=ExxFxD4OSZ0)\n\nArticles:\n\n[Transformers] (http://jalammar.github.io/illustrated-transformer/)\n\nCoding Practice Sites\n\n[LeetCode] (https://leetcode.com/)\n\n\n📌 Go-to books (also in pinned posts on Slack)\n\nR for Data Science (for tidyverse and such)\nHands-On Programming with R (for base R) Intro to Git, GitHub resources"
+    "text": "3.3 Helpful Links to learn more about Machine Learning\n\nYouTube Videos\n\nMachine Learning from Scratch by AssemblyAI\nMIT Deep Learning Course\nDeep Learning by Assembly AI\nUnderstanding Tensors by Dan Fleisch\nUnderstanding Neural Networks\nBasic Computer Parts Explained\n\nArticles:\n\nTransformers\n\nCoding Practice Sites\n\nLeetCode\n\n\n📌 Go-to books (also in pinned posts on Slack)\n\nR for Data Science (for tidyverse and such)\nHands-On Programming with R (for base R) Intro to Git, GitHub resources"
   },
   {
     "objectID": "howto.html#use-vpn",
