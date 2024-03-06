@@ -4,6 +4,23 @@
 
 We value and believe in investing in and nurturing scientists as much as the science. We pride ourselves on providing a safe and inclusive space for people across intersectionalities. We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development. We are passionate about finding new, better ways to increase diversity and retention in STEM and quantitative sciences. If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
 
+### Mentoring Philosophy \| [full_post](https://github.com/JRaviLab/group/blob/main/docs/mentoring_philosophy.md)
+
+My experiences as a mentee have varied widely: fantastic professors in college inspired me to start a research career; later, a mentor overlooked my whole dissertation work resulting in prolonged authorship discussion. In my postdoctoral lab, I was the sole computational researcher collaborating with a dozen experimental biologists. I seized this invaluable opportunity to restart my academic career from scratch in a different field (i.e., studying microbial diseases), to learn, understand, and speak the language of both experimental and computational biologists, and to bring these worlds together. Collectively, these experiences have shaped my mentoring philosophy.
+
+-   *Opening doors and leveling the playing field* (i.e., not gate-keeping)
+-   *Lives bigger than work*
+-   *Collaborative mentoring* (i.e., not top-down advising)
+-   *Mentoring is not imprinting*
+
+### Inclusive lab climate \| [full_post](https://github.com/JRaviLab/group/blob/main/docs/mentoring_philosophy.md)
+
+I have mentored 15+ diverse undergraduate and graduate students. Several joined my lab as first-time coders and have co-authored computational papers; five have contributed to submitted manuscripts (see Bibliography). All these students have had positive research experiences, presented at (inter-)national conferences, and won awards/support from national programs, including NIH-funded BRUSH, NSF-funded REU-ACRES, SROP, and NSURP. Several undergraduate trainees have graduated and started advanced studies at prestigious graduate and medical schools or jobs at pharmaceutical/IT companies. Using lessons learned from these experiences, I will focus on the following key areas to ensure an equitable and inclusive lab climate.
+
+-   *Recruiting practices* - e.g., working with the Offices of Inclusion/Diversity, R/Py-Ladies, W+DS, and online groups for minorities in STEM (e.g., Black in Computational Biology, LatinR, AfricaR, AsiaR, ArabR, RainbowR).
+-   *Safe space for full participation* - for people from all intersectionalities, zero tolerance to discriminatory or exclusionary behavior, appropriate pronoun usage, sustain a culture rooted in mutual respect.
+-   *Empowering mentees to forge their path* - e.g., co-developing semester plans, conducting professional development workshops within the lab, creating networking opportunities through local/national/international meetings, and tailoring mentoring strategies to each mentee's career aspirations.
+
 ## Roles and expectations
 
 ### PI
@@ -18,23 +35,6 @@ My role as a PI would be to ensure your growth and success as a trainee, and the
 -   connect you with potential collaborators and mentors for scientific and professional growth and reciprocity. Team science is one of several skills you will learn during your tenure with us -- you will learn to communicate effectively not just with other computational colleagues but with the admin, grants, and scientific writing teams, experimental and clinical collaborators.
 -   create a diverse and inclusive safe space for all intersectionalities in the lab to ensure everyone thrives scientifically, professionally, and personally while respecting and supporting their colleagues.
 -   enable you to pay forward by creating inclusive communities through scientific and technical education and outreach reach opportunities (e.g., R-Ladies, AsiaR, WiSTEM, SACNAS).
-
-#### Mentoring Philosophy \| [full_post](https://github.com/JRaviLab/group/blob/main/docs/mentoring_philosophy.md)
-
-My experiences as a mentee have varied widely: fantastic professors in college inspired me to start a research career; later, a mentor overlooked my whole dissertation work resulting in prolonged authorship discussion. In my postdoctoral lab, I was the sole computational researcher collaborating with a dozen experimental biologists. I seized this invaluable opportunity to restart my academic career from scratch in a different field (i.e., studying microbial diseases), to learn, understand, and speak the language of both experimental and computational biologists, and to bring these worlds together. Collectively, these experiences have shaped my mentoring philosophy.
-
--   *Opening doors and leveling the playing field* (i.e., not gate-keeping)
--   *Lives bigger than work*
--   *Collaborative mentoring* (i.e., not top-down advising)
--   *Mentoring is not imprinting*
-
-#### Inclusive lab climate \| [full_post](https://github.com/JRaviLab/group/blob/main/docs/mentoring_philosophy.md)
-
-I have mentored 15+ diverse undergraduate and graduate students. Several joined my lab as first-time coders and have co-authored computational papers; five have contributed to submitted manuscripts (see Bibliography). All these students have had positive research experiences, presented at (inter-)national conferences, and won awards/support from national programs, including NIH-funded BRUSH, NSF-funded REU-ACRES, SROP, and NSURP. Several undergraduate trainees have graduated and started advanced studies at prestigious graduate and medical schools or jobs at pharmaceutical/IT companies. Using lessons learned from these experiences, I will focus on the following key areas to ensure an equitable and inclusive lab climate.
-
--   *Recruiting practices* - e.g., working with the Offices of Inclusion/Diversity, R/Py-Ladies, W+DS, and online groups for minorities in STEM (e.g., Black in Computational Biology, LatinR, AfricaR, AsiaR, ArabR, RainbowR).
--   *Safe space for full participation* - for people from all intersectionalities, zero tolerance to discriminatory or exclusionary behavior, appropriate pronoun usage, sustain a culture rooted in mutual respect.
--   *Empowering mentees to forge their path* - e.g., co-developing semester plans, conducting professional development workshops within the lab, creating networking opportunities through local/national/international meetings, and tailoring mentoring strategies to each mentee's career aspirations.
 
 ### Postdocs
 
@@ -211,11 +211,9 @@ If you are working remotely for extended periods, communicate regularly on Slack
 
 Generally speaking, if you are meeting milestones, participating in project and group discussions, and comfortable with your work-life balance in our lab, the details of your work schedule are flexible. For a diverse group, a schedule that accommodates everyone necessarily requires compromise. Your exact schedule will come down to your role in the lab, your preferences, and the group's availability. There are some basic rules and tenants to be aware of.
 
-### Hours
+#### Work hours
 
-For full-time members (e.g., PRAs, postdocs, grads), expect to put in 40 hours of work per week on average.
-
-For part-time members (e.g., undergraduates during the semester, interns, and other volunteers), you might be in the range of 10-30 hours a week typically.
+For full-time members (e.g., PRAs, postdocs, grads), expect to put in 40 hours of work per week on average. For part-time members (e.g., undergraduates during the semester, interns, and other volunteers), you might be in the range of 10-30 hours a week typically.
 
 These ranges are estimates, and will vary across people and over time. We never want to find ourselves in a crunch, but deadlines sometimes do pile up, and some weeks may require more hours. At the same time, some weeks will be lighter, breaks are encouraged, and working to the clock, or overtime should not be glorified either. Most importantly, maintain a comfortable work-life balance that leaves you wanting to come back for more, and keeps you far from the burnout line! If you ever feel stressed about your schedule/workload, talk to your PI & group to see how we can change things.
 
@@ -223,7 +221,31 @@ These ranges are estimates, and will vary across people and over time. We never 
 
 -   [Working remotely](https://github.com/JRaviLab/lab_docs/blob/main/howto_work_remotely.qmd) \| [CU Remote Work Agreement](https://app.smartsheet.com/b/form/d1dae0d3ba83403f8d5525213f8968d6 "CU Anschutz Remote Work Agreement")
 
-### Leave policy
+For any student-employee-related questions, please refer to the University of Colorado Denver [student hourly employment handbook](https://www.ucdenver.edu/docs/librariesprovider41/student-employment/student_hourly_employment_handbook.pdf?sfvrsn=8e3963ba_6) or the [student employment website](https://www.ucdenver.edu/lynxconnect/career-center/student-employment). Both handbooks define the student employment rules for the Denver and Anschutz Medical Campus.
+
+#### Time Off
+
+Always be a happy researcher! To be a happy researcher means you need a good balance between work and time off. We encourage you to take time off when needed, but there are a few things to remember. If there are meetings/deadlines involved, please let me (PI) and team members know ahead of time if you can't make it during crunch time.
+
+-   It's understandable that things occasionally come up -- so, it's for a few hours/1 day, feel free to drop me (PI) a quick note and take off, as needed.
+
+-   If it's more than 1-3 days (or recurring few hours/single days), let me (PI) know in advance so we can plan ahead.
+
+-   If it's \>3 days, please include me (PI) in the conversation during the planning phase (before booking your tickets/planning your travel). It's better for all parties involved if this is a conversation rather than an FYI.
+
+-   Mark your time off on the lab calendar (in a non-disruptive way -- darkest color background and NO notifications per event for everyone in the group) and notify your PI and coworkers in advance.
+
+-   Let others know if you miss any meetings during your time off. Please do your best to plan your work accordingly when known vacation times (no meeting weeks) are approaching. Don't leave too much undone before going on vacation because you may have too much to do when you return, which can cause stress.
+
+-   Also, leave good notes on what you were working on and what you must do when you return. Sometimes, when you are gone for too long, remembering where you left off can be hard, so having these notes can help you get back on track.
+
+-   Studies have shown not having a sustainable work-life balance can lead to difficulties in maintaining an efficient, productive, and healthy research experience. Therefore, it is essential to maintain a healthy work-life balance to ensure the best and most productive research experience.[(Bartlett et al., 2021)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009124)
+
+-   Be respectful of your labmates and avoid sending them messages when they are on vacation. If you are working closely with them on a project or need their help, notify them of any deadlines that may overlap with their vacation. This way meetings can be determined before your labmate leaves for vacation.
+
+-   If you receive work-related messages during vacation/holidays (incl. weekends), you are not obligated to answer them unless they are critical. If the message is urgent (esp. something you've committed to prior to your vacation and have missed checking during working days), please do your best to answer them as soon as possible. This is more so important when there are deadlines approaching. It is OK if there are occasional instances when you can't make it to a deadline -- but this can't be a norm and you \*must\* let me (PI) know in advance so we plan ahead.
+
+#### Leave policy
 
 -   For staff: The University of Colorado's [leave policies are available here](https://www.cu.edu/employee-services/leave-policies).
 -   For graduate students: Details may vary per your specific graduate program's handbook, but [the Graduate School offers basic guidelines here](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2).
