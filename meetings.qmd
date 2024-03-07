@@ -6,7 +6,7 @@ Please update this semester's meeting schedule [here](https://docs.google.com/sp
 
 ### Weekly lab meetings
 
--   These provide a space for everyone to share updates and roadblocks, and depending on the needs of the group, these meetings can be in a roundtable format where everybody who has updates can share them briefly (\<10min per person), longer form updates or presentations for 1-2 people (\<30min per person), or the entire slot can be reserved so one person can give a practice talk or major project summaries (\<60min per person). We operate a [Google spreadsheet](https://docs.google.com/spreadsheets/d/14919WwHIiKFFBcYZgF9wxACIYqh-gW-2QeDyM4WU28E/edit#gid=0) where members can put themselves down for specific topics, times, and dates. In all cases, these weekly lab meetings are required for all members to attend.
+-   These provide a space for everyone to share updates and roadblocks, and depending on the needs of the group, these meetings can be in a roundtable format where everybody who has updates can share them briefly (\<10min per person), longer form updates or presentations for 1-2 people (\<30min per person), or the entire slot can be reserved so one person can give a practice talk or major project summaries (\<60min per person). We operate a [Google spreadsheet](https://docs.google.com/spreadsheets/d/14919WwHIiKFFBcYZgF9wxACIYqh-gW-2QeDyM4WU28E/edit#gid=0) where members can put themselves down for specific topics, times, and dates. In all cases, these weekly lab meetings are required for all members to attend (it is flexible for part-time and junior members such as undergrads with heavy class loads).
 
 ### Weekly project-specific meetings
 
@@ -61,20 +61,22 @@ Please update this semester's meeting schedule [here](https://docs.google.com/sp
 
 Always confirm the exact meeting schedule with our shared Outlook Calendar and [Sheets document](https://docs.google.com/spreadsheets/d/14919WwHIiKFFBcYZgF9wxACIYqh-gW-2QeDyM4WU28E/edit#gid=0), but below are the usual meeting times.
 
-### Monthly/Weekly individual check-ins:
+### Monthly/(Bi)Weekly individual check-ins:
 
 Book via [Outlook bookings](https://bit.ly/janani-cucal).
 
-### Group meetings (\~15min per person)
+### Group meetings
 
 -   Weekly group meeting (All members) \| Fri 10.30a MST (wk)
 -   Journal clubs/[Bioinfo primer series](https://github.com/JRaviLab/bioinfo-primers) \| Thu 11a MST (wk)
--   Software engg (MolEvolvR, server, & such) \| Mon 1p MST (wk) \| DBMI-SET (CU)
--   Microbial G2P (MolEvolvR/CompGenomeR/AMR) \| Mon 2.30p MST (wk)
--   Host response and disease/drug signatures \| Thu, 9a MST (wk) \| w/ KrishnanLab (CU)
--   AMR ms \| Fri 11.45a (wk)
+
+### Project meetings
+
+-   Software engg (MolEvolvR, server, & such) \| Tu 11.30a MST (wk) \| DBMI-SET (CU)
 -   EEPID \| Tue, 12.30p (wk) \| w/ WaleLab (MSU)
--   AMR Staph \| Mon 10a (wk) \| w/ HorswillLab (CU)
+-   Disease-gene associations + ML \| Thu, 9a MST (biw) \| w/ KrishnanLab (CU)
+-   Host response and disease/drug signatures \| Thu, 10a MST (wk) \| w/ KrishnanLab (CU)
+-   Microbial G2P (MolEvolvR/CompGenomeR/AMR/MicroGenomeR) \| Fri 11.30a MST (wk)
 
 ### DBMI seminar schedule
 
@@ -89,4 +91,3 @@ Posted by the [DBMI seminar committee](https://github.com/jananiravi/dbmi_semina
 -   Coffee/tea or ice cream for local folks
 -   Once in a while, we can dedicate the group socials to fun topics close to your heart (e.g., music, sports, books, food, ...)!
 -   Online games: https://jackbox.tv \| https://drawbattle.io (was more popular during the pandemic)
-
