@@ -10,7 +10,15 @@ To re-familiarize yourself with R/Python/Unix, check out these two resources in 
 
 💡*If you find other useful resources, please add them to [this list](https://github.com/jananiravi/compbio-gists) (or share them with me).*
 
-## Learn R
+## Code
+
+-   [Write, work with, and manage source code and data](https://github.com/JRaviLab/group/blob/master/docs/howto_write_source_code.md)
+-   [Prepare for and carry out code review](https://github.com/JRaviLab/group/blob/master/docs/howto_do_code_review.md)
+-   [Share data](https://github.com/jtleek/datasharing)
+-   [Write an R package](https://github.com/jtleek/rpackages)
+-   [DBMI software engineering team tips & tricks blog posts](https://cu-dbmi.github.io/set-website/blog)
+
+### Learn R
 
 To learn R, I would recommend getting started with the pinned posts in [#courses-primers](https://jravilab.slack.com/archives/CARJ72W3U).
 
@@ -22,7 +30,12 @@ A couple of helpful GitHub repositories - <https://github.com/jananiravi/worksho
     -   [Getting Started with Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r)
     -   ... and more \| explore by topic, duration, skill-level
 
-## Helpful Links to learn more about Machine Learning
+📌 Go-to books (also in pinned posts on Slack)
+
+-   [R for Data Science](https://r4ds.had.co.nz/) (for tidyverse and such)
+-   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) (for base R) Intro to Git, GitHub resources
+
+### Intro to Machine Learning
 
 -   YouTube Videos
     -   [Machine Learning from Scratch by AssemblyAI](https://www.youtube.com/watch?v=p1hGz0w_OCo&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
@@ -31,47 +44,19 @@ A couple of helpful GitHub repositories - <https://github.com/jananiravi/worksho
     -   [Understanding Tensors by Dan Fleisch](https://www.youtube.com/watch?v=f5liqUk0ZTw)
     -   [Understanding Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk)
     -   [Basic Computer Parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
--   Articles:
+-   Articles
     -   [Transformers](http://jalammar.github.io/illustrated-transformer/)
 -   Coding Practice Sites
     -   [LeetCode](https://leetcode.com/)
 
-📌 Go-to books (also in pinned posts on Slack)
-
--   [R for Data Science](https://r4ds.had.co.nz/) (for tidyverse and such)
--   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) (for base R) Intro to Git, GitHub resources
-
-## Use VPN
-
-<https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/vpn-and-remote-access>
-
-## Learn Git/GitHub
+### Learn Git/GitHub
 
 -   <https://happygitwithr.com/> Happy Git and GitHub for the useR (connecting git/GitHub w/ R)
 -   [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) from GitHub
 -   [Git 101](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 -   [Coursera Intro to Git and GitHub course](https://www.coursera.org/learn/introduction-git-github)
 
-## Read/write/present
-
--   [Read papers](https://github.com/JRaviLab/readingpapers)
--   [Make a poster](https://github.com/JRaviLab/group/blob/master/docs/howto_make_a_poster.md)
--   [Write a paper](https://github.com/JRaviLab/group/blob/master/docs/howto_write_a_paper.md)
--   [Writing in the Sciences on Coursera](https://www.coursera.org/learn/sciwrite)
-
-## Code
-
--   [Write, work with, and manage source code and data](https://github.com/JRaviLab/group/blob/master/docs/howto_write_source_code.md)
--   [Prepare for and carry out code review](https://github.com/JRaviLab/group/blob/master/docs/howto_do_code_review.md)
--   [Share data](https://github.com/jtleek/datasharing)
--   [Write an R package](https://github.com/jtleek/rpackages)
--   [DBMI software engineering team tips & tricks blog posts](https://cu-dbmi.github.io/set-website/blog)
-
-## Plan your semester/year
-
-[Templates](https://github.com/JRaviLab/group/tree/master/docs/templates) on yearly/[semester planning](https://github.com/JRaviLab/group/blob/master/docs/Yearly-Planning-Document.pdf) and professional development are available [here](https://github.com/JRaviLab/group/tree/master/docs).
-
-## Remote server work (JRaviLab server & Alpine HPC)
+## Access HPC, servers
 
 For computing that requires high performance hardware and computing clusters, we utilize two different remote servers.
 
@@ -88,6 +73,21 @@ For computing that requires high performance hardware and computing clusters, we
 -   At the moment, a [web shell](https://ondemand-rmacc.rc.colorado.edu/pun/sys/shell/ssh/default) is the only access option for Anschutz members. This is different from a typical SSH login, and it is best to follow the official, latest Alpine documentation.
 
 Whenever possible, we highly recommend using the [VSCode extension](https://code.visualstudio.com/docs/remote/ssh) which provides an IDE on the remote host without having to worry about server-side installation of other IDEs like RStudio or Jupyter.
+
+### Use VPN
+
+<https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/vpn-and-remote-access>
+
+## Read/write/present
+
+-   [Read papers](https://github.com/JRaviLab/readingpapers)
+-   [Make a poster](https://github.com/JRaviLab/group/blob/master/docs/howto_make_a_poster.md)
+-   [Write a paper](https://github.com/JRaviLab/group/blob/master/docs/howto_write_a_paper.md)
+-   [Writing in the Sciences on Coursera](https://www.coursera.org/learn/sciwrite)
+
+## Plan your semester/year
+
+[Templates](https://github.com/JRaviLab/group/tree/master/docs/templates) on yearly/[semester planning](https://github.com/JRaviLab/group/blob/master/docs/Yearly-Planning-Document.pdf) and professional development are available [here](https://github.com/JRaviLab/group/tree/master/docs).
 
 ## Others
 

@@ -2,7 +2,7 @@
 
 ## Mission
 
-We value and believe in investing in and nurturing scientists as much as the science (we primarily love all things related to computational biology/biomedical data science + microbial genotypes, phenotypes, and diseases). We pride ourselves on providing a safe and inclusive space for people across intersectionalities. We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development. We are passionate about finding new, better ways to increase diversity and retention in STEM and quantitative sciences. If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
+We love all things related to computational biology, biomedical data science, and microbial genotypes, phenotypes, and diseases, but we value and believe in investing in and nurturing scientists as much as the science. We pride ourselves on providing a safe and inclusive space for people across intersectionalities. We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development. We are passionate about finding new, better ways to increase diversity and retention in STEM and quantitative sciences. If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
 
 ### Mentoring Philosophy \| [full_post](https://github.com/JRaviLab/group/blob/main/docs/mentoring_philosophy.md)
 
@@ -23,7 +23,7 @@ I have mentored 30+ diverse undergraduate and graduate students. Several joined 
 
 ## Roles and expectations
 
-The following sections were drafted by folks at each of these levels, while edited by rest of the group for maximal cohesion.
+The following sections were drafted by folks at each of these levels, and edited collectively by the entire group for cohesion.
 
 ### PI
 
@@ -231,9 +231,10 @@ Always be a happy researcher! To be a happy researcher means you need a good bal
 
 #### Leave policy
 
--   For staff: The University of Colorado's [leave policies are available here](https://www.cu.edu/employee-services/leave-policies).
--   For graduate students: Details may vary per your specific graduate program's handbook, but [the Graduate School offers basic guidelines here](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2).
 -   Because our group is tightly collaborative, please plan non-sick leave ahead of time to best fit all schedules when possible.
+-   For graduate students: Details may vary per your specific graduate program's handbook, but [the Graduate School offers basic guidelines here ](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2)[for vacation and leav](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2)[e](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2).
+-   Undergraduate and Masters Students: [Student Employment Handbook](https://www.ucdenver.edu/docs/librariesprovider41/student-employment/student_hourly_employment_handbook.pdf?sfvrsn=8e3963ba_6)
+-   Staff (postdocs, research professionals): The University of Colorado's [leave policies](https://www.cu.edu/employee-services/leave-policies)
 
 ## Publication, Authorship & Research Misconduct
 

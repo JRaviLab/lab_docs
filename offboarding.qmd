@@ -8,17 +8,17 @@ We are delighted to have been a part of your research life. We wish you great la
 
 Please make sure you have checked these boxes before leaving our group.
 
--   [ ] Please return any devices, cords, or computers that belong to the lab.
+-   [ ] Please return any computers, devices, cords, or accessories that belong to the lab.
 
--   [ ] All your code is on GitHub
+-   [ ] All your code is on GitHub, and all your other non-GH docs are on our shared Google Drive folder.
 
--   [ ] All your processed data files/figures/reports (\<100MB) are on GitHub
+-   [ ] All your processed data files/figures/reports (\<100MB) are on GitHub.
 
--   [ ] Large data files (raw/processed) are on the server (and backed up)
+-   [ ] Large data files (raw/processed) are on the server (and backed up).
 
--   [ ] All your scripts and data files are well-annotated with appropriate `README` files
+-   [ ] All your scripts and data files are well-annotated with appropriate `README` files and `Mermaid` workflows, when relevant.
 
--   [ ] Added detailed status report of where things -- what was tried, what worked/didn't work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps)
+-   [ ] Added a detailed status report of where things -- what was tried, what worked/didn't work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps)
 
 -   [ ] You have reoriented me and at least 1-2 other project members with the precise status (and next steps) of the project and the location of files
 
@@ -28,15 +28,9 @@ Please make sure you have checked these boxes before leaving our group.
 
 -   [ ] If you have worked with us for a considerable period of time, you will remain a part of `#the-continuum` channel on our Slack.
 
--   [ ] Leave and update us of any changes in contact information for authorship purposes in case we need to reach you and add you to the list of authors for all the work you contributed to the published project.
+-   [ ] Leave and update us of any changes in contact information for authorship purposes (in case we need to reach you and add you to the list of authors for all the work you contributed to the published project) and for us to know where you are now thriving.
 
-#### If you need more information on the leave policy, please refer to the appropriate link at the bottom.
-
-Undergraduate and Masters Students: [Student Employment Handbook](https://www.ucdenver.edu/docs/librariesprovider41/student-employment/student_hourly_employment_handbook.pdf?sfvrsn=8e3963ba_6)
-
-Ph.D. Students: [Graduate School Policy for Vacation and Leave](https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2)
-
-Good luck!
+Good luck with your career next steps!
 
 ## Stay in touch
 
