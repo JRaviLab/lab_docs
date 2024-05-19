@@ -10,17 +10,17 @@ Please make sure you have checked these boxes before leaving our group.
 
 -   [ ] Please return any computers, devices, cords, or accessories that belong to the lab.
 
--   [ ] All your code is on GitHub, and all your other non-GH docs are on our shared Google Drive folder.
+-   [ ] All your code is on GitHub (jravilab organization), and all your other non-GH docs are on our shared Google Drive folder. Please check to make sure none of the codebase or docs are on private Drive/GitHub repos (that are not part of our lab).
 
 -   [ ] All your processed data files/figures/reports (\<100MB) are on GitHub.
 
--   [ ] Large data files (raw/processed) are on the server (and backed up).
+-   [ ] Large data files (raw/processed) are on the server (and backed up); check to make sure your project successors and I have read/write access to these files/folders on the server.
 
 -   [ ] All your scripts and data files are well-annotated with appropriate `README` files and `Mermaid` workflows, when relevant.
 
--   [ ] Added a detailed status report of where things -- what was tried, what worked/didn't work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps)
+-   [ ] Added a detailed status report of where things -- what was tried, what worked/didn't work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps).
 
--   [ ] You have reoriented me and at least 1-2 other project members with the precise status (and next steps) of the project and the location of files
+-   [ ] You have reoriented me and at least 1-2 other project members with the precise status (and next steps) of the project and the location of files.
 
 -   [ ] You are not a full member of our GitHub organization, Slack workspace, Google Drive, or Outlook Calendar anymore but will retain access to the project channel/repo until publication (or complete transition to other project members).
 
@@ -28,10 +28,11 @@ Please make sure you have checked these boxes before leaving our group.
 
 -   [ ] If you have worked with us for a considerable period of time, you will remain a part of `#the-continuum` channel on our Slack.
 
--   [ ] Leave and update us of any changes in contact information for authorship purposes (in case we need to reach you and add you to the list of authors for all the work you contributed to the published project) and for us to know where you are now thriving.
+-   [ ] Please update us of any changes in contact information for authorship purposes (in case we need to reach you and add you to the list of authors for all the work you contributed to the published project) and for us to know where you are now thriving.
 
-Good luck with your career next steps!
+We appreciate your contributions to JRaviLab, and we have set you up to succeed in life! We wish you the very best with your career next steps!
 
 ## Stay in touch
+We would love to hear from our dear alumni -- please share your updates/accomplishments on `#the-continuum` or stay tuned for others' news, too! And let us know when you're in Denver next so we catch up for a cup of coffee/tea!
 
 [Webpage](https://jravilab.github.io) \| [PI](https://jravilab.github.io/#about) \| [Twitter](https://twitter.com/jravilab) \| [Mastodon](https://genomic.social/@jravilab) \| [Email](mailto:janani.ravi@cuanschutz.edu)
