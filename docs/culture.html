@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.475">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>JRaviLab docs - 2&nbsp; Lab culture</title>
+<title>2&nbsp; Lab culture – JRaviLab docs</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -49,7 +49,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -58,8 +64,10 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -70,11 +78,16 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Lab culture</span></h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./culture.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Lab culture</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -82,14 +95,14 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">JRaviLab docs</a> 
         <div class="sidebar-tools-main tools-wide">
-    <a href="https://github.com/jravilab/lab_docs" title="Source Code" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-  <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-  <a href="" class="quarto-reader-toggle sidebar-tool" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+    <a href="https://github.com/jravilab/lab_docs" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
   </div>
@@ -97,84 +110,98 @@ ul.task-list li input[type="checkbox"] {
 </div>
     </div>
       </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">About JRaviLab docs</a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About JRaviLab docs</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./onboarding.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Onboarding</span></a>
+  <a href="./onboarding.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Onboarding</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./culture.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Lab culture</span></a>
+  <a href="./culture.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Lab culture</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./howto.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">How to X</span></a>
+  <a href="./howto.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">How to X</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./resources.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Resources</span></a>
+  <a href="./resources.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Resources</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./offboarding.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Offboarding</span></a>
+  <a href="./offboarding.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Offboarding</span></span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Appendices</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Appendices</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./meetings.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">A</span>&nbsp; <span class="chapter-title">Meetings</span></a>
+  <a href="./meetings.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">A</span>&nbsp; <span class="chapter-title">Meetings</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./howto_code_review.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Code Review</span></a>
+  <a href="./howto_code_review.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Code Review</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./howto_write_sourcecode.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">C</span>&nbsp; <span class="chapter-title">Code/Data Best Practices</span></a>
+  <a href="./howto_write_sourcecode.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">C</span>&nbsp; <span class="chapter-title">Code/Data Best Practices</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./howto_work_remotely.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">D</span>&nbsp; <span class="chapter-title">Remote Work</span></a>
+  <a href="./howto_work_remotely.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">D</span>&nbsp; <span class="chapter-title">Remote Work</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./howto_make_poster.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">E</span>&nbsp; <span class="chapter-title">Make a poster</span></a>
+  <a href="./howto_make_poster.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">E</span>&nbsp; <span class="chapter-title">Make a poster</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./howto_write_paper.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">F</span>&nbsp; <span class="chapter-title">Writing papers</span></a>
+  <a href="./howto_write_paper.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">F</span>&nbsp; <span class="chapter-title">Writing papers</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./career-dev.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">G</span>&nbsp; <span class="chapter-title">Career/Professional Development</span></a>
+  <a href="./career-dev.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">G</span>&nbsp; <span class="chapter-title">Career/Professional Development</span></span></a>
   </div>
 </li>
       </ul>
@@ -182,55 +209,56 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#mission" id="toc-mission" class="nav-link active" data-scroll-target="#mission"><span class="toc-section-number">2.1</span>  Mission</a>
+  <li><a href="#mission" id="toc-mission" class="nav-link active" data-scroll-target="#mission"><span class="header-section-number">2.1</span> Mission</a>
   <ul class="collapse">
-  <li><a href="#mentoring-philosophy-full_post" id="toc-mentoring-philosophy-full_post" class="nav-link" data-scroll-target="#mentoring-philosophy-full_post"><span class="toc-section-number">2.1.1</span>  Mentoring Philosophy | full_post</a></li>
-  <li><a href="#inclusive-lab-climate-full_post" id="toc-inclusive-lab-climate-full_post" class="nav-link" data-scroll-target="#inclusive-lab-climate-full_post"><span class="toc-section-number">2.1.2</span>  Inclusive lab climate | full_post</a></li>
+  <li><a href="#mentoring-philosophy-full_post" id="toc-mentoring-philosophy-full_post" class="nav-link" data-scroll-target="#mentoring-philosophy-full_post"><span class="header-section-number">2.1.1</span> Mentoring Philosophy | full_post</a></li>
+  <li><a href="#inclusive-lab-climate-full_post" id="toc-inclusive-lab-climate-full_post" class="nav-link" data-scroll-target="#inclusive-lab-climate-full_post"><span class="header-section-number">2.1.2</span> Inclusive lab climate | full_post</a></li>
   </ul></li>
-  <li><a href="#roles-and-expectations" id="toc-roles-and-expectations" class="nav-link" data-scroll-target="#roles-and-expectations"><span class="toc-section-number">2.2</span>  Roles and expectations</a>
+  <li><a href="#roles-and-expectations" id="toc-roles-and-expectations" class="nav-link" data-scroll-target="#roles-and-expectations"><span class="header-section-number">2.2</span> Roles and expectations</a>
   <ul class="collapse">
-  <li><a href="#pi" id="toc-pi" class="nav-link" data-scroll-target="#pi"><span class="toc-section-number">2.2.1</span>  PI</a></li>
-  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students"><span class="toc-section-number">2.2.2</span>  Graduate students</a></li>
-  <li><a href="#postdocs" id="toc-postdocs" class="nav-link" data-scroll-target="#postdocs"><span class="toc-section-number">2.2.3</span>  Postdocs</a></li>
-  <li><a href="#research-professionals-pras-postbac-post-ms-trainees" id="toc-research-professionals-pras-postbac-post-ms-trainees" class="nav-link" data-scroll-target="#research-professionals-pras-postbac-post-ms-trainees"><span class="toc-section-number">2.2.4</span>  Research professionals (PRAs / postbac, post-MS trainees)</a></li>
-  <li><a href="#undergraduates-short-term-internsvisiting-scientists" id="toc-undergraduates-short-term-internsvisiting-scientists" class="nav-link" data-scroll-target="#undergraduates-short-term-internsvisiting-scientists"><span class="toc-section-number">2.2.5</span>  Undergraduates (Short-term interns/Visiting scientists)</a></li>
+  <li><a href="#pi" id="toc-pi" class="nav-link" data-scroll-target="#pi"><span class="header-section-number">2.2.1</span> PI</a></li>
+  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students"><span class="header-section-number">2.2.2</span> Graduate students</a></li>
+  <li><a href="#postdocs" id="toc-postdocs" class="nav-link" data-scroll-target="#postdocs"><span class="header-section-number">2.2.3</span> Postdocs</a></li>
+  <li><a href="#research-professionals-pras-postbac-post-ms-trainees" id="toc-research-professionals-pras-postbac-post-ms-trainees" class="nav-link" data-scroll-target="#research-professionals-pras-postbac-post-ms-trainees"><span class="header-section-number">2.2.4</span> Research professionals (PRAs / postbac, post-MS trainees)</a></li>
+  <li><a href="#undergraduates-short-term-internsvisiting-scientists" id="toc-undergraduates-short-term-internsvisiting-scientists" class="nav-link" data-scroll-target="#undergraduates-short-term-internsvisiting-scientists"><span class="header-section-number">2.2.5</span> Undergraduates (Short-term interns/Visiting scientists)</a></li>
   </ul></li>
-  <li><a href="#code-of-conduct" id="toc-code-of-conduct" class="nav-link" data-scroll-target="#code-of-conduct"><span class="toc-section-number">2.3</span>  Code of conduct</a>
+  <li><a href="#code-of-conduct" id="toc-code-of-conduct" class="nav-link" data-scroll-target="#code-of-conduct"><span class="header-section-number">2.3</span> Code of conduct</a>
   <ul class="collapse">
-  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview"><span class="toc-section-number">2.3.1</span>  Overview</a></li>
-  <li><a href="#professional-conduct" id="toc-professional-conduct" class="nav-link" data-scroll-target="#professional-conduct"><span class="toc-section-number">2.3.2</span>  Professional Conduct</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview"><span class="header-section-number">2.3.1</span> Overview</a></li>
+  <li><a href="#professional-conduct" id="toc-professional-conduct" class="nav-link" data-scroll-target="#professional-conduct"><span class="header-section-number">2.3.2</span> Professional Conduct</a></li>
   </ul></li>
-  <li><a href="#health-and-wellness" id="toc-health-and-wellness" class="nav-link" data-scroll-target="#health-and-wellness"><span class="toc-section-number">2.4</span>  Health and wellness</a>
+  <li><a href="#health-and-wellness" id="toc-health-and-wellness" class="nav-link" data-scroll-target="#health-and-wellness"><span class="header-section-number">2.4</span> Health and wellness</a>
   <ul class="collapse">
-  <li><a href="#inclusive-and-safe-space" id="toc-inclusive-and-safe-space" class="nav-link" data-scroll-target="#inclusive-and-safe-space"><span class="toc-section-number">2.4.1</span>  Inclusive and safe space</a></li>
+  <li><a href="#inclusive-and-safe-space" id="toc-inclusive-and-safe-space" class="nav-link" data-scroll-target="#inclusive-and-safe-space"><span class="header-section-number">2.4.1</span> Inclusive and safe space</a></li>
   </ul></li>
-  <li><a href="#lab-proceedings" id="toc-lab-proceedings" class="nav-link" data-scroll-target="#lab-proceedings"><span class="toc-section-number">2.5</span>  Lab Proceedings</a>
+  <li><a href="#lab-proceedings" id="toc-lab-proceedings" class="nav-link" data-scroll-target="#lab-proceedings"><span class="header-section-number">2.5</span> Lab Proceedings</a>
   <ul class="collapse">
-  <li><a href="#communication" id="toc-communication" class="nav-link" data-scroll-target="#communication"><span class="toc-section-number">2.5.1</span>  Communication</a></li>
-  <li><a href="#meetings-and-formats" id="toc-meetings-and-formats" class="nav-link" data-scroll-target="#meetings-and-formats"><span class="toc-section-number">2.5.2</span>  Meetings and formats</a></li>
-  <li><a href="#remote-work-working-hours" id="toc-remote-work-working-hours" class="nav-link" data-scroll-target="#remote-work-working-hours"><span class="toc-section-number">2.5.3</span>  Remote work &amp; working hours</a></li>
+  <li><a href="#communication" id="toc-communication" class="nav-link" data-scroll-target="#communication"><span class="header-section-number">2.5.1</span> Communication</a></li>
+  <li><a href="#meetings-and-formats" id="toc-meetings-and-formats" class="nav-link" data-scroll-target="#meetings-and-formats"><span class="header-section-number">2.5.2</span> Meetings and formats</a></li>
+  <li><a href="#remote-work-working-hours" id="toc-remote-work-working-hours" class="nav-link" data-scroll-target="#remote-work-working-hours"><span class="header-section-number">2.5.3</span> Remote work &amp; working hours</a></li>
   </ul></li>
-  <li><a href="#publication-authorship-research-misconduct" id="toc-publication-authorship-research-misconduct" class="nav-link" data-scroll-target="#publication-authorship-research-misconduct"><span class="toc-section-number">2.6</span>  Publication, Authorship &amp; Research Misconduct</a>
+  <li><a href="#publication-authorship-research-misconduct" id="toc-publication-authorship-research-misconduct" class="nav-link" data-scroll-target="#publication-authorship-research-misconduct"><span class="header-section-number">2.6</span> Publication, Authorship &amp; Research Misconduct</a>
   <ul class="collapse">
-  <li><a href="#publishing" id="toc-publishing" class="nav-link" data-scroll-target="#publishing"><span class="toc-section-number">2.6.1</span>  Publishing</a></li>
-  <li><a href="#authorship" id="toc-authorship" class="nav-link" data-scroll-target="#authorship"><span class="toc-section-number">2.6.2</span>  Authorship</a></li>
-  <li><a href="#research-misconduct" id="toc-research-misconduct" class="nav-link" data-scroll-target="#research-misconduct"><span class="toc-section-number">2.6.3</span>  Research Misconduct</a></li>
+  <li><a href="#publishing" id="toc-publishing" class="nav-link" data-scroll-target="#publishing"><span class="header-section-number">2.6.1</span> Publishing</a></li>
+  <li><a href="#authorship" id="toc-authorship" class="nav-link" data-scroll-target="#authorship"><span class="header-section-number">2.6.2</span> Authorship</a></li>
+  <li><a href="#research-misconduct" id="toc-research-misconduct" class="nav-link" data-scroll-target="#research-misconduct"><span class="header-section-number">2.6.3</span> Research Misconduct</a></li>
   </ul></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/jravilab/lab_docs/edit/main/culture.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/jravilab/lab_docs/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jravilab/lab_docs/edit/main/culture.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jravilab/lab_docs/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Lab culture</span></h1>
+<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Lab culture</span></h1>
 </div>
 
 
@@ -243,11 +271,13 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <section id="mission" class="level2" data-number="2.1">
 <h2 data-number="2.1" class="anchored" data-anchor-id="mission"><span class="header-section-number">2.1</span> Mission</h2>
-<p>We love all things related to computational biology, biomedical data science, and microbial genotypes, phenotypes, and diseases, but we value and believe in investing in and nurturing scientists as much as the science. We pride ourselves on providing a safe and inclusive space for people across intersectionalities. We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development. We are passionate about finding new, better ways to increase diversity and retention in STEM and quantitative sciences. If you share our passion, please <a href="//jravilab.github.io/joinus">reach out to us</a>!</p>
+<p>We love all things related to computational biology, biomedical data science, and microbial genotypes, phenotypes, and diseases, but we value and believe in investing in and nurturing scientists as much as the science. We pride ourselves on providing a safe and inclusive space for people across intersectionalities. We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development. We are passionate about finding new, better ways to increase diversity and retention in STEM and quantitative sciences. If you share our passion, please <a href="./jravilab.github.io/joinus">reach out to us</a>!</p>
 <section id="mentoring-philosophy-full_post" class="level3" data-number="2.1.1">
 <h3 data-number="2.1.1" class="anchored" data-anchor-id="mentoring-philosophy-full_post"><span class="header-section-number">2.1.1</span> Mentoring Philosophy | <a href="https://github.com/JRaviLab/group/blob/main/docs/mentoring_philosophy.md">full_post</a></h3>
 <p>My experiences as a mentee have varied widely: fantastic professors in college inspired me to start a research career; later, a mentor overlooked my whole dissertation work resulting in prolonged authorship discussion. In my postdoctoral lab, I was the sole computational researcher collaborating with a dozen experimental biologists. I seized this invaluable opportunity to restart my academic career from scratch in a different field (i.e., studying microbial diseases), to learn, understand, and speak the language of both experimental and computational biologists, and to bring these worlds together. Collectively, these experiences have shaped my mentoring philosophy.</p>
@@ -270,20 +300,20 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="roles-and-expectations" class="level2" data-number="2.2">
 <h2 data-number="2.2" class="anchored" data-anchor-id="roles-and-expectations"><span class="header-section-number">2.2</span> Roles and expectations</h2>
-<p>The following sections were drafted by folks at each of these levels, and edited collectively by the entire group for cohesion.</p>
+<p>The following sections were drafted by folks at each of these levels and edited collectively by the entire group for cohesion.</p>
 <section id="pi" class="level3" data-number="2.2.1">
 <h3 data-number="2.2.1" class="anchored" data-anchor-id="pi"><span class="header-section-number">2.2.1</span> PI</h3>
 <p>My role as a PI would be to ensure your growth and success as a trainee, and the success of the project. Towards this, I will</p>
 <ul>
 <li><strong>Plan and design</strong>
 <ul>
-<li><strong>Sounding board</strong>. You will have the freedom to work on your best ideas broadly aligned with the lab’s vision and you will always find in me an audience to discuss and brainstorm.</li>
+<li><strong>Sounding board</strong>. You will have the freedom to work on your best ideas broadly aligned with the lab’s vision, and you will always find in me an audience to discuss and brainstorm.</li>
 <li>I will help outline and plan your project(s) and design appropriate analyses.</li>
-<li>I will check-in with you once a semester as you plan your time, and more regularly to ensure you’re on track – based on the professional, scientific, and personal goals you’ve set for yourself. In addition to the project/group meetings, check-in with me often (bi)weekly (or as needed) to make sure you are staying on track towards your primary research and professional goals, and to help me help you as best as I can.</li>
+<li>I will check in with you once a semester as you plan your time, and more regularly to ensure you’re on track – based on the professional, scientific, and personal goals you’ve set for yourself. In addition to the project/group meetings, check in with me often (bi)weekly (or as needed) to make sure you are staying on track towards your primary research and professional goals and to help me help you as best as I can.</li>
 </ul></li>
 <li><strong>Honing your skills –&gt; career development.</strong> I will provide resources to develop your research program and technical skills as you plan the next stage of your career (e.g., PRA –&gt; grad school, PhD student –&gt; postdoc/industry, postdoc –&gt; PI/research lead).</li>
 <li><strong>Scientific communication.</strong> I will provide ample opportunities within and outside the group to develop your reading, writing (grants and papers), and presenting skills, including engaging and networking at (inter)national meetings.</li>
-<li><strong>Professional networking.</strong> I will connect you with potential collaborators and mentors for scientific and professional growth and reciprocity. Team science is one of several skills you will learn during your tenure with us – you will learn to communicate effectively not just with other computational colleagues but with the admin, grants, and scientific writing teams, experimental and clinical collaborators.</li>
+<li><strong>Professional networking.</strong> I will connect you with potential collaborators and mentors for scientific and professional growth and reciprocity. Team science is one of several skills you will learn during your tenure with us – you will learn to communicate effectively not just with other computational colleagues but with the admin, grants and scientific writing teams, and experimental and clinical collaborators.</li>
 <li><strong>Safe space.</strong> I will continually work towards creating a diverse and inclusive safe space for all intersectionalities in the lab to ensure everyone thrives and grows scientifically, professionally, and personally while respecting and supporting their colleagues.</li>
 <li><strong>Education and outreach.</strong> I will enable and strongly encourage you to pay forward by creating inclusive communities through scientific and technical education and outreach reach opportunities within and beyond CU (e.g., R-Ladies, AsiaR, WiSTEM, SACNAS).</li>
 </ul>
@@ -294,7 +324,7 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Learning to be a well-rounded scientist</strong>
 <ul>
 <li>Strive to be creative, independent, and collaborative (as a team scientist).</li>
-<li>Be willing to learn new things and be open-minded to new ideas/directions. Be thoughtful and think deep about your rationale and hypothesis. Be critical and rigorous in your methods and evaluation. It is perfectly OK to find your passion and love (and dream about) certain topics/fields, but remain open enough to like/appreciate other topics (and avoid maintaining a curtailing <em>hate/dislike</em> list). This will ensure you read, listen to, and consume ideas constructively, ultimately honing your scientific growth.</li>
+<li>Be willing to learn new things and be open-minded to new ideas/directions. Be thoughtful and think deeply about your rationale and hypothesis. Be critical and rigorous in your methods and evaluation. It is perfectly OK to find your passion and love (and dream about) certain topics/fields, but remain open enough to like/appreciate other topics (and avoid maintaining a curtailing <em>hate/dislike</em> list). This will ensure you read, listen to, and consume ideas constructively, ultimately honing your scientific growth.</li>
 </ul></li>
 <li><strong>Reading</strong>
 <ul>
@@ -309,15 +339,16 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 <li><strong>Writing</strong>
 <ul>
-<li>Keep applying for internal/external funding opportunities (good practice for scientific writing).</li>
-<li>Contribute pro-actively to grant proposal writing with the PI by proposing new ideas and generating preliminary results.</li>
+<li>Keep applying for internal/external fellowships and funding opportunities (it would be excellent practice for scientific writing and critical thinking; it recognizes your ideas and trajectory; it would also be amazing to receive funding to pursue new independent research projects that even slightly divergent from the PI’s projects).</li>
+<li>Contribute proactively to grant proposal writing with the PI by proposing new ideas and generating preliminary results.</li>
 </ul></li>
 <li><strong>Scientific communication</strong>
 <ul>
 <li>Formal/semi-formal scientific writing, e.g., abstracts, manuscripts, grant/fellowship applications, blog posts.</li>
 <li>Give oral presentations in different settings, e.g., group meetings, posters, talks, research updates, and journal club meetings.</li>
 <li>Keep well-organized meeting notes. In group meetings, take turns as the scribe.</li>
-<li>Look out for opportunities that PI/others often posts in the lab Slack, the DBMI Slack, or email. Opportunities to look out for are but are not limited to funding, poster events, presentations, conferences, seminars, and courses.</li>
+<li>Look out for opportunities that PI/others often post in the lab Slack, the RIO/CU Bioinfo Slack workspaces, or email. These opportunities to look out for are but are not limited to, funding, poster events, presentations, conferences, seminars, and courses.</li>
+<li>Submit abstracts to several conferences; ideally, all regional meetings that the whole group would attend (e.g., Rocky Mountain Branch of ASM, Rocky Bioinformatics, Frontrange Microbiome, qCMB at CSU), at least one national meeting (2+ years/post-comps grads are encouraged to submit talk abstracts and more junior (pre-comps/rotation) students can submit posters if they have in-progress or shorter stories to communicate. All students are encouraged to apply for travel and conference fellowships from CU, national societies, and the meetings themselves.</li>
 </ul></li>
 <li><strong>Meeting and engagement</strong>
 <ul>
@@ -345,14 +376,14 @@ ul.task-list li input[type="checkbox"] {
 <li>Set aside 3-4 hours of productive slots on days without classes for (i) writing code, (ii) reading/writing papers, and (iii) generating results.</li>
 <li>Inculcate good time management skills. Ensure you have an efficient work-life balance to nurture your physical and mental health.</li>
 <li>[Side projects] Learn more about other projects in the lab and make meaningful contributions to them, especially those most relevant to your research program (co-attendees of project meetings).</li>
-<li><strong>Deadlines.</strong> Establish clear deadlines/academic plans, e.g., comprehensive exam, defense. Plan to graduate within 5 years; finishing your comprehensive exam by the start of your third year (end-of-second-year would be preferable and ideal to keep you on track).</li>
+<li><strong>Deadlines.</strong> Establish clear deadlines/academic plans, e.g., comprehensive exam, defense. Plan to graduate well within 5 years, especially if you are ready in terms of progress, manuscripts, conferences, and other milestones; finish your comprehensive exam by the start of your third year (end-of-second-year would be preferable and ideal to keep you on track).</li>
 <li>Adhere to general work ethics laid out for the lab.</li>
 </ul></li>
 <li><strong>Semester planning.</strong> In addition to detailed research goals, set SMART goals for professional and personal development. Below is a general list of what semester planning entails.
 <ul>
 <li>Academic planning: required/elective courses.</li>
 <li>Take on leadership roles through mentoring or presenting.</li>
-<li>Attend seminars (regularly/weekly) and conferences.</li>
+<li>Attend seminars (regularly/weekly; look beyond your compulsory grad program series alone) and conferences.</li>
 <li>Set clear reading, writing, coding, and presenting goals.</li>
 <li>Volunteer | education, outreach, JEDI.</li>
 <li>Set recurring meetings with the PI(s) and attend project meetings.</li>
@@ -363,24 +394,24 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-number="2.2.3" class="anchored" data-anchor-id="postdocs"><span class="header-section-number">2.2.3</span> Postdocs</h3>
 <p>As a postdoctoral researcher, you wear many hats besides those of more junior scientists in the lab. So, in addition to the expectations from a graduate-level researcher (above), these might be relevant to your senior level and experience.</p>
 <ul>
-<li><strong>Training opportunity.</strong> you are here to learn new skills and expand your scientific boundaries. You are not expected to know everything, but you should be comfortable (and preferably excited!) throwing yourself into new problems and solving them.</li>
+<li><strong>Training opportunity.</strong> You are here to learn new skills and expand your scientific boundaries. You are not expected to know everything, but you should be comfortable (and preferably excited!) throwing yourself into new problems and solving them.</li>
 <li><strong>Peer mentoring.</strong> You are also here to help others learn. Postdocs have considerable experience in many aspects, typically involving academia, research, and more. That experience can be beneficial for scientists who are earlier in their careers. Contribute generously where you can, and make yourself available for others in the group. A rising tide lifts all boats.</li>
 <li><strong>Scientific independence.</strong> Postdocs are strongly encouraged to pursue their independent research interests aligned with the group’s research interests. For projects that succeed, they should have “future directions” they can take forward into their independent careers in the future.</li>
 <li><strong>Collaboration.</strong> In addition, you may work on several existing projects across the lab – either leading them or helping each team navigate research obstacles. Postdocs have already had experience troubleshooting their way through their work in the past, and are expected to be able to leverage that experience by operating more independently. Some projects you work on might be new and higher risk, and some might be stalled and in need of a fresh perspective. Postdocs are also strongly encouraged to engage in a few active collaborations outside the group (<a href="https://docs.google.com/spreadsheets/d/1lYjNFaaA8xa4-owqgjGkNAbYJgEdn-6WW2lwfSTbeQU/edit?pli=1#gid=0">from our ongoing list</a>) — to test their methods on interesting biomedical applications, gain diverse perspectives, while balancing basic and translational research. The professional networking aspect is critical, too.</li>
 <li><strong>Grants and fellowships.</strong> Grant/fellowship writing is a crucial aspect of a postdoc’s job. It funds your position and research where possible and, most critically, gives you practice and experience seeking and applying for funding opportunities needed for launching into independent faculty positions.</li>
-<li><strong>Communication.</strong> Communicating science is a fundamental and essential part of this role, be it through manuscripts, conference presentations, or workshops. Expect to keep busy presenting your work at regional and (inter)national platforms, and use the experience to get your name out there and network!</li>
+<li><strong>Communication.</strong> Communicating science is a fundamental and essential part of this role, be it through manuscripts, conference presentations, or workshops. Expect to keep busy presenting your work at regional and (inter)national platforms, and use the experience to get your name out there and network! Once you’ve found your footing, we encourage postdocs to always apply for talks (alongside posters).</li>
 <li><strong>Career development.</strong> Finding your next step is the ultimate goal of your position. For all the roles you have, they should help focus your skillset, CV, and open future opportunities for you to move onwards and upwards towards where you want to end up in life.</li>
 </ul>
 </section>
 <section id="research-professionals-pras-postbac-post-ms-trainees" class="level3" data-number="2.2.4">
 <h3 data-number="2.2.4" class="anchored" data-anchor-id="research-professionals-pras-postbac-post-ms-trainees"><span class="header-section-number">2.2.4</span> Research professionals (PRAs / postbac, post-MS trainees)</h3>
 <ul>
-<li>In addition to most applicable points from the <code>Graduate Student</code> section above (barring rare exceptions like comprehensive exams, etc.), the following are great pointers for research professionals.</li>
+<li>In addition to the most applicable points from the <code>Graduate Student</code> section above (barring rare exceptions like comprehensive exams, etc.), the following are great pointers for research professionals.</li>
 <li><strong>Individual and team scientist</strong>
 <ul>
 <li>Lead individual projects and contribute new ideas and research directions, while also supporting other lab members’ projects collaboratively.</li>
 <li>Assist with the design and development of major bioinformatics-related programming projects.</li>
-<li>The supportive role can overlap with the project-related scientific tasks, or other technical and software-development tasks like code review and any assistance with coding/environment/installation issues.</li>
+<li>The supportive role can overlap with the project-related scientific tasks or other technical and software-development tasks like code review and any assistance with coding/environment/installation issues.</li>
 </ul></li>
 <li><strong>Technical contribution</strong>
 <ul>
@@ -392,7 +423,7 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 <li><strong>Communication</strong>
 <ul>
-<li>(In addition to the opportunities/modes highlighted above …) Present research/technical updates periodically, host journal clubs, workshops/tutorials, and attend all group and project meetings.</li>
+<li>(In addition to the opportunities/modes highlighted above) Present research/technical updates periodically, host journal clubs, workshops/tutorials, and attend all group and project meetings.</li>
 </ul></li>
 <li><strong>Professional development and networking</strong>
 <ul>
@@ -407,7 +438,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The <code>Graduate Student</code> section above should give you a fair idea about how to be trained as a well-rounded scientist. As a junior researcher, however, the following would be excellent starting points.</p>
 <ul>
 <li><strong>Be present.</strong> Attend meetings and bring forth your best effort.</li>
-<li><strong>Ask for help.</strong> We encourage you to be proactive; ask questions and provide any updates or ideas to our Slack channels.</li>
+<li><strong>Ask for help.</strong> We encourage you to be proactive, ask questions, and provide any updates or ideas to our Slack channels.</li>
 <li><strong>Strive for growth.</strong> It will be challenging, but we want you to keep trying and persist – learning is the main goal, and being receptive and open to constructive feedback is a great way to improve.</li>
 <li><strong>Give yourself grace.</strong> You’ve earned a spot in our community, and you belong here. Failure is inevitable with the work we’re doing; your work doesn’t define you or your abilities. We’re all here for you!</li>
 <li><strong>Stay organized.</strong> Keeping track of your priorities, tasks, and responsibilities will allow you to monitor your progress and make it easier for others to help you. Time management is essential for pacing yourself to achieve your goals.</li>
@@ -431,14 +462,14 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-number="2.3.1" class="anchored" data-anchor-id="overview"><span class="header-section-number">2.3.1</span> Overview</h3>
 <p>There is zero tolerance for harassment, discrimination, micro- or passive aggression in the JRaviLab and at the University of Colorado. These are forms of abuse, and they create a workplace environment that can leave people feeling unsafe and unwelcome. Members of the JRaviLab come from many different backgrounds, and this diversity is one of our greatest strengths. If you are uncomfortable with or have any issue with any lab member (including the PI), please bring it up immediately for a speedy resolution and a healthy and transparent long-term relationship.</p>
 <p>While this is not exhaustive, examples of unacceptable behaviors include harassment, discrimination, or other unwanted behaviors, verbal or physical, that make others uncomfortable, both at and outside work. This applies to conduct in public or on social media, not just at the job. Protected categories include but are not limited to gender identity and sexuality, physical appearance, size, weight, and disability (of all types), race, ethnic group, age, and religion. These topics are covered in part by the required training modules you will take after employment at the University of Colorado.</p>
-<p>You can review the policies from the Office of Equity’s Discrimination and Harassment page <a href="https://www.ucdenver.edu/offices/equity/university-policies-procedures/discrimination-and-harassment">here</a>, and from the Anschutz Medical Campus’ office of Diversity, Equity, Inclusion and Community Engagement <a href="https://www.cuanschutz.edu/offices/diversity-equity-inclusion-community/resources/policies">here</a>.</p>
-<p>We recognize that because of our diverse backgrounds, our experiences with what conduct is considered appropriate may vary, and similarly, no-one should feel afraid to be themselves out of fear of violating an unspoken rule. Instead, it is our collective responsibility to educate each other. If we see or hear conduct that is inappropriate, whether it is targeted at us or other individuals or groups, each of us must commit to calling that behavior out. A joke in poor taste alone won’t get anyone terminated, but a pattern of misconduct despite being told it is inappropriate, arguing back or justification of misconduct when asked to avoid such behaviors, or severe misconduct are grounds for discipline.</p>
+<p>You can review the policies from the Office of Equity’s Discrimination and Harassment page <a href="https://www.ucdenver.edu/offices/equity/university-policies-procedures/discrimination-and-harassment">here</a>, and from the Anschutz Medical Campus’ office of Diversity, Equity, Inclusion and Community Engagement <a href="https://www.cuanschutz.edu/offices/access-engagement/resources/policies">here</a>.</p>
+<p>We recognize that because of our diverse backgrounds, our experiences with what conduct is considered appropriate may vary, and similarly, no one should feel afraid to be themselves out of fear of violating an unspoken rule. Instead, it is our collective responsibility to educate each other. If we see or hear conduct that is inappropriate, whether it is targeted at us or other individuals or groups, each of us must commit to calling that behavior out. A joke in poor taste alone won’t get anyone terminated, but a pattern of misconduct despite being told it is inappropriate, arguing back or justification of misconduct when asked to avoid such behaviors, and severe misconduct are grounds for discipline.</p>
 <p>If you are unsure what constitutes acceptable behavior and where the line is drawn, talk to us! These rules are important, but they are also a socially determined set of boundaries – they are not universally known and universally evident, and it is our collective responsibility to help each other understand what the boundaries are and how to steer safely clear of them. Similarly, if you feel like a comment or behavior might be inappropriate, you do not need to have a justification for feeling upset, you do not need to seek second opinions from others, and you do not need to observe the behavior repeatedly for it to be a problem – all of our individual boundaries, personalities, and histories are what define the rules, and your voice is important. You should always feel comfortable speaking up, especially if you are a lone voice!</p>
 <p>If you observe or are the recipient of discrimination, sexual misconduct, or harassment, reports should be made to the Office of Equity. <a href="https://www.ucdenver.edu/offices/equity/resolutions/make-a-report">You can read about this process here</a>. Depending on your classification, <a href="https://www.ucdenver.edu/offices/equity/resolutions/who-is-required-to-report">you may be a mandatory reporter of misconduct</a>, meaning you must report any such misconduct you observe.</p>
 </section>
 <section id="professional-conduct" class="level3" data-number="2.3.2">
 <h3 data-number="2.3.2" class="anchored" data-anchor-id="professional-conduct"><span class="header-section-number">2.3.2</span> Professional Conduct</h3>
-<p>Details on responsible science, authorship, and the expectations of your role are found throughout this document. Generally speaking, as a member of the JRaviLab, you are a professional researcher, and you can and should take pride in this. We are better for your membership! With this role comes certain responsibilities that go beyond the code of conduct overview mentioned above. Remember that your behaviors represent the lab, all of our research, and even Anschutz and the University of Colorado at large. Treat our fellow scientists in other labs and the general public with respect and understanding, try to avoid being drawn into public arguments on social media (nobody wins these), always be open to learning and re-learning, and do not let ego cloud judgement. We should never seek to use or diminish others merely to climb a career ladder.</p>
+<p>Details on responsible science, authorship, and the expectations of your role are found throughout this document. Generally speaking, as a member of the JRaviLab, you are a professional researcher, and you can and should take pride in this. We are better for your membership! With this role comes certain responsibilities that go beyond the code of conduct overview mentioned above. Remember that your behaviors represent the lab, all of our research, and even Anschutz and the University of Colorado at large. Treat our fellow scientists in other labs and the general public with respect and understanding, try to avoid being drawn into public arguments on social media (nobody wins these), always be open to learning and re-learning, and do not let ego cloud judgment. We should never seek to use or diminish others merely to climb a career ladder.</p>
 <p>As a group, our success and reputation, and the quality of our science and its positive impacts on society all depend on our lab having a sense of social cohesion and <a href="https://www.hbs.edu/recruiting/insights-and-advice/blog/post/how-to-create-a-psychologically-safe-workplace">psychological safety</a>. This goal is aspirational and does not materialize automatically, but with our collective efforts and daily upkeep, is very attainable.</p>
 </section>
 </section>
@@ -447,8 +478,8 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://jravilab.github.io/lab_docs/resources.html#health-and-wellness">Health, wellness</a>, safety</p>
 <section id="inclusive-and-safe-space" class="level3" data-number="2.4.1">
 <h3 data-number="2.4.1" class="anchored" data-anchor-id="inclusive-and-safe-space"><span class="header-section-number">2.4.1</span> Inclusive and safe space</h3>
-<p>A part of this is also highlighted above in <code>Mission</code>, <code>Mentoring philosophy</code>, <code>Inclusive lab climate</code>, and <code>Code of Conduct</code>. In addition, the University of Colorado offers trainings in diversity, equity, and inclusion topics, including the <a href="https://www.cuanschutz.edu/offices/diversity-equity-inclusion-community/news-events-and-learning-opportunities/heal-trainings-and-workshops#ac-foundations-in-equity-certificate-program-0">Health Equity in Action Lab (HEAL)</a>. We encourage you to participate in these trainings, including the <a href="https://www.cuanschutz.edu/offices/diversity-equity-inclusion-community/news-events-and-learning-opportunities/heal-trainings-and-workshops/equity-certificate-program">Foundations in Equity Certificate Program</a>.</p>
-<p>While not required by CU, these modules will introduce you a great range of perspectives, explain topics like implicit bias or microaggressions and how to recognize and interrupt them in ourselves and others, and treat others more equitably and respectfully. Beyond the obvious benefits to our lab culture, these topics are absolutely critical to recognize for scientific study design (e.g.&nbsp;using human data). Being aware of our implicit biases and systemic issues can help navigate potential pitfalls in data collection and interpretation which can affect people worldwide.</p>
+<p>A part of this is also highlighted above in <code>Mission</code>, <code>Mentoring philosophy</code>, <code>Inclusive lab climate</code>, and <code>Code of Conduct</code>. In addition, the University of Colorado offers training in diversity, equity, and inclusion topics, including the <a href="https://www.cuanschutz.edu/offices/access-engagement/programs-and-initiatives/heal-trainings-and-workshops#ac-foundations-in-equity-certificate-program-0">Health Equity in Action Lab (HEAL)</a>. We encourage you to participate in these trainings, including the <a href="https://www.cuanschutz.edu/offices/access-engagement/programs-and-initiatives/heal-trainings-and-workshops/equity-certificate-program">Foundations in Equity Certificate Program</a>.</p>
+<p>While not required by CU, these modules will introduce you to a great range of perspectives, explain topics like implicit bias or microaggressions, and how to recognize and interrupt them in ourselves and others and treat others more equitably and respectfully. Beyond the obvious benefits to our lab culture, these topics are absolutely critical to recognize for scientific study design (e.g.&nbsp;using human data). Being aware of our implicit biases and systemic issues can help navigate potential pitfalls in data collection and interpretation, which can affect people worldwide.</p>
 <p><em>Links and details to follow.</em></p>
 </section>
 </section>
@@ -468,14 +499,14 @@ ul.task-list li input[type="checkbox"] {
 <section id="remote-work-working-hours" class="level3" data-number="2.5.3">
 <h3 data-number="2.5.3" class="anchored" data-anchor-id="remote-work-working-hours"><span class="header-section-number">2.5.3</span> Remote work &amp; working hours</h3>
 <p>At a very broad level, the more time you put into your work, the more you’ll get accomplished. However, this is also an obvious oversimplification. Some people prefer a typical 9-5, others thrive with a 10 hour/4 day workweek, and others still find their productivity falls off after 6 hours of work. Adding to this, our work can often be asynchronous, and working remotely can be integrated into a routine as well.</p>
-<p>Regardless of your working style, taking breaks is important! Stretch, take a brisk walk, hydrate, enjoy some caffeine (in <strong>moderation</strong>).</p>
-<p>If you are working remotely for extended periods, communicate regularly on Slack, and schedule a few co-work times where you and others can log on together and work in a shared virtual space that makes spontaneous interactions possible. Remote work has advantages, but a major drawback is the lack of this spontaneity. Being able to walk to a neighboring desk and ask a quick question, take a shared tea break, and see the faces of the people you work with are real advantages to collaborative science. Some of these aspects can still be done remotely, but they require active effort. Please stay involved like this even if you aren’t on campus!</p>
+<p>Regardless of your working style, taking breaks is important! Stretch, take a brisk walk, hydrate, and enjoy some caffeine (in <strong>moderation</strong>).</p>
+<p>If you are working remotely for extended periods, communicate regularly on Slack, and schedule a few co-work times when you and others can log on together and work in a shared virtual space that makes spontaneous interactions possible. Remote work has advantages, but a major drawback is the lack of this spontaneity. Being able to walk to a neighboring desk and ask a quick question, take a shared tea break, and see the faces of the people you work with are real advantages to collaborative science. Some of these aspects can still be done remotely, but they require active effort. Please stay involved like this even if you aren’t on campus!</p>
 <p>Generally speaking, if you are meeting milestones, participating in project and group discussions, and comfortable with your work-life balance in our lab, the details of your work schedule are flexible. For a diverse group, a schedule that accommodates everyone necessarily requires compromise. Your exact schedule will come down to your role in the lab, your preferences, and the group’s availability. There are some basic rules and tenants to be aware of.</p>
 <section id="work-hours" class="level4" data-number="2.5.3.1">
 <h4 data-number="2.5.3.1" class="anchored" data-anchor-id="work-hours"><span class="header-section-number">2.5.3.1</span> Work hours</h4>
 <p>For full-time members (e.g., PRAs, postdocs, grads), expect to put in 40 hours of work per week on average. For part-time members (e.g., undergraduates during the semester, interns, and other volunteers), you might be in the range of 10-30 hours a week typically.</p>
-<p>These ranges are estimates, and will vary across people and over time. We never want to find ourselves in a crunch, but deadlines sometimes do pile up, and some weeks may require more hours. At the same time, some weeks will be lighter, breaks are encouraged, and working to the clock, or overtime should not be glorified either. Most importantly, maintain a comfortable work-life balance that leaves you wanting to come back for more, and keeps you far from the burnout line! If you ever feel stressed about your schedule/workload, talk to your PI &amp; group to see how we can change things.</p>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/15559575/">Presenteeism</a> isn’t a healthy mindset, and health and productivity rank ahead (in that order!) of simply being present.</p>
+<p>These ranges are estimates and will vary across people and over time. We never want to find ourselves in a crunch, but deadlines sometimes do pile up, and some weeks may require more hours. At the same time, some weeks will be lighter, breaks are encouraged, and working to the clock, or overtime should not be glorified either. Most importantly, maintain a comfortable work-life balance that leaves you wanting to come back for more, and keeps you far from the burnout line! If you ever feel stressed about your schedule/workload, talk to your PI &amp; group to see how we can change things.</p>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/15559575/">Presenteeism</a> isn’t a healthy mindset, and health and productivity rank ahead (in that order!) of simply being present. Similarly, preferring not to be at work might also be indicative of potential issues. Talk to your mentor(s) and labmates, in case you have any concerns regarding working in person.</p>
 <ul>
 <li><a href="https://github.com/JRaviLab/lab_docs/blob/main/howto_work_remotely.qmd">Working remotely</a> | <a href="https://app.smartsheet.com/b/form/d1dae0d3ba83403f8d5525213f8968d6" title="CU Anschutz Remote Work Agreement">CU Remote Work Agreement</a></li>
 </ul>
@@ -485,22 +516,22 @@ ul.task-list li input[type="checkbox"] {
 <h4 data-number="2.5.3.2" class="anchored" data-anchor-id="time-off"><span class="header-section-number">2.5.3.2</span> Time Off</h4>
 <p>Always be a happy researcher! To be a happy researcher means you need a good balance between work and time off. We encourage you to take time off when needed, but there are a few things to remember. If there are meetings/deadlines involved, please let me (PI) and team members know ahead of time if you can’t make it during crunch time.</p>
 <ul>
-<li><p>It’s understandable that things occasionally come up – so, it’s for a few hours/1 day, feel free to drop me (PI) a quick note and take off, as needed.</p></li>
-<li><p>If it’s more than 1-3 days (or recurring few hours/single days), let me (PI) know in advance so we can plan ahead.</p></li>
-<li><p>If it’s &gt;3 days, please include me (PI) in the conversation during the planning phase (before booking your tickets/planning your travel). It’s better for all parties involved if this is a conversation rather than an FYI. *Similar for &gt;few days remote work, unless previously requested.</p></li>
+<li><p>It’s understandable that things occasionally come up – so it’s for a few hours/day(s); feel free to drop me (PI) a quick note and take off as needed.</p></li>
+<li><p>If it’s more than 1-3 days (or recurring hours/days), let me (PI) know in advance so we can plan ahead.</p></li>
+<li><p>If it’s &gt;3 days, please include me (PI) in the conversation during the planning phase (before booking your tickets/planning your travel). It’s better for all parties involved if this is a conversation rather than an FYI. *Similar for &gt;few days of remote work, unless previously requested.</p></li>
 <li><p>Mark your time off on the lab calendar (in a non-disruptive way – darkest color background and NO notifications per event for everyone in the group) and notify your PI and co-workers in advance.</p></li>
 <li><p>Let others know if you miss any meetings during your time off. Please do your best to plan your work accordingly when known vacation times (no meeting weeks) are approaching. Don’t leave too much undone before going on vacation because you may have too much to do when you return, which can cause stress.</p></li>
 <li><p>Also, leave good notes on what you were working on and what you must do when you return. Sometimes, when you are gone for too long, remembering where you left off can be hard, so having these notes can help you get back on track.</p></li>
-<li><p>Studies have shown not having a sustainable work-life balance can lead to difficulties in maintaining an efficient, productive, and healthy research experience. Therefore, it is essential to maintain a healthy work-life balance to ensure the best and most productive research experience.<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009124">(Bartlett et al., 2021)</a></p></li>
-<li><p>Be respectful of your labmates and avoid sending them messages when they are on vacation. If you are working closely with them on a project or need their help, notify them of any deadlines that may overlap with their vacation. This way meetings can be determined before your labmate leaves for vacation.</p></li>
-<li><p>If you receive work-related messages during vacation/holidays (incl.&nbsp;weekends), you are not obligated to answer them unless they are critical. If the message is urgent (esp.&nbsp;something you’ve committed to prior to your vacation and have missed checking during working days), please do your best to answer them as soon as possible. This is more so important when there are deadlines approaching. It is OK if there are occasional instances when you can’t make it to a deadline – but this can’t be a norm and you *must* let me (PI) know in advance so we plan ahead.</p></li>
+<li><p>Studies have shown not having a sustainable work-life balance can lead to difficulties in maintaining an efficient, productive, and healthy research experience. Therefore, it is essential to maintain a healthy work-life balance to ensure the best and most productive research experience <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009124">(Bartlett et al., 2021)</a>.</p></li>
+<li><p>Be respectful of your labmates and avoid sending them messages when they are on vacation. If you are working closely with them on a project or need their help, notify them of any deadlines that may overlap with their vacation. This way, meetings can be determined before your labmate leaves for vacation.</p></li>
+<li><p>If you receive work-related messages during vacation/holidays (incl.&nbsp;weekends), you are not obligated to answer them unless they are critical. If the message is urgent (esp.&nbsp;something you’ve committed to prior to your vacation and have missed checking during working days), please do your best to answer them as soon as possible. This is more so important when there are deadlines approaching. It is OK if there are occasional instances when you can’t make it to a deadline – but this can’t be a norm, and you *must* let me (PI) know in advance so we plan ahead.</p></li>
 </ul>
 </section>
 <section id="leave-policy" class="level4" data-number="2.5.3.3">
 <h4 data-number="2.5.3.3" class="anchored" data-anchor-id="leave-policy"><span class="header-section-number">2.5.3.3</span> Leave policy</h4>
 <ul>
-<li>Because our group is tightly collaborative, please plan non-sick leave ahead of time to best fit all schedules when possible.</li>
-<li>For graduate students: Details may vary per your specific graduate program’s handbook, but <a href="https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2">the Graduate School offers basic guidelines here</a><a href="https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2">for vacation and leav</a><a href="https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2">e</a>.</li>
+<li>Because our group is tightly collaborative, please plan non-sick leave ahead of time to best fit all schedules when possible – at least check in with your mentor(s), mentee(s), and closest collaborators in advance.</li>
+<li>For graduate students: Details may vary per your specific graduate program’s handbook, but <a href="https://www.ucdenver.edu/docs/librariesprovider138/denver-anschutz-graduate-school/resources/gs-student-leavevacpolicy.pdf?sfvrsn=661c22b9_2">the Graduate School offers basic guidelines herefor vacation and leave</a>.</li>
 <li>Undergraduate and Masters Students: <a href="https://www.ucdenver.edu/docs/librariesprovider41/student-employment/student_hourly_employment_handbook.pdf?sfvrsn=8e3963ba_6">Student Employment Handbook</a></li>
 <li>Staff (postdocs, research professionals): The University of Colorado’s <a href="https://www.cu.edu/employee-services/leave-policies">leave policies</a></li>
 </ul>
@@ -511,16 +542,16 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-number="2.6" class="anchored" data-anchor-id="publication-authorship-research-misconduct"><span class="header-section-number">2.6</span> Publication, Authorship &amp; Research Misconduct</h2>
 <section id="publishing" class="level3" data-number="2.6.1">
 <h3 data-number="2.6.1" class="anchored" data-anchor-id="publishing"><span class="header-section-number">2.6.1</span> Publishing</h3>
-<p>To quote the Foreign Secretary of the Royal Society, Dr.&nbsp;Mark Walport, <a href="https://www.climatechangenews.com/2013/10/03/science-is-not-finished-until-its-communicated-uk-chief-scientist/">“Science isn’t finished until it’s communicated.”</a> If work isn’t documented, written up, peer-reviewed, and made publicly available, it’s no different than if the work hadn’t been performed in the first place. For our group, that might involve writing clearly commented, clean code, submitting it for code reviews, and sharing it through GitHub, or it could involve writing a manuscript and submitting it to scientific journals. In any case, it is imperative to work towards sharing <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5778115/">reproducible, repeatable, and replicable science.</a></p>
+<p>To quote the Foreign Secretary of the Royal Society, Dr.&nbsp;Mark Walport, <a href="https://www.climatechangenews.com/2013/10/03/science-is-not-finished-until-its-communicated-uk-chief-scientist/">“Science isn’t finished until it’s communicated”</a>. If work isn’t documented, written up, peer-reviewed, and made publicly available, it’s no different than if the work hadn’t been performed in the first place. For our group, that might involve writing clearly commented, clean code, submitting it for code reviews, and sharing it through GitHub, or it could involve writing a manuscript and submitting it to scientific journals. In any case, it is imperative to work towards sharing <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5778115/">reproducible, repeatable, and replicable science</a>.</p>
 </section>
 <section id="authorship" class="level3" data-number="2.6.2">
 <h3 data-number="2.6.2" class="anchored" data-anchor-id="authorship"><span class="header-section-number">2.6.2</span> Authorship</h3>
 <p>It’s often said that publications and citations are the <a href="https://socialsciences.nature.com/posts/54635-publication-a-universal-currency-in-academia">currency of science</a>. How does one become an author on a paper? What even is a paper? When is a project ready to publish? Many of these questions are best answered through conversations with peers and collaborators, but there are resources available to help provide context.</p>
 <ul>
-<li><p>A paper, a publication, a manuscript, or whatever you might hear it called is a formal write-up of a scientific project. It typically follows a format referred to as <a href="https://en.wikipedia.org/wiki/IMRAD">IMRAD</a> for Introduction, Methods, Results, and Discussion. These refer to the order of <a href="https://ori.hhs.gov/content/Chapter-9-Authorship-and-Publication-Responsible-publication">sections of the paper</a>, which roughly presents the introduction to the problem or knowledge gap, the methodological approach or techniques the authors decided to use to address the issue established in the introduction, what the results and data outputs of those methods are, and the interpretation of those findings and how they relate back to the problem established at the start. While the exact formatting varies journal-to-journal, this structure generally captures <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC442179/">how scientific results are written and reported.</a></p></li>
-<li><p>Having your name on a paper’s author list typically requires a <a href="https://ori.hhs.gov/content/Chapter-9-Authorship-and-Publication-Authorship">substantial intellectual contribution.</a> Without your work, the story in the manuscript would not have been complete. Typically, the position of the authors in the list reflects the amount of credit they deserve for the work done, and the PI(s) who oversaw the project receive(s) the last author position(s) to signify that it was their lab(s) who performed the work. Many people make minor contributions that do not make the cut for the author list, and they may earn a space in an Acknowledgements section. Discussions about project responsibilities and the positions contributors will earn on a manuscript should happen early and often. The details of this vary from field to field and lab to lab, but a good overview can be found <a href="https://www.science.org/content/article/how-navigate-authorship-scientific-manuscripts">in this article, interviewing many different scientists across disciplines.</a>.</p></li>
+<li><p>A paper, a publication, a manuscript, or whatever you might hear it called is a formal write-up of a scientific project. It typically follows a format referred to as <a href="https://en.wikipedia.org/wiki/IMRAD">IMRAD</a> for Introduction, Methods, Results, and Discussion. These refer to the order of <a href="https://ori.hhs.gov/content/Chapter-9-Authorship-and-Publication-Responsible-publication">sections of the paper</a>, which roughly presents the introduction to the problem or knowledge gap, the methodological approach or techniques the authors decided to use to address the issue established in the introduction, what the results and data outputs of those methods are, and the interpretation of those findings and how they relate back to the problem established at the start. While the exact formatting varies journal-to-journal, this structure generally captures <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC442179/">how scientific results are written and reported</a>.</p></li>
+<li><p>Having your name on a paper’s author list typically requires a <a href="https://ori.hhs.gov/content/Chapter-9-Authorship-and-Publication-Authorship">substantial intellectual contribution</a>. Without your work, the story in the manuscript would not have been complete. Typically, the position of the authors in the list reflects the amount of credit they deserve for the work done, and the PI(s) who oversaw the project receive(s) the last author position(s) to signify that it was their lab(s) who performed the work. Many people make minor contributions that do not make the cut for the author list, and they may earn a space in an Acknowledgements section. Discussions about project responsibilities and the positions contributors will earn on a manuscript should happen early and often. The details of this vary from field to field and lab to lab, but a good overview can be found <a href="https://www.science.org/content/article/how-navigate-authorship-scientific-manuscripts">in this article, interviewing many different scientists across disciplines</a>.</p></li>
 <li><p>What kinds of contributions are important? Researchers have asked this question enough times to lead to the creation of a framework called <a href="https://credit.niso.org/">CRediT</a> for Contributor Roles Taxonomy. While this isn’t the final say on what types of contributions there can be on a manuscript, many journals have adopted the CRediT system to specifically assign which authors contributed in what ways in a paper, so it’s definitely worth a look.</p></li>
-<li><p>What does it mean if you’re an author? No matter your position in the author list, it means you are literally assigning your name to work performed. Even if you only worked on one small part of the analysis, you must be familiar with all aspects of the paper. Your authorship is a statement that you vouch for the content, the methods, and the conclusions made in the paper. While honest mistakes do happen and can slip through to publication, all authors should do their best to ensure everything was conducted to the highest standards for scientific rigor. Mistakes that significantly change the interpretation or outcome of an experiment, or worse, intentionally misleading or fraudulent data, can seriously affect or even end scientific careers for authors on erroneous papers. Authorship should be taken seriously because contributing to the larger body of scientific knowledge can and does have real impacts on the world and lives in it.</p></li>
+<li><p>What does it mean if you’re an author? No matter your position in the author list, it means you are literally assigning your name to work performed. Even if you only worked on one small part of the analysis, you must be familiar with all aspects of the paper. Your authorship is a statement that you vouch for the content, the methods, and the conclusions made in the paper. While honest mistakes do happen and can slip through to publication, all authors should do their best to ensure everything is conducted to the highest standards for scientific rigor. Mistakes that significantly change the interpretation or outcome of an experiment, or worse, intentionally misleading or fraudulent data, can seriously affect or even end scientific careers for authors on erroneous papers. Authorship should be taken seriously because contributing to the larger body of scientific knowledge can and does have real impacts on the world and lives in it.</p></li>
 </ul>
 </section>
 <section id="research-misconduct" class="level3" data-number="2.6.3">
@@ -575,6 +606,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -643,13 +701,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'default';
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -676,12 +736,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
     }
-  });
-  clipboard.on('success', function(e) {
+    return false;
+  }
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -713,11 +776,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -727,8 +829,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -740,9 +851,245 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -784,12 +1131,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./onboarding.html" class="pagination-link">
+      <a href="./onboarding.html" class="pagination-link" aria-label="Onboarding">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Onboarding</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./howto.html" class="pagination-link">
+      <a href="./howto.html" class="pagination-link" aria-label="How to X">
         <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">How to X</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
@@ -798,4 +1145,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-</body></html>
+
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jravilab/lab_docs/edit/main/culture.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jravilab/lab_docs/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>

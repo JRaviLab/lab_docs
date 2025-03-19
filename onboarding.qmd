@@ -33,7 +33,7 @@ Since our lab runs on [Slack](https://jravilab.slack.com), let's first get you o
 
 When you join, please introduce yourself in `#general`. Tell us a little about yourself here --- where you are from, what your interests are, science-wise or otherwise, why you are interested in working with us, and in what capacity you'll be joining us.
 
-I've never used Slack \-- where do I even start? Maybe you can start with the [Slack cheatsheet](https://github.com/JRaviLab/cheatsheets/blob/master/slack-misc/slack-cheatsheet.pdf) and [Keyboard shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts).
+I've never used Slack -- where do I even start? Maybe you can start with the [Slack cheatsheet](https://github.com/JRaviLab/cheatsheets/blob/master/slack-misc/slack-cheatsheet.pdf) and [Keyboard shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts).
 
 ## What next?
 
