@@ -27,6 +27,11 @@ jobs:
         with:
           cache-version: 1
 
+      - name: Install TinyTeX for PDF rendering
+        run: |
+          R -e "install.packages('tinytex', repos='https://cloud.r-project.org')"
+          R -e "tinytex::install_tinytex()"
+
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
