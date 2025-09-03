@@ -1,0 +1,528 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "JRaviLab docs",
+    "section": "",
+    "text": "About JRaviLab docs\nThis is a short e-book compiled to guide, onboard, and offboard JRaviLab members at the University of Colorado Anschutz Medical Campus (previously at Michigan State University).\n\nAcknowledgments\nWe appreciate and build upon awesome onboarding resources from Arjun Krishnan, Casey Greene, Fan Zhang, Annika Barber, Christoph Rau, Jeff Leek, eLife, and several others.\n✍️ If you’d like to edit/update/contribute to this e-book (built with Quarto), please email me or submit a pull request to the GitHub repository directly.\n\n\nHow to reach us\nWebpage | PI | Email | Mastodon | Bluesky | Twitter (inactive)",
+    "crumbs": [
+      "About JRaviLab docs"
+    ]
+  },
+  {
+    "objectID": "onboarding.html",
+    "href": "onboarding.html",
+    "title": "1  Onboarding",
+    "section": "",
+    "text": "2 Mission, Expectations, Conduct, Support\nWelcome to JRaviLab! We are excited that you are here — as a student, postdoc, or visiting researcher! We have a number of resources available in this short e-book and on Slack. Please take the time to check these out. As you read them, if something is unclear, please feel free to reach out to the group anytime.\nOnce you are done with the ‘familiarizing’ and getting to know the first steps, please send me (JR) a message on Slack. Please bring your questions, thoughts, and feedback to the meeting.\nGood luck & welcome aboard! 🎉\nWe believe in investing in and nurturing scientists as much as the science. We pride ourselves on providing a safe and inclusive space for people across intersectionalities. We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development. We are passionate about increasing diversity and retention in STEM and quantitative sciences. If you share our passion, please reach out to us!",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#getting-started",
+    "href": "onboarding.html#getting-started",
+    "title": "1  Onboarding",
+    "section": "5.1 Getting started",
+    "text": "5.1 Getting started\nWhen you join, please introduce yourself in #general. Tell us a little about yourself here — where you are from, what your interests are, science-wise or otherwise, why you are interested in working with us, and in what capacity you’ll be joining us.\nI’ve never used Slack – where do I even start? Maybe you can start with the Slack cheatsheet and Keyboard shortcuts.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#what-next",
+    "href": "onboarding.html#what-next",
+    "title": "1  Onboarding",
+    "section": "5.2 What next?",
+    "text": "5.2 What next?\nNext, you can join the different channels to participate in various kinds of conversations with the group — look at the channel description, check out the pinned messages of the channel, and dive right in! Here are a few examples.\nFinally, you will be invited to specific project channels (based on the primary and secondary projects you will be working on). Based on chats with your colleagues, if you’d like to contribute to/give feedback to other projects, feel free to join those channels too.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#meet-the-group",
+    "href": "onboarding.html#meet-the-group",
+    "title": "1  Onboarding",
+    "section": "5.3 Meet the group",
+    "text": "5.3 Meet the group\nYou may have briefly spoken to a few group members prior to joining. I urge you to take the first few weeks to introduce yourself to the group members and chat with them (via Slack or over coffee/tea) to find out what they are up to and learn a bit about the lab.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "culture.html",
+    "href": "culture.html",
+    "title": "2  Lab culture",
+    "section": "",
+    "text": "2.1 Mission\nWe love all things related to computational biology, biomedical data science, and microbial genotypes, phenotypes, and diseases, but we value and believe in investing in and nurturing scientists as much as the science. We pride ourselves on providing a safe and inclusive space for people across intersectionalities. We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development. We are passionate about finding new, better ways to increase diversity and retention in STEM and quantitative sciences. If you share our passion, please reach out to us!",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lab culture</span>"
+    ]
+  },
+  {
+    "objectID": "culture.html#mission",
+    "href": "culture.html#mission",
+    "title": "2  Lab culture",
+    "section": "",
+    "text": "2.1.1 Mentoring Philosophy | full_post\nMy experiences as a mentee have varied widely: fantastic professors in college inspired me to start a research career; later, a mentor overlooked my whole dissertation work resulting in prolonged authorship discussion. In my postdoctoral lab, I was the sole computational researcher collaborating with a dozen experimental biologists. I seized this invaluable opportunity to restart my academic career from scratch in a different field (i.e., studying microbial diseases), to learn, understand, and speak the language of both experimental and computational biologists, and to bring these worlds together. Collectively, these experiences have shaped my mentoring philosophy.\n\nOpening doors and leveling the playing field (i.e., not gate-keeping)\nLives bigger than work\nCollaborative mentoring (i.e., not top-down advising)\nMentoring is not imprinting\n\n\n\n2.1.2 Inclusive lab climate | full_post\nI have mentored 30+ diverse undergraduate and graduate students. Several joined my lab as first-time coders and have co-authored computational papers; five have contributed to submitted manuscripts (see Bibliography). All these students have had positive research experiences, presented at (inter-)national conferences, and won awards/support from national programs, including NIH-funded T15 and R25-BRUSH, NSF-funded REU-ACRES, SROP, and NSURP. Several undergraduate trainees have graduated and started advanced studies at prestigious graduate and medical schools or jobs at pharmaceutical/IT companies. Using lessons learned from these experiences, I will focus on the following key areas to ensure an equitable and inclusive lab climate.\n\nRecruiting practices - e.g., working with the Offices of Inclusion/Diversity, R/Py-Ladies, W+DS, and online groups for minorities in STEM (e.g., Black in Computational Biology, LatinR, AfricaR, AsiaR, ArabR, RainbowR).\nSafe space for full participation - for people from all intersectionalities, zero tolerance to discriminatory or exclusionary behavior, appropriate pronoun usage, sustain a culture rooted in mutual respect.\nEmpowering mentees to forge their path - e.g., co-developing semester plans, conducting professional development workshops within the lab, creating networking opportunities through local/national/international meetings, and tailoring mentoring strategies to each mentee’s career aspirations.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lab culture</span>"
+    ]
+  },
+  {
+    "objectID": "culture.html#roles-and-expectations",
+    "href": "culture.html#roles-and-expectations",
+    "title": "2  Lab culture",
+    "section": "2.2 Roles and expectations",
+    "text": "2.2 Roles and expectations\nThe following sections were drafted by folks at each of these levels and edited collectively by the entire group for cohesion.\n\n2.2.1 PI\nMy role as a PI would be to ensure your growth and success as a trainee, and the success of the project. Towards this, I will\n\nPlan and design\n\nSounding board. You will have the freedom to work on your best ideas broadly aligned with the lab’s vision, and you will always find in me an audience to discuss and brainstorm.\nI will help outline and plan your project(s) and design appropriate analyses.\nI will check in with you once a semester as you plan your time, and more regularly to ensure you’re on track – based on the professional, scientific, and personal goals you’ve set for yourself. In addition to the project/group meetings, check in with me often (bi)weekly (or as needed) to make sure you are staying on track towards your primary research and professional goals and to help me help you as best as I can.\n\nHoning your skills –&gt; career development. I will provide resources to develop your research program and technical skills as you plan the next stage of your career (e.g., PRA –&gt; grad school, PhD student –&gt; postdoc/industry, postdoc –&gt; PI/research lead).\nScientific communication. I will provide ample opportunities within and outside the group to develop your reading, writing (grants and papers), and presenting skills, including engaging and networking at (inter)national meetings.\nProfessional networking. I will connect you with potential collaborators and mentors for scientific and professional growth and reciprocity. Team science is one of several skills you will learn during your tenure with us – you will learn to communicate effectively not just with other computational colleagues but with the admin, grants and scientific writing teams, and experimental and clinical collaborators.\nSafe space. I will continually work towards creating a diverse and inclusive safe space for all intersectionalities in the lab to ensure everyone thrives and grows scientifically, professionally, and personally while respecting and supporting their colleagues.\nEducation and outreach. I will enable and strongly encourage you to pay forward by creating inclusive communities through scientific and technical education and outreach reach opportunities within and beyond CU (e.g., R-Ladies, AsiaR, WiSTEM, SACNAS).\n\n\n\n2.2.2 Graduate students\n\nLearning to be a well-rounded scientist\n\nStrive to be creative, independent, and collaborative (as a team scientist).\nBe willing to learn new things and be open-minded to new ideas/directions. Be thoughtful and think deeply about your rationale and hypothesis. Be critical and rigorous in your methods and evaluation. It is perfectly OK to find your passion and love (and dream about) certain topics/fields, but remain open enough to like/appreciate other topics (and avoid maintaining a curtailing hate/dislike list). This will ensure you read, listen to, and consume ideas constructively, ultimately honing your scientific growth.\n\nReading\n\nHave a clear and deep understanding of concepts (computational and biological) related to your research project.\nKeep up with the literature and have a sound reading system (update your project/group members and PI of your most recent exciting reads via Slack/Journal clubs). Post updates regularly to the #papers-articles channel based on your self-assigned journals here.\n\nCoding\n\nWrite clean and well-documented code, and commit to GitHub regularly.\nDo code reviewor request review(s) from other lab members at a proper frequency e.g., once a month.\nYour work must be reproducible; this applies to the methodology, codebase, software, and data you work on. (e.g., Ten Simple Rules for Reproducible Computational Research)\n\nWriting\n\nKeep applying for internal/external fellowships and funding opportunities (it would be excellent practice for scientific writing and critical thinking; it recognizes your ideas and trajectory; it would also be amazing to receive funding to pursue new independent research projects that even slightly divergent from the PI’s projects).\nContribute proactively to grant proposal writing with the PI by proposing new ideas and generating preliminary results.\n\nScientific communication\n\nFormal/semi-formal scientific writing, e.g., abstracts, manuscripts, grant/fellowship applications, blog posts.\nGive oral presentations in different settings, e.g., group meetings, posters, talks, research updates, and journal club meetings.\nKeep well-organized meeting notes. In group meetings, take turns as the scribe.\nLook out for opportunities that PI/others often post in the lab Slack, the RIO/CU Bioinfo Slack workspaces, or email. These opportunities to look out for are but are not limited to, funding, poster events, presentations, conferences, seminars, and courses.\nSubmit abstracts to several conferences; ideally, all regional meetings that the whole group would attend (e.g., Rocky Mountain Branch of ASM, Rocky Bioinformatics, Frontrange Microbiome, qCMB at CSU), at least one national meeting (2+ years/post-comps grads are encouraged to submit talk abstracts and more junior (pre-comps/rotation) students can submit posters if they have in-progress or shorter stories to communicate. All students are encouraged to apply for travel and conference fellowships from CU, national societies, and the meetings themselves.\n\nMeeting and engagement\n\nAttend all required meetings specific to your project and group meetings. If you would like to gain a general understanding of the other projects, you are welcome to attend other project meetings.\nSchedule regular (weekly/biweekly, as needed) one-on-one meetings here. Maintain a good frequency of one-on-one meetings, especially when you are co-mentored. Do your best to keep both PIs on the same page.\nInteract professionally (and respectfully) with all your peers within and outside the group.\nActively (and voluntarily) engage in lab, department, and program activities.\nIf a personal, scientific, or professional issue/concern is keeping you from engaging actively and fully with the group, let the PI and the group know so we can make reasonable accommodations and allow you to heal/recover and better integrate.\nIf co-mentored, it is expected that the trainee respectfully engages with both group members and attends events/meetings from both (unless exempted due to reasonable requests).\n\nCommunication\n\nCheck and respond appropriately to Slack and Outlook email and calendar regularly during working hours. Set reminders, as needed, for what is relevant/expected of you so your PI/colleagues do not have to remind you.\nRespect everyone’s time by showing up to meetings regularly and on time (and in person if from CU and if that’s how everyone else is attending), and by not expecting prompts for responses and engagement.\nCommunicate regularly and clearly with the PI(s) on research, academic progress, and other professional development goals. Constructive feedback both ways is important for a strong long-term relationship.\nHave good/proper interpersonal communication with everyone, and create an approachable environment.\nCome prepared for all the meetings by noting your open questions, reading relevant material, planning your next steps, or the results you want to present.\n\nPeer-mentoring\n\nMentor junior/newer trainees by giving primers, helping them troubleshoot anything related to their projects, helping them contact the correct individuals when you can’t help them, and answering their questions.\n\nProject/time management\n\nSet aside 3-4 hours of productive slots on days without classes for (i) writing code, (ii) reading/writing papers, and (iii) generating results.\nInculcate good time management skills. Ensure you have an efficient work-life balance to nurture your physical and mental health.\n[Side projects] Learn more about other projects in the lab and make meaningful contributions to them, especially those most relevant to your research program (co-attendees of project meetings).\nDeadlines. Establish clear deadlines/academic plans, e.g., comprehensive exam, defense. Plan to graduate well within 5 years, especially if you are ready in terms of progress, manuscripts, conferences, and other milestones; finish your comprehensive exam by the start of your third year (end-of-second-year would be preferable and ideal to keep you on track).\nAdhere to general work ethics laid out for the lab.\n\nSemester planning. In addition to detailed research goals, set SMART goals for professional and personal development. Below is a general list of what semester planning entails.\n\nAcademic planning: required/elective courses.\nTake on leadership roles through mentoring or presenting.\nAttend seminars (regularly/weekly; look beyond your compulsory grad program series alone) and conferences.\nSet clear reading, writing, coding, and presenting goals.\nVolunteer | education, outreach, JEDI.\nSet recurring meetings with the PI(s) and attend project meetings.\n\n\n\n\n2.2.3 Postdocs\nAs a postdoctoral researcher, you wear many hats besides those of more junior scientists in the lab. So, in addition to the expectations from a graduate-level researcher (above), these might be relevant to your senior level and experience.\n\nTraining opportunity. You are here to learn new skills and expand your scientific boundaries. You are not expected to know everything, but you should be comfortable (and preferably excited!) throwing yourself into new problems and solving them.\nPeer mentoring. You are also here to help others learn. Postdocs have considerable experience in many aspects, typically involving academia, research, and more. That experience can be beneficial for scientists who are earlier in their careers. Contribute generously where you can, and make yourself available for others in the group. A rising tide lifts all boats.\nScientific independence. Postdocs are strongly encouraged to pursue their independent research interests aligned with the group’s research interests. For projects that succeed, they should have “future directions” they can take forward into their independent careers in the future.\nCollaboration. In addition, you may work on several existing projects across the lab – either leading them or helping each team navigate research obstacles. Postdocs have already had experience troubleshooting their way through their work in the past, and are expected to be able to leverage that experience by operating more independently. Some projects you work on might be new and higher risk, and some might be stalled and in need of a fresh perspective. Postdocs are also strongly encouraged to engage in a few active collaborations outside the group (from our ongoing list) — to test their methods on interesting biomedical applications, gain diverse perspectives, while balancing basic and translational research. The professional networking aspect is critical, too.\nGrants and fellowships. Grant/fellowship writing is a crucial aspect of a postdoc’s job. It funds your position and research where possible and, most critically, gives you practice and experience seeking and applying for funding opportunities needed for launching into independent faculty positions.\nCommunication. Communicating science is a fundamental and essential part of this role, be it through manuscripts, conference presentations, or workshops. Expect to keep busy presenting your work at regional and (inter)national platforms, and use the experience to get your name out there and network! Once you’ve found your footing, we encourage postdocs to always apply for talks (alongside posters).\nCareer development. Finding your next step is the ultimate goal of your position. For all the roles you have, they should help focus your skillset, CV, and open future opportunities for you to move onwards and upwards towards where you want to end up in life.\n\n\n\n2.2.4 Research professionals (PRAs / postbac, post-MS trainees)\n\nIn addition to the most applicable points from the Graduate Student section above (barring rare exceptions like comprehensive exams, etc.), the following are great pointers for research professionals.\nIndividual and team scientist\n\nLead individual projects and contribute new ideas and research directions, while also supporting other lab members’ projects collaboratively.\nAssist with the design and development of major bioinformatics-related programming projects.\nThe supportive role can overlap with the project-related scientific tasks or other technical and software-development tasks like code review and any assistance with coding/environment/installation issues.\n\nTechnical contribution\n\nPerform scientifically rigorous data management and bioinformatic analyses.\nDevelop and disseminate a variety of tools designed to access relevant experimental and clinical data.\nDevelop and implement complex analysis pipelines, modular functional programming, and data visualization techniques (e.g., for multi-layered -omics datasets)\nCreatively and effectively integrate data from multiple sources to accelerate discoveries; write custom scripts to access databases and analyze data.\nWrite custom web tools and R/Py packages for the group and the larger scientific/technical community.\n\nCommunication\n\n(In addition to the opportunities/modes highlighted above) Present research/technical updates periodically, host journal clubs, workshops/tutorials, and attend all group and project meetings.\n\nProfessional development and networking\n\nIt is in the best and mutual interest of PRAs and the lab to hone and develop scientific, technical, and personnel/leadership skills that will benefit all involved parties, especially the PRAs’ professional and career development.\nWork with the PI to make short- and long-term research, professional, and career plans to stay on track towards your next steps (e.g., grad school applications).\nWork with the PI, others in the group and department, and collaborators to form a strong professional network that you can later rely on.\n\n\n\n\n2.2.5 Undergraduates (Short-term interns/Visiting scientists)\nThe Graduate Student section above should give you a fair idea about how to be trained as a well-rounded scientist. As a junior researcher, however, the following would be excellent starting points.\n\nBe present. Attend meetings and bring forth your best effort.\nAsk for help. We encourage you to be proactive, ask questions, and provide any updates or ideas to our Slack channels.\nStrive for growth. It will be challenging, but we want you to keep trying and persist – learning is the main goal, and being receptive and open to constructive feedback is a great way to improve.\nGive yourself grace. You’ve earned a spot in our community, and you belong here. Failure is inevitable with the work we’re doing; your work doesn’t define you or your abilities. We’re all here for you!\nStay organized. Keeping track of your priorities, tasks, and responsibilities will allow you to monitor your progress and make it easier for others to help you. Time management is essential for pacing yourself to achieve your goals.\nCollaborate. We encourage you to present your work and discuss it with others frequently. Learn about the projects your labmates are working on, communicate any troubles or issues before they boil over (work-related and not), and keep a positive mental attitude!\nOwn your research. This is your research process, so be sure that you’re putting forth your best work and that you continue to practice scientific reading and writing.\nTake advantage of resources. There are many avenues for learning in research. Here are a few to get you started:\n\nJRaviLab: How to X\nSlack channels\nStack Overflow\nNIH NCBI\nGoogle, Google Scholar\nChatGPT",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lab culture</span>"
+    ]
+  },
+  {
+    "objectID": "culture.html#code-of-conduct",
+    "href": "culture.html#code-of-conduct",
+    "title": "2  Lab culture",
+    "section": "2.3 Code of conduct",
+    "text": "2.3 Code of conduct\n\n2.3.1 Overview\nThere is zero tolerance for harassment, discrimination, micro- or passive aggression in the JRaviLab and at the University of Colorado. These are forms of abuse, and they create a workplace environment that can leave people feeling unsafe and unwelcome. Members of the JRaviLab come from many different backgrounds, and this diversity is one of our greatest strengths. If you are uncomfortable with or have any issue with any lab member (including the PI), please bring it up immediately for a speedy resolution and a healthy and transparent long-term relationship.\nWhile this is not exhaustive, examples of unacceptable behaviors include harassment, discrimination, or other unwanted behaviors, verbal or physical, that make others uncomfortable, both at and outside work. This applies to conduct in public or on social media, not just at the job. Protected categories include but are not limited to gender identity and sexuality, physical appearance, size, weight, and disability (of all types), race, ethnic group, age, and religion. These topics are covered in part by the required training modules you will take after employment at the University of Colorado.\nYou can review the policies from the Office of Equity’s Discrimination and Harassment page here, and from the Anschutz Medical Campus’ office of Diversity, Equity, Inclusion and Community Engagement here.\nWe recognize that because of our diverse backgrounds, our experiences with what conduct is considered appropriate may vary, and similarly, no one should feel afraid to be themselves out of fear of violating an unspoken rule. Instead, it is our collective responsibility to educate each other. If we see or hear conduct that is inappropriate, whether it is targeted at us or other individuals or groups, each of us must commit to calling that behavior out. A joke in poor taste alone won’t get anyone terminated, but a pattern of misconduct despite being told it is inappropriate, arguing back or justification of misconduct when asked to avoid such behaviors, and severe misconduct are grounds for discipline.\nIf you are unsure what constitutes acceptable behavior and where the line is drawn, talk to us! These rules are important, but they are also a socially determined set of boundaries – they are not universally known and universally evident, and it is our collective responsibility to help each other understand what the boundaries are and how to steer safely clear of them. Similarly, if you feel like a comment or behavior might be inappropriate, you do not need to have a justification for feeling upset, you do not need to seek second opinions from others, and you do not need to observe the behavior repeatedly for it to be a problem – all of our individual boundaries, personalities, and histories are what define the rules, and your voice is important. You should always feel comfortable speaking up, especially if you are a lone voice!\nIf you observe or are the recipient of discrimination, sexual misconduct, or harassment, reports should be made to the Office of Equity. You can read about this process here. Depending on your classification, you may be a mandatory reporter of misconduct, meaning you must report any such misconduct you observe.\n\n\n2.3.2 Professional Conduct\nDetails on responsible science, authorship, and the expectations of your role are found throughout this document. Generally speaking, as a member of the JRaviLab, you are a professional researcher, and you can and should take pride in this. We are better for your membership! With this role comes certain responsibilities that go beyond the code of conduct overview mentioned above. Remember that your behaviors represent the lab, all of our research, and even Anschutz and the University of Colorado at large. Treat our fellow scientists in other labs and the general public with respect and understanding, try to avoid being drawn into public arguments on social media (nobody wins these), always be open to learning and re-learning, and do not let ego cloud judgment. We should never seek to use or diminish others merely to climb a career ladder.\nAs a group, our success and reputation, and the quality of our science and its positive impacts on society all depend on our lab having a sense of social cohesion and psychological safety. This goal is aspirational and does not materialize automatically, but with our collective efforts and daily upkeep, is very attainable.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lab culture</span>"
+    ]
+  },
+  {
+    "objectID": "culture.html#health-and-wellness",
+    "href": "culture.html#health-and-wellness",
+    "title": "2  Lab culture",
+    "section": "2.4 Health and wellness",
+    "text": "2.4 Health and wellness\nHealth, wellness, safety\n\n2.4.1 Inclusive and safe space\nA part of this is also highlighted above in Mission, Mentoring philosophy, Inclusive lab climate, and Code of Conduct. In addition, the University of Colorado offers training in diversity, equity, and inclusion topics, including the Health Equity in Action Lab (HEAL). We encourage you to participate in these trainings, including the Foundations in Equity Certificate Program.\nWhile not required by CU, these modules will introduce you to a great range of perspectives, explain topics like implicit bias or microaggressions, and how to recognize and interrupt them in ourselves and others and treat others more equitably and respectfully. Beyond the obvious benefits to our lab culture, these topics are absolutely critical to recognize for scientific study design (e.g. using human data). Being aware of our implicit biases and systemic issues can help navigate potential pitfalls in data collection and interpretation, which can affect people worldwide.\nLinks and details to follow.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lab culture</span>"
+    ]
+  },
+  {
+    "objectID": "culture.html#lab-proceedings",
+    "href": "culture.html#lab-proceedings",
+    "title": "2  Lab culture",
+    "section": "2.5 Lab Proceedings",
+    "text": "2.5 Lab Proceedings\n\n2.5.1 Communication\n\nCommunication within the group | Slack | In-person/Zoom co-work\n\nIn all meetings and interactions, it is imperative that lab members are constructive in feedback and respectful of each other. Critiques are always welcome and encouraged, but they should be supportive and aimed at building others up and improving our science, not tearing others down. At the same time, we shouldn’t shy away from providing critical feedback! As scientists, we all need regular practice critically analyzing and interpreting what we read and hear, and a friendly environment like our lab group is the best place to work on these skills together.\n\n\n2.5.2 Meetings and formats\nSince communication is key to good science, we meet regularly as a lab in a variety of formats. The details about these meetings can be found here.\n\n\n2.5.3 Remote work & working hours\nAt a very broad level, the more time you put into your work, the more you’ll get accomplished. However, this is also an obvious oversimplification. Some people prefer a typical 9-5, others thrive with a 10 hour/4 day workweek, and others still find their productivity falls off after 6 hours of work. Adding to this, our work can often be asynchronous, and working remotely can be integrated into a routine as well.\nRegardless of your working style, taking breaks is important! Stretch, take a brisk walk, hydrate, and enjoy some caffeine (in moderation).\nIf you are working remotely for extended periods, communicate regularly on Slack, and schedule a few co-work times when you and others can log on together and work in a shared virtual space that makes spontaneous interactions possible. Remote work has advantages, but a major drawback is the lack of this spontaneity. Being able to walk to a neighboring desk and ask a quick question, take a shared tea break, and see the faces of the people you work with are real advantages to collaborative science. Some of these aspects can still be done remotely, but they require active effort. Please stay involved like this even if you aren’t on campus!\nGenerally speaking, if you are meeting milestones, participating in project and group discussions, and comfortable with your work-life balance in our lab, the details of your work schedule are flexible. For a diverse group, a schedule that accommodates everyone necessarily requires compromise. Your exact schedule will come down to your role in the lab, your preferences, and the group’s availability. There are some basic rules and tenants to be aware of.\n\n2.5.3.1 Work hours\nFor full-time members (e.g., PRAs, postdocs, grads), expect to put in 40 hours of work per week on average. For part-time members (e.g., undergraduates during the semester, interns, and other volunteers), you might be in the range of 10-30 hours a week typically.\nThese ranges are estimates and will vary across people and over time. We never want to find ourselves in a crunch, but deadlines sometimes do pile up, and some weeks may require more hours. At the same time, some weeks will be lighter, breaks are encouraged, and working to the clock, or overtime should not be glorified either. Most importantly, maintain a comfortable work-life balance that leaves you wanting to come back for more, and keeps you far from the burnout line! If you ever feel stressed about your schedule/workload, talk to your PI & group to see how we can change things.\nPresenteeism isn’t a healthy mindset, and health and productivity rank ahead (in that order!) of simply being present. Similarly, preferring not to be at work might also be indicative of potential issues. Talk to your mentor(s) and labmates, in case you have any concerns regarding working in person.\n\nWorking remotely | CU Remote Work Agreement\n\nFor any student-employee-related questions, please refer to the University of Colorado Denver student hourly employment handbook or the student employment website. Both handbooks define the student employment rules for the Denver and Anschutz Medical Campus.\n\n\n2.5.3.2 Time Off\nAlways be a happy researcher! To be a happy researcher means you need a good balance between work and time off. We encourage you to take time off when needed, but there are a few things to remember. If there are meetings/deadlines involved, please let me (PI) and team members know ahead of time if you can’t make it during crunch time.\n\nIt’s understandable that things occasionally come up – so it’s for a few hours/day(s); feel free to drop me (PI) a quick note and take off as needed.\nIf it’s more than 1-3 days (or recurring hours/days), let me (PI) know in advance so we can plan ahead.\nIf it’s &gt;3 days, please include me (PI) in the conversation during the planning phase (before booking your tickets/planning your travel). It’s better for all parties involved if this is a conversation rather than an FYI. *Similar for &gt;few days of remote work, unless previously requested.\nMark your time off on the lab calendar (in a non-disruptive way – darkest color background and NO notifications per event for everyone in the group) and notify your PI and co-workers in advance.\nLet others know if you miss any meetings during your time off. Please do your best to plan your work accordingly when known vacation times (no meeting weeks) are approaching. Don’t leave too much undone before going on vacation because you may have too much to do when you return, which can cause stress.\nAlso, leave good notes on what you were working on and what you must do when you return. Sometimes, when you are gone for too long, remembering where you left off can be hard, so having these notes can help you get back on track.\nStudies have shown not having a sustainable work-life balance can lead to difficulties in maintaining an efficient, productive, and healthy research experience. Therefore, it is essential to maintain a healthy work-life balance to ensure the best and most productive research experience (Bartlett et al., 2021).\nBe respectful of your labmates and avoid sending them messages when they are on vacation. If you are working closely with them on a project or need their help, notify them of any deadlines that may overlap with their vacation. This way, meetings can be determined before your labmate leaves for vacation.\nIf you receive work-related messages during vacation/holidays (incl. weekends), you are not obligated to answer them unless they are critical. If the message is urgent (esp. something you’ve committed to prior to your vacation and have missed checking during working days), please do your best to answer them as soon as possible. This is more so important when there are deadlines approaching. It is OK if there are occasional instances when you can’t make it to a deadline – but this can’t be a norm, and you *must* let me (PI) know in advance so we plan ahead.\n\n\n\n2.5.3.3 Leave policy\n\nBecause our group is tightly collaborative, please plan non-sick leave ahead of time to best fit all schedules when possible – at least check in with your mentor(s), mentee(s), and closest collaborators in advance.\nFor graduate students: Details may vary per your specific graduate program’s handbook, but the Graduate School offers basic guidelines herefor vacation and leave.\nUndergraduate and Masters Students: Student Employment Handbook\nStaff (postdocs, research professionals): The University of Colorado’s leave policies",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lab culture</span>"
+    ]
+  },
+  {
+    "objectID": "culture.html#publication-authorship-research-misconduct",
+    "href": "culture.html#publication-authorship-research-misconduct",
+    "title": "2  Lab culture",
+    "section": "2.6 Publication, Authorship & Research Misconduct",
+    "text": "2.6 Publication, Authorship & Research Misconduct\n\n2.6.1 Publishing\nTo quote the Foreign Secretary of the Royal Society, Dr. Mark Walport, “Science isn’t finished until it’s communicated”. If work isn’t documented, written up, peer-reviewed, and made publicly available, it’s no different than if the work hadn’t been performed in the first place. For our group, that might involve writing clearly commented, clean code, submitting it for code reviews, and sharing it through GitHub, or it could involve writing a manuscript and submitting it to scientific journals. In any case, it is imperative to work towards sharing reproducible, repeatable, and replicable science.\n\n\n2.6.2 Authorship\nIt’s often said that publications and citations are the currency of science. How does one become an author on a paper? What even is a paper? When is a project ready to publish? Many of these questions are best answered through conversations with peers and collaborators, but there are resources available to help provide context.\n\nA paper, a publication, a manuscript, or whatever you might hear it called is a formal write-up of a scientific project. It typically follows a format referred to as IMRAD for Introduction, Methods, Results, and Discussion. These refer to the order of sections of the paper, which roughly presents the introduction to the problem or knowledge gap, the methodological approach or techniques the authors decided to use to address the issue established in the introduction, what the results and data outputs of those methods are, and the interpretation of those findings and how they relate back to the problem established at the start. While the exact formatting varies journal-to-journal, this structure generally captures how scientific results are written and reported.\nHaving your name on a paper’s author list typically requires a substantial intellectual contribution. Without your work, the story in the manuscript would not have been complete. Typically, the position of the authors in the list reflects the amount of credit they deserve for the work done, and the PI(s) who oversaw the project receive(s) the last author position(s) to signify that it was their lab(s) who performed the work. Many people make minor contributions that do not make the cut for the author list, and they may earn a space in an Acknowledgements section. Discussions about project responsibilities and the positions contributors will earn on a manuscript should happen early and often. The details of this vary from field to field and lab to lab, but a good overview can be found in this article, interviewing many different scientists across disciplines.\nWhat kinds of contributions are important? Researchers have asked this question enough times to lead to the creation of a framework called CRediT for Contributor Roles Taxonomy. While this isn’t the final say on what types of contributions there can be on a manuscript, many journals have adopted the CRediT system to specifically assign which authors contributed in what ways in a paper, so it’s definitely worth a look.\nWhat does it mean if you’re an author? No matter your position in the author list, it means you are literally assigning your name to work performed. Even if you only worked on one small part of the analysis, you must be familiar with all aspects of the paper. Your authorship is a statement that you vouch for the content, the methods, and the conclusions made in the paper. While honest mistakes do happen and can slip through to publication, all authors should do their best to ensure everything is conducted to the highest standards for scientific rigor. Mistakes that significantly change the interpretation or outcome of an experiment, or worse, intentionally misleading or fraudulent data, can seriously affect or even end scientific careers for authors on erroneous papers. Authorship should be taken seriously because contributing to the larger body of scientific knowledge can and does have real impacts on the world and lives in it.\n\n\n\n2.6.3 Research Misconduct\n\nIf you are concerned about misconduct by fellow scientists, talk to them first! Science is inherently collaborative, and everybody brings a unique perspective – you may notice something that others have missed, and simply asking about it can course-correct a project. If you don’t feel satisfied with the answers, or if a researcher is not acting in good faith, it is your responsibility to report potential misconduct. In cases where you aren’t certain but still have concerns, you can speak with a Research Integrity Officer at CU and discuss whether the issue qualifies as misconduct before escalating to a formal report.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lab culture</span>"
+    ]
+  },
+  {
+    "objectID": "howto.html",
+    "href": "howto.html",
+    "title": "3  How to X",
+    "section": "",
+    "text": "3.1 Get started\nIf you are new to computational biology and R programming, join the #bioinfo-primers channel. Use the #help-x channels to ask for help/answer others’ questions on R/Py programming, shell scripting, version controlling, or anything else that’s general and not project-specific. Use the corresponding #proj-x channels for all project-related questions.\nCheck out the Slack tips in the pinned posts in #help-proj_management to get oriented since you are new to Slack (the channel used to be #howto-slack)!\nTo re-familiarize yourself with R/Python/Unix, check out these two resources in addition to Slack | CompBio gists and R-Ladies East Lansing. If you are new to R-Ladies Aurora, R-Ladies East Lansing, and Women+ Data Science, check them out and join Meetup-RLA/Meetup-RLEL and their Discord/Slack to remain apprised of upcoming events and to connect with the local R and data science communities.\n💡If you find other useful resources, please add them to this list (or share them with me).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How to X</span>"
+    ]
+  },
+  {
+    "objectID": "howto.html#code",
+    "href": "howto.html#code",
+    "title": "3  How to X",
+    "section": "3.2 Code",
+    "text": "3.2 Code\n\nWrite, work with, and manage source code and data\nPrepare for and carry out code review\nShare data\nWrite an R package\nDBMI software engineering team tips & tricks blog posts\n\n\n3.2.1 Learn R\nTo learn R, I would recommend getting started with the pinned posts in #courses-primers.\nA couple of helpful GitHub repositories - https://github.com/jananiravi/workshop-tidyverse (Intro to R's tidyverse package — handy to learn right away) - Other R workshop materials from our R-Ladies East Lansing chapter: https://github.com/rladies-eastlansing - Interactive tutorials with learnr & swirl. - R for Genomics from Data Carpentry - R on HPC\n\nCoursera\n\nIntro to R programming and tidyverse\nData visualization and Dashboarding with R specialization\nGetting Started with Data Visualization in R\n… and more | explore by topic, duration, skill-level\n\n\n📌 Go-to books (also in pinned posts on Slack)\n\nR for Data Science (for tidyverse and such)\nHands-On Programming with R (for base R) Intro to Git, GitHub resources\n\n\n\n3.2.2 Intro to Machine Learning\n\nYouTube Videos\n\nMachine Learning from Scratch by AssemblyAI\nMIT Deep Learning Course\nDeep Learning by Assembly AI\nUnderstanding Tensors by Dan Fleisch\nUnderstanding Neural Networks\nBasic Computer Parts Explained\n\nArticles\n\nTransformers\n\nCoding Practice Sites\n\nLeetCode\n\n\n\n\n3.2.3 Learn Git/GitHub\n\nhttps://happygitwithr.com/ Happy Git and GitHub for the useR (connecting git/GitHub w/ R)\nGit and GitHub learning resources from GitHub\nGit 101\nCoursera Intro to Git and GitHub course",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How to X</span>"
+    ]
+  },
+  {
+    "objectID": "howto.html#access-hpc-servers",
+    "href": "howto.html#access-hpc-servers",
+    "title": "3  How to X",
+    "section": "3.3 Access HPC, servers",
+    "text": "3.3 Access HPC, servers\nFor computing that requires high performance hardware and computing clusters, we utilize two different remote servers.\n\n3.3.1 JRaviLab server\n\nA single high performance machine used only by our group.\nTo request access, contact the system administrator shaddai.amolitos@cuanschutz.edu by sending him your CU username (e.g., the CU auto-generated ravijan instead of janani.ravi@cuanschutz.edu) and a brief message that you will need access to the server. CC janani.ravi@cuanschutz.edu, so they can both verify your access.\nIf you are new to remote server work, then it maybe helpful to learn about using an ssh config for managing your remote hosts.\n\n\n\n3.3.2 Alpine HPC\n\nAlpine is the HPC cluster for all the University of Colorado campuses, including Anschutz.\nThere is extensive documentation about getting setup\nAt the moment, a web shell is the only access option for Anschutz members. This is different from a typical SSH login, and it is best to follow the official, latest Alpine documentation.\n\nWhenever possible, we highly recommend using the VSCode extension which provides an IDE on the remote host without having to worry about server-side installation of other IDEs like RStudio or Jupyter.\n\n\n3.3.3 Use VPN\nhttps://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/vpn-and-remote-access",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How to X</span>"
+    ]
+  },
+  {
+    "objectID": "howto.html#readwritepresent",
+    "href": "howto.html#readwritepresent",
+    "title": "3  How to X",
+    "section": "3.4 Read/write/present",
+    "text": "3.4 Read/write/present\n\nRead papers\nMake a poster\nWrite a paper\nWriting in the Sciences on Coursera",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How to X</span>"
+    ]
+  },
+  {
+    "objectID": "howto.html#plan-your-semesteryear",
+    "href": "howto.html#plan-your-semesteryear",
+    "title": "3  How to X",
+    "section": "3.5 Plan your semester/year",
+    "text": "3.5 Plan your semester/year\nTemplates on yearly/semester planning and professional development are available here.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How to X</span>"
+    ]
+  },
+  {
+    "objectID": "howto.html#others",
+    "href": "howto.html#others",
+    "title": "3  How to X",
+    "section": "3.6 Others",
+    "text": "3.6 Others\n\nCareer development week\nRemote work | CU remote work policy | CU DBMI remote work agreement",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How to X</span>"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "4  Resources",
+    "section": "",
+    "text": "4.1 Funding\nWe strongly encourage trainees to apply for scholarships/fellowships or other grants to help support their independent research and to get acquainted with the process of developing competitive research and personal statements.\nHere are a few scholarship and funding opportunities:",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "resources.html#funding",
+    "href": "resources.html#funding",
+    "title": "4  Resources",
+    "section": "",
+    "text": "4.1.1 Grad students\n\nGraduate student funding opportunities (c/o JHU)\n@CUDenver\nNSF GRFP\nNIH F30, F31\nGraduate tuition for in-state, out-of-state, non-resident, international students\nImmigrants vs resident aliens\n\n\n4.1.1.1 Training grants\nhttps://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/resources/grants-and-fellowships\n\n\n4.1.1.2 AWIS\nhttps://awis.memberclicks.net\n\n\n\n4.1.2 Undergrads/postbacs\n\nColorado Biomedical Informatics Summer Training Fellowship for URM Mail Evelin Zumba with questions.\nLoan repayment program\nUniversity of Colorado Anschutz Medical Campus Preparation in Interdisciplinary Knowledge to Excel (PIKE) PREP (URM + citizen + BS in biomedical field)\nFor high school, undergraduate, and graduate/professional students\n\n\n\n4.1.3 Postdocs\n\nBeautiful central resource maintained by JHU\nPostdoctoral fellowships for international scholars\nNIH F32, K99/R00\n\n\n\n4.1.4 Other\n\nAnschutz Funding and Fellowships\nLudeman Center for Women’s Health Research",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "resources.html#cu-resources",
+    "href": "resources.html#cu-resources",
+    "title": "4  Resources",
+    "section": "4.2 CU resources",
+    "text": "4.2 CU resources\n\n4.2.1 Health and Wellness\nCU Anschutz: Mental health| Health and Wellness Center\nMSU: Mental health| Student Health & Wellness| Fitness\n\n\n4.2.2 Women in STEM\n\n\n4.2.3 JEDI ⚔️\nJustice, Equity, Diversity, and Inclusion\n\nCentral Office of Diversity, Equity, Inclusion, and Community Engagement\nOffice of Disability, Access, and Inclusion\nOffice of Diversity and Inclusion\nDEI education, outreach, and recruitment\n\n\n\n4.2.4 Writing Center at CU Anschutz",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html",
+    "href": "offboarding.html",
+    "title": "5  Offboarding",
+    "section": "",
+    "text": "5.1 Ready to head out?\nWe are aware that career plans change, and that is perfectly OK. The Ravi lab always encourages you to pursue your future endeavors and dreams. Ensure you do your best to make Janani aware of any changes in your career plans so the offboarding process can run smoothly.\nWe are delighted to have been a part of your research life. We wish you great laurels as you move on to the next phase of your career.\nPlease make sure you have checked these boxes before leaving our group.\nWe appreciate your contributions to JRaviLab, and we have set you up to succeed in life! We wish you the very best with your career next steps!",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#ready-to-head-out",
+    "href": "offboarding.html#ready-to-head-out",
+    "title": "5  Offboarding",
+    "section": "",
+    "text": "Please return any computers, devices, cords, or accessories that belong to the lab.\nAll your code is on GitHub (jravilab organization), and all your other non-GH docs are on our shared Google Drive folder. Please check to make sure none of the codebase or docs are on private Drive/GitHub repos (that are not part of our lab).\nAll your processed data files/figures/reports (&lt;100MB) are on GitHub.\nLarge data files (raw/processed) are on the server (and backed up); check to make sure your project successors and I have read/write access to these files/folders on the server.\nAll your scripts and data files are well-annotated with appropriate README files and Mermaid workflows, when relevant.\nAdded a detailed status report of where things – what was tried, what worked/didn’t work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps).\nYou have reoriented me and at least 1-2 other project members with the precise status (and next steps) of the project and the location of files.\nYou are not a full member of our GitHub organization, Slack workspace, Google Drive, or Outlook Calendar anymore but will retain access to the project channel/repo until publication (or complete transition to other project members).\nIf you are switching from being a full member to a collaborator, you will now only have collaborator privileges on Slack, GitHub, and Google Drive, until you are done with the project/your term with the collaborator.\nIf you have worked with us for a considerable period of time, you will remain a part of #the-continuum channel on our Slack.\nPlease update us of any changes in contact information for authorship purposes (in case we need to reach you and add you to the list of authors for all the work you contributed to the published project) and for us to know where you are now thriving.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#stay-in-touch",
+    "href": "offboarding.html#stay-in-touch",
+    "title": "5  Offboarding",
+    "section": "5.2 Stay in touch",
+    "text": "5.2 Stay in touch\nWe would love to hear from our dear alumni – please share your updates/accomplishments on #the-continuum or stay tuned for others’ news, too! And let us know when you’re in Denver next so we catch up for a cup of coffee/tea!\nWebpage | PI | Email | Mastodon | Bluesky | Twitter (inactive)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "meetings.html",
+    "href": "meetings.html",
+    "title": "Appendix A — Meetings",
+    "section": "",
+    "text": "A.1 Format\nPlease update this semester’s meeting schedule here.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Meetings</span>"
+    ]
+  },
+  {
+    "objectID": "meetings.html#format",
+    "href": "meetings.html#format",
+    "title": "Appendix A — Meetings",
+    "section": "",
+    "text": "A.1.1 Weekly lab meetings\n\nThese provide a space for everyone to share updates and roadblocks, and depending on the needs of the group, these meetings can be in a roundtable format where everybody who has updates can share them briefly (&lt;10min per person), longer form updates or presentations for 1-2 people (&lt;30min per person), or the entire slot can be reserved so one person can give a practice talk or major project summaries (&lt;60min per person). We operate a Google spreadsheet where members can put themselves down for specific topics, times, and dates. In all cases, these weekly lab meetings are required for all members to attend (it is flexible for part-time and junior members such as undergrads with heavy class loads).\n\n\n\nA.1.2 Weekly project-specific meetings\n\nThese give lab members under a broadly shared project/topic umbrella a space for more detailed discussions and to seek specific feedback and help from their peers in the same or similar topics. These meetings are only required for those in the relevant associated projects, but are open to any members curious to sit in, learn, and contribute. Like the weekly lab meetings, lab members can schedule themselves for specific topics or times here. Because of their more focused scope, there may be times where these meetings can be quick updates dropped in Slack instead, and all involved lab members should communicate regularly to ensure each meeting is necessary.\n\n\n\nA.1.3 One-on-one meetings or small group meetings\n\nThese more direct meetings can be set up as-needed. To easily schedule a one-on-one with Janani, please use this booking link.\n\n\n\nA.1.4 Journal clubs & Primers\nSign up here\nJournal clubs \n\nJournal club serves as opportunities to present interesting new research papers from other groups. For journal clubs, all members of the lab must read the selected paper ahead of time and be prepared to help their peers explain it. Likewise, to be respectful of the time commitments of others, the presenter must share their selected paper at least a few days before the meeting, and preferably the week before to give everyone a chance to read it thoroughly.\n\n\n\nThe format of journal club is largely up to the presenter, but it should walk briefly through the background to the problem, the question or need the paper addresses, how they did the work, what the results were, and how it ties back to the larger problems in the field and future directions. While the presenter can take the lead and walk the group through everything, journal clubs are a lot more engaging and educational with participation, so having the audience explain figures and interpretations is an easy way to ensure people are learning instead of just listening.\n\nPrimers \n\nTechnical primers can be great practice on teaching a topic by sharing how-to or tutorial lectures on subjects of your choosing. These are great opportunities to share a skill or approach with the group so we can all benefit from it.\n\n\n\nAdditionally, these are spaces where we can invite an outside presenter to share with us (for example, the Department of Biomedical Informatics’ Software Engineering Team, or the CU Office of Diversity, Equity, Inclusion & Community Engagement, or a scientist with subject expertise from another lab group). It is up to the group collectively to decide which primer topics are appropriate.\n\n\n\nA.1.5 Co-work sessions\n\nOrganized as desired, and can be in-person or virtual. Have a paper or a grant deadline? Need to do some code review? Looking to catch up on recent literature? A co-work session is a great place to get these done in a focused but still social setting. These typically work best if you bring a task or to-do list, but are also good to set up regularly if you’re working remotely for any extended periods of time to keep in touch and allow more natural interactions with your colleagues.\n\n\n\nA.1.6 Weekly software engg meetings\n\nMeetings with the DBMI SET on software and UI/UX design and implementation, as well as work on our JRaviLab server, software applications like MolEvolvR, or work on the CU Alpine HPC cluster.\n\n\n\nA.1.7 (Bi)weekly/monthly collab meetings\n\nLess frequent except during sprints, these are meetings with our collaborators on joint projects. They may involve sharing goals, blockers, and milestones, or might involve a collaborator working as a consultant to give advice or feedback from an outside perspective on a project.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Meetings</span>"
+    ]
+  },
+  {
+    "objectID": "meetings.html#logistics",
+    "href": "meetings.html#logistics",
+    "title": "Appendix A — Meetings",
+    "section": "A.2 Logistics",
+    "text": "A.2 Logistics\n\nGitHub issues/project for detailed project to-do’s\nShared Outlook Calendar for meetings, deadlines, RLEL & other events!\nSemester planning meeting (once per sem, during the first month)\nSlack for everything else! 😃",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Meetings</span>"
+    ]
+  },
+  {
+    "objectID": "meetings.html#schedule-and-times",
+    "href": "meetings.html#schedule-and-times",
+    "title": "Appendix A — Meetings",
+    "section": "A.3 Schedule and times",
+    "text": "A.3 Schedule and times\nAlways confirm the exact meeting schedule with our shared Outlook Calendar and Sheets document, but below are the usual meeting times.\n\nA.3.1 Monthly/(Bi)Weekly individual check-ins:\nBook via Outlook bookings.\n\n\nA.3.2 Group meetings\n\nWeekly group meeting (All members) | Fri 10.30a MST (wk)\nJournal clubs/Bioinfo primer series | Thu 11a MST (wk)\n\n\n\nA.3.3 Project meetings\n\nSoftware engg (MolEvolvR, server, & such) | Tu 11.30a MST (wk) | DBMI-SET (CU)\nEEPID | Tue, 12.30p (wk) | w/ WaleLab (MSU)\nDisease-gene associations + ML | Thu, 9a MST (biw) | w/ KrishnanLab (CU)\nHost response and disease/drug signatures | Thu, 10a MST (wk) | w/ KrishnanLab (CU)\nMicrobial G2P (MolEvolvR/CompGenomeR/AMR/MicroGenomeR) | Fri 11.30a MST (wk)\n\n\n\nA.3.4 DBMI seminar schedule\nPosted by the DBMI seminar committee | 2023-24 schedule\n\n\nA.3.5 Monthly Group Socials ☕ 🍵 🥐\n&lt;TBD | spontaneous&gt;\n\nCelebrations (w/ coffee/food/snacks)\nRandom discussions/catch-up\nCoffee/tea or ice cream for local folks\nOnce in a while, we can dedicate the group socials to fun topics close to your heart (e.g., music, sports, books, food, …)!\nOnline games: https://jackbox.tv | https://drawbattle.io (was more popular during the pandemic)",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Meetings</span>"
+    ]
+  },
+  {
+    "objectID": "howto_code_review.html",
+    "href": "howto_code_review.html",
+    "title": "Appendix B — Code Review",
+    "section": "",
+    "text": "B.1 Why do it?",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "howto_code_review.html#why-do-it",
+    "href": "howto_code_review.html#why-do-it",
+    "title": "Appendix B — Code Review",
+    "section": "",
+    "text": "Pride: Lab members (along with co-PIs) sign their code/software via attributable commits. This means we are happy to and should stand behind our code, whether private or public.\nLicensing: The lab code/repositories carry a LICENSE file with the PI’s labs. Code review helps stand by the licensing agreement. Also, when using dependencies (other published, in-dev packages, codebases, be sure to read and follow their licenses. We can only be as inclusive as the least inclusive cited resource.\nAttribution: When using code taken from elsewhere (other repositories, SO, papers, or alternate sources), make sure the code and coder are appropriately acknowledged. Within code attribution is important. If this is substantial, we need to add them to other centralized attribution files, as well.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "howto_code_review.html#preparation-for-code-review",
+    "href": "howto_code_review.html#preparation-for-code-review",
+    "title": "Appendix B — Code Review",
+    "section": "B.2 Preparation for Code Review",
+    "text": "B.2 Preparation for Code Review\n\nThings to be done by the author before code review.  Please note that all repos should remain private by default. Students, postdocs, and staff should discuss with Janani about when to make each repo public.  By default, the code contributors and the PI will be co-authors on all software and codebases.\n\n\nAdhering to “good enough” practices: Make sure you code adheres to the checklist of good-enough practices. Enforcing basic style rules is typically not a good reason to do code review.\n\nFor e.g., this means everyone follows styler/lintr, Google’s R Style Guide, or Python PEP8, or the Javascript, HTML/CSS equivalents for basic cleanly formatted code.\nUse a max line length of 80 (or 100) to make sure the code is readable without wraps.\nMake sure there are no unnecessary white spaces (and that necessary ones are present).\nAre your variable and function names descriptive and interpretable?\n\nCommon sense debugging: Catching bugs is not a good reason to do code review unless you’ve tried all of the following:\n\nHave you created a small toy/example/test dataset, ran your code, and matched the output with hand-calculated results? You need to have this dataset handy during code review.\nAre there off-by-one errors? Python and R begin their indices differently.\nDo the loops terminate in the way you expect? Do they terminate at all?\nHave you declared and initialized all variables properly? For all a, b, c, & d, it is worthwhile peppering the code with a number of print statements to follow along and see if each step checks out.\nHave you run automated tests, debuggers, etc.?\nDo you have top-level and within function/code-chunk comments? This includes file comments to include what each file does broadly and how to run them from the command line, docstring comments for functions, and in-line comments for detailed logical steps within the code chunk.\nAre all dependencies and imports defined in the R package files or at the top of the file?\n\nA visual flowchart of the code: Before you ask anyone else to look at your code, you need to be able to clearly explain to them what your code (or part of it) is meant to do. If it is a long piece of code, you should bring a drawing of which methods call which other methods, or which objects use which other objects.\nPrioritizing the goals of code review:\n\nIf you’re trying to use code review to gather thoughts on speeding up some calculation, but your teammates are thinking about catching bugs, neither of you will get much from the process.\nGood reasons to do code review:\n\nTo help learn how to think like a coworker so that it’s easy to navigate and change their code in the future.\nTo bring up to speed on what files and features have changed recently so that when bugs sneak in, at least two people can help in diagnosing and fixing the problem.\nTo get critical feedback on a specific section that requires improvement in terms of speed-up, unfathomable errors, etc.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "howto_code_review.html#code-review-process",
+    "href": "howto_code_review.html#code-review-process",
+    "title": "Appendix B — Code Review",
+    "section": "B.3 Code Review Process",
+    "text": "B.3 Code Review Process\n\nInvolves the author and at least one reviewer (ideally someone related to the project)\n\n\nSet up a time and set a time limit (say, half an hour or one hour maximum; no more than 400 lines of code should be reviewed at a time). Then, divide the process into three phases:\n\nPhase 1: The author should give a description of the code/feature (using the visual flowchart of code, if necessary) including the list of input files, output files, and usage. This should include clearly stating the primary goals of the code review to spend time more efficiently.\nPhase 2: Reviewers do a first pass of the code along with the author trying to understand the changes (or the whole thing if it’s the first time) and write down questions (you can ask questions for clarification but do not give feedback yet). If you think you can approve the code/change at this point, do it and be done.\nPhase 3: If you think the code is not ready, list your thoughts or questions to the author and engage in a discussion in the order the code is designed to run.\n\nPractice a positive code review culture\n\nEach bug or clunky piece of code is an opportunity for the team as a whole to improve code quality. Ask questions, acknowledge good practices, politely suggest fixes, and explain your reasoning.\nThe process allows junior team members to learn from senior members. So, seniors, set a good example by making it clear that this whole exercise is about the code, not the person.\nPractice the art of giving and receiving critical feedback: i) Give mutual respect, ii) Be specific, iii) Follow the keep-discard-improve rule, and iv) Have a “how can I help you?” mindset.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "howto_code_review.html#if-you-have-any-questions",
+    "href": "howto_code_review.html#if-you-have-any-questions",
+    "title": "Appendix B — Code Review",
+    "section": "B.4 If you have any questions",
+    "text": "B.4 If you have any questions\nPlease reach out to me (JR) if any of these aspects are unclear before requesting a code review.\n\nB.4.1 Acknowledgments\nWe would like to thank members of CU Anschutz DBMI (Drs. Krishnan, Greene, and the DBMI software engineering team) for inspiration. Here’s a quick starter checklist to get the process going.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "howto_write_sourcecode.html",
+    "href": "howto_write_sourcecode.html",
+    "title": "Appendix C — Code/Data Best Practices",
+    "section": "",
+    "text": "Sourced (borrowed unabashedly & modified) from the excellent material from the Greene & Krishnan Labs + the rest of the references below, combined with lessons I have learnt from my own experience through the years!\n\n\nC.0.1 Pride\nWe expect lab members to sign their code. To quote from The Pragmatic Programmer, “Craftsmen of an earlier age were proud to sign their work. You should be, too… People should see your name on a piece of code and expect it to be solid, well written, tested, and documented.” While some code will be proof-of-concept code, it should be of a form that inspires confidence.\nAnd this, I cannot emphasize enough: Pride also means clearly showcasing what is inspired by, a modified/improved version of, and/or directly borrowed from another software code base. This means that when we write code by building on top of what others have done (via inspiration, modification/improvement, or borrowing), we clearly give credit by:\n1. Explicitly saying this in the comments section next to the relevant piece/block of your code, including a link to the source and a short write-up on how the source is adapted here.\n2. Including these detail in the documentation of the code base that lives as a supporting document outside the code.\n3. Including a citation to the source wherever appropriate in our publication. Of all these, [1] is the easiest place to be extremely generous and complete in attribution to everything non-obvious (fast implementation, numerical recipes, methodological/algorithmic ideas) from StackOverflow answers, blog posts, lecture notes, existing open software, etc. We will start impeding readability and hit space constraints with [2] & [3]. Please talk to me or other senior members of the lab about these to decide on proper attributions.\n\n\nC.0.2 Language\nWe write code for our analyses in Python and R, which allows everyone in the lab to know two languages and understand analytical code. Code for visualization can be Python, R, or javascript. Webserver interface code uses R Shiny or javascript. Check out this doc for all the material you need to get started with most of these languages and tools.\n\n\nC.0.3 Licensing\nWe expect code that we produce to be licensed under a 3-clause BSD license. Unless a funding agency requires something different, we’ll use this. If you have questions or concerns about licensing, feel free to raise them in Slack.\n\n\nC.0.4 Version control\nWe have a JRaviLab account on GitHub. We expect that lab members will maintain their code in repositories under this team account. When you commit code, add informative messages. Remember: verbose is better. Even if you’re just fixing formatting or correcting typos, instead of phrases like “small changes” and “some minor stuff”, just say “fixing formatting” or “correcting some typos”. We will only publish code that is held in a public JRaviLab repository that has gone through the code review process.\n\n\nC.0.5 Data management\nFor publicly available data, scripts used to download and process these data should be preserved, as should the versions of helper files used in processing (e.g. probe-to-gene mapping, gene-symbol mapping). [If the dataset is large (&gt;100 GB), discuss with me about where to download it.] These items – processing scripts, helper files, etc. – should be version controlled. Where possible, intermediate files of reasonable size can be stored to facilitate re-use, but the process to regenerate these files from publicly available data should be preserved. Keep the following things in mind:\n\nDo not tamper with original files that you get from me, a collaborator, or from external resources. In the folder where you’re downloading these original files, create a readme.txt file that contains detailed information on when you downloaded this data and from where. For example:\n\nIf you got this from a link to a Google-Drive/DropBox folder from me/collaborator via Slack/Email, along with the date you downloaded, note the link to the GDrive/DropBox folder and the link to the Slack message or Email.\n\nSlack message link: click the ..., then “Show message actions” next to the Slack message and click “Copy link”.\nEmail message link or ID can be obtained by right-clicking the message or looking under “Details”.\n\nIf you get a link to the data on our MSU servers, create a symlink of the data in your data directory (do not copy over the data; it’s a waste of space).\n\nDo not make changes to any file by hand. Write a shell/Python/R script that reads in the file and generates the desired new file with all the required modifications. If you get a file in formats that cannot be worked with easily using a code (like Excel sheets), export the sheet as a text document and then work with that text file.\nAutomate everything so that you can exactly reproduce everything at a later time. Create a runlog.sh file in each folder that has the list of all the commands (shell commands: the full commands to run your Python/R script) you executed in that directory.\nMany times, we will have to use the scratch space to download large data dumps and process them. Scratch has better I/O but has no backups. So, remember to keep the processing scripts in your project directories, symlink the scripts onto the directories on scratch and use them there. Thus, even if scratch fails, we can rebuild everything seamlessly. Talk to me before moving over huge processed datasets from scratch over to the backed-up research directories.\nGive all files meaningful, interpretable, and computable names.\n\n\n\nC.0.6 Organizing your project\nAdhere to the following organization for your project folder/repository. Each project is slightly different but should not depart too much from this proposed organization.\n\n\nproject_data\n\ndata\nsrc\nbin\ndoc\nresults\n\n\n\nCheck out the detailed doc here.\nThis whole project directory, except the big datasets in your data directory, should be synced with your GitHub repo of your project.\n\n\nC.0.7 Reproducibility\nWe expect all lab members to maintain code that performs reproducible analyses. This can be in the form of R/Python/Shell scripts to do everything without manual editing and runlog.sh scripts that contain the command-line calls of all the scripts with inputs/arguments that allow analyses to be automatically performed. We expect that these scripts, including those to generate figures in papers generated as a consequence of such analyses, will be included in source control repositories and made publicly available before or concurrent with manuscript publication.\n\n\nC.0.8 Good enough practices for writing code\n\nPride: We expect lab members to sign their code.\nUsing other code: Code taken from elsewhere is properly acknowledged and should be checked for compatibility with its license.\nStyle guide: Python code follows PEP 8. R code follows Google’s R Style Guide.\nVariable and function names: Variable names are descriptive and interpretable to someone looking at this code for the first time (e.g. not a, b, x, etc.) They should be full words (nodeDegree or pvalues) or clearly recognizable acronyms. Function names should begin with a verb (e.g. parse_expression_dataset, shuffle_list_of_genes, or get_score_distribution). In both cases, be as verbose and expressive as you need.\nFile commenting: Each file has a comment (a small paragraph) at the top to broadly describe its purpose and how it is expected to be used (e.g. imported, run from command line, both) including details on inputs/outputs and example usage. This is also the place where you make dependencies and requirements explicit.\nFunction/code commenting: Each function has a docstring that reports the computation that is intends to implement, its arguments, and its return value(s). E.g., #' Takes in the gene_length dictionary & a geneset_gene dictionary and returns a random geneset for each real geneset with the random genes having similar lengths as the real member genes. Docstring documentation is here: Python, R.\nIn-line commenting: Each block/section of code contains detailed comments on what it is meant to do.\nImports: All trivial imports are at the top of the file right after the top comment paragraph.\nCode with constants: Any constants are specified at the beginning of the file following the imports.\nCode that uses a random seed [special case of constants]: Code that uses a random seed is reproducible. This means that the seed can be set and a default value is specified. This needs to be done at the top as well.\nColumn length: Lines are 80 characters or fewer. This applies to all text under revision control with the exception of data files that must adhere to a particular file format that does not allow for line “folding” where necessary. This rule is already covered well in PEP 8 but called out here to clarify that we apply it to more than Python code. One reason for this is to aid in readability of diff output when performing code reviews.\nWhitespace: There is no unnecessary whitespace.\n\n\n\nD References\n\nThe KrishnanLab and GreeneLab Onboarding Docs\nA Guide to Organizing Computational Biology Projects\nGood Enough Practices in Scientific Computing\nBest Practices for Scientific Computing\nTen Simple Rules for Making Research Software More Robust",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Code/Data Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "howto_work_remotely.html",
+    "href": "howto_work_remotely.html",
+    "title": "Appendix D — Remote Work",
+    "section": "",
+    "text": "E Few generic tips\nupdated during/due to the COVID-19 pandemic.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Remote Work</span>"
+    ]
+  },
+  {
+    "objectID": "howto_work_remotely.html#daily-scrum",
+    "href": "howto_work_remotely.html#daily-scrum",
+    "title": "Appendix D — Remote Work",
+    "section": "F.1 1. Daily Scrum",
+    "text": "F.1 1. Daily Scrum\nAt the beginning of each day you’re working, think or write down the following:\n\nWhat did you do yesterday? [“Yesterday, I …”]\nWhat will you do today? [“Today, I’m going to …”]\nAre there any impediments in your way?",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Remote Work</span>"
+    ]
+  },
+  {
+    "objectID": "howto_work_remotely.html#casual-co-work",
+    "href": "howto_work_remotely.html#casual-co-work",
+    "title": "Appendix D — Remote Work",
+    "section": "F.2 2. Casual Co-work",
+    "text": "F.2 2. Casual Co-work\nMembers are encouraged to setup co-work times to co-write, for code review, or just to work! (based off our most recent When2meet poll)",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Remote Work</span>"
+    ]
+  },
+  {
+    "objectID": "howto_work_remotely.html#finding-time-to-chat-with-me",
+    "href": "howto_work_remotely.html#finding-time-to-chat-with-me",
+    "title": "Appendix D — Remote Work",
+    "section": "F.3 3. Finding time to chat with me",
+    "text": "F.3 3. Finding time to chat with me\nFinally, as a substitute for scheduling in-person meetings via Slack, I’ve made my full calendar available here, where you can easily fix a time to chat.\n\nNo need to ping me ahead.\nNo need to have a specific purpose/agenda, although this might help me prepare if it’s for a scientific/technical check-in. We can talk about anything – research, courses, work-life, home-life – or just say “Hi!” 🙂\nPick a corresponding slot – 15min, 30min, or 1h.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Remote Work</span>"
+    ]
+  },
+  {
+    "objectID": "howto_work_remotely.html#acknowledgments",
+    "href": "howto_work_remotely.html#acknowledgments",
+    "title": "Appendix D — Remote Work",
+    "section": "F.4 Acknowledgments",
+    "text": "F.4 Acknowledgments\nOur JRaviLab group discussions + ideas from Baucom and Krishnan Labs.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Remote Work</span>"
+    ]
+  },
+  {
+    "objectID": "howto_make_poster.html",
+    "href": "howto_make_poster.html",
+    "title": "Appendix E — Make a poster",
+    "section": "",
+    "text": "E.1 Questions to address\nIn the poster, clearly and concisely explain what you have done in terms of the 4 questions:\n1. What is the problem? why is it important/significant? | Background/Overview\n2. What are the current approaches to address this problem & what are their limitations? aka Gaps in knowledge | Background/Overview\n3. What is your approach, what are the results, and what are the take-homes? | Workflow, Results sections, Summary/Conclusions (&gt;60% of your poster)\n4. What are the next steps and, in general, who cares? tying it back to the big picture | Future Directions/Significance",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Make a poster</span>"
+    ]
+  },
+  {
+    "objectID": "howto_make_poster.html#main-elements-of-the-poster",
+    "href": "howto_make_poster.html#main-elements-of-the-poster",
+    "title": "Appendix E — Make a poster",
+    "section": "E.2 Main elements of the poster",
+    "text": "E.2 Main elements of the poster\n\nTitle, authors, affiliations, group, university logo\nBackground/Overview (w/ fig)\nApproach/Methods w/ your flowchart/cartoon workflow | methods/tools can be spelled out for each logical step of the pipeline\nResults, Results, Results | in various shapes and forms, but mostly said with clear readable figures, screenshots, tables (if plots can’t be made)\nSummary/Conclusions & Future Directions | separately or together based on how much you have to say for each\nAcknowledgments & References (could be together/separate)\nContact info – group’s, yours, … how/whom to reach if they have questions.\n\n\nE.2.1 Other Tips\n\nFont sizes readable at 100% zoom from a 2-3ft distance\nClear BIG section headings\nUse colors, but ‘wisely!’\nFigures &gt; flowcharts &gt; bullet points &gt;&gt;&gt; blocks of text (avoid)\nWhere to make? Google Slides (when collaborative + preferred), Keynote/PowerPoint",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Make a poster</span>"
+    ]
+  },
+  {
+    "objectID": "howto_make_poster.html#references",
+    "href": "howto_make_poster.html#references",
+    "title": "Appendix E — Make a poster",
+    "section": "E.3 References",
+    "text": "E.3 References\n\nHow to Create a Research Poster: Poster Basics | NYU Libraries\nTen Simple Rules for a Good Poster Presentation | PLoS CompBio\nSimple Rules to Make an Effective Scientific Presentation | my slides\nPoster/Lightning Talk Guidelines from Women+ Data Science Symposium\nA guide to poster making for scientific conferences | Sina Rueger\nTips for presenting a scientific poster at a conference | Scientifica Neurowire\nHow to make an effective poster | UC Davis undergraduate research center\n\n\nE.3.1 Example posters\nTo be added.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Make a poster</span>"
+    ]
+  },
+  {
+    "objectID": "howto_write_paper.html",
+    "href": "howto_write_paper.html",
+    "title": "Appendix F — Writing papers",
+    "section": "",
+    "text": "F.1 How to write a scientific paper once we decide that you have one or more interesting results\nStart by discussing with me what the paper is about!",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Writing papers</span>"
+    ]
+  },
+  {
+    "objectID": "howto_write_paper.html#how-to-write-a-scientific-paper-once-we-decide-that-you-have-one-or-more-interesting-results",
+    "href": "howto_write_paper.html#how-to-write-a-scientific-paper-once-we-decide-that-you-have-one-or-more-interesting-results",
+    "title": "Appendix F — Writing papers",
+    "section": "",
+    "text": "F.1.1 Figures and Tables\n\nCreate a draft of your ideal set of Figures & Tables (in addition to supplements) that can tell an interesting, coherent story.\n\nWrite detailed figure/table legends to help understand what piece of the story each figure/table will convey.\nGet feedback on the entire story draft from colleagues / collaborators / committee.\nBased on these interactions, keep revisiting & revising this draft.\n\n\n\n\nF.1.2 Introduction & Discussion\n\nRead widely and deeply. Read often.\n\nRemember that this exercise is going to entirely feed your Introduction and Discussion sections.\nRecord all the papers in a Zotero library, starting with Slack shares and periodic PubMed searches.\nCreate a single Google Doc and make notes about each paper along with its title & link. The purpose of the notes is to make the points you will write in your manuscript to cite each paper.\nBased on these readings and discussions during project meetings, pick a target journal.\n\n\n\n\nF.1.3 Supplementary data\n\nMake all main and supplemental Figures and Tables along with declarative titles & detailed legends.\n\nRun many controls and sanity checks.\nRapidly iterate with me & colleagues and do additional analyses needed to fill gaps & round-out the story.\nPrepare for & do code review.\n\n\n\n\nF.1.4 Methods & Code+Data\n\nWrite a very detailed Methods section and prepare Code & Data to be released.\n\nDecide (w/ me) what Code & Data need to be released with this manuscript.\nAs you write each sub-section of Methods, organize and document the pertinent code, data, and results.\n\n\n\n\nF.1.5 Results\n\nWrite the Results section and rapidly iterate with me & colleagues to make changes/improvements.\n\n\n\nF.1.6 Tying them together\n\nStart with the story line.\nMake the Figures/Tables (you will keep iterating over these until submission).\nWrite the Methods since that’s the easiest one to tackle.\nThen, write the Results describing your Figs/Tables.\nFinally, write the Introduction and Discussion sections, and add References (e.g., Zotero + Google Docs integration).\n\nThe Introduction section should lead up to the main questions and results of the manuscript.\nThe Discussion should put the new results in the context of existing work, describe novelty & potential impact, and conclude with opportunities for future work.\nPerform any additional analyses/comparisons needed to make these sections airtight.\n\n\n\n\nF.1.7 Title & Abstract\n\nWrite Title and Abstract, and get feedback from me/colleagues/collaborators on this full document.\n\n\n\nF.1.8 Last Steps\n\nWhile others are critically reviewing the manuscript:\n\nCreate a well-organized & documented companion GitHub repo for the manuscript.\n\nThis should contain all the Code & Data (from Step 4) that will be publicly released.\n\nWrite the Cover Letter.\n\nSubmit on bioRxiv, share on social media, and submit to journal! 🎉",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Writing papers</span>"
+    ]
+  },
+  {
+    "objectID": "howto_write_paper.html#resources",
+    "href": "howto_write_paper.html#resources",
+    "title": "Appendix F — Writing papers",
+    "section": "F.2 Resources",
+    "text": "F.2 Resources\n\nMuch has already been written on how to think about and go about writing good papers. This doc contains pointers to great resources on these aspects.\n\n\nF.2.0.1 Getting Started – General Thoughts and Principles\n\nHow to write a first-class paper – Six experts offer advice on producing a manuscript that will get published and pull in readers.\nTen Simple Rules for Writing Research Papers – Principles and attitude that can help guide the process of writing in particular and research in general.\n\n\n\nF.2.0.2 Writing the Paper – Sections and Structure\n\nThe CommKit is a collection of guides to successful communication in the biological sciences. It contains an entire section on writing Journal Articles with annotated real-world examples. Highly recommended!\nTen Simple Rules for Structuring Papers – Clearly laid out structure for papers.   \nWriting Scientific Papers — Structuring, Drafting, and Revising\n\n\n\nF.2.0.3 Nailing Key Sections and Fine-tuning\n\nThe 5 pivotal paragraphs in a paper – There are five really pivotal paragraphs in any paper. If you get those five paragraphs right, you are likely to have and communicate the story arc in a way that grabs attention.\nHow to write paragraphs in research texts – Essay on crafting solid paragraphs.\nHow small changes to a paper can help to smooth the review process – Aspects of presentation that make it as easy as possible for editors and reviewers to focus on the work’s scientific content by avoiding confusion or misinterpretation (generate substantial delays in the review process).\nHow to write an effective abstract – An excellent annotated abstract from Nature detailing all the components & flow of a good abstract.\n\n\n\nF.2.1 Reading, Writing, Reviewing, Sharing Data, Creating an R pkg | from Jeff Leek\n\nHow to read papers\nHow to review papers\nHow to write your first paper\nHow to share data\nHow to write an R package\n\n\n\nF.2.2 Acknowledgments\nCited sources above + KrishnanLab.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Writing papers</span>"
+    ]
+  },
+  {
+    "objectID": "career-dev.html",
+    "href": "career-dev.html",
+    "title": "Appendix G — Career/Professional Development",
+    "section": "",
+    "text": "G.0.1 Define and Measure Immediate, Tangible Growth Opportunities",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>G</span>  <span class='chapter-title'>Career/Professional Development</span>"
+    ]
+  },
+  {
+    "objectID": "career-dev.html#writing",
+    "href": "career-dev.html#writing",
+    "title": "Appendix G — Career/Professional Development",
+    "section": "G.1 Writing",
+    "text": "G.1 Writing\n\nUpdate CV & submit it for feedback\nPerform and submit a self-evaluation: strengths, weakness, and career goals (w/ timeline)?\nCreate a blog or submit a blog post about your project or lab experience to be posted on the lab’s blog\nRead and review an article and post your comments on PubPeer or bioRxiv",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>G</span>  <span class='chapter-title'>Career/Professional Development</span>"
+    ]
+  },
+  {
+    "objectID": "career-dev.html#presenting",
+    "href": "career-dev.html#presenting",
+    "title": "Appendix G — Career/Professional Development",
+    "section": "G.2 Presenting",
+    "text": "G.2 Presenting\n\nPrepare for an elevator pitch\nVolunteer to give a talk (campus event, seminar, or elsewhere for outreach)\nSign-up for mentoring and outreach",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>G</span>  <span class='chapter-title'>Career/Professional Development</span>"
+    ]
+  },
+  {
+    "objectID": "career-dev.html#networking",
+    "href": "career-dev.html#networking",
+    "title": "Appendix G — Career/Professional Development",
+    "section": "G.3 Networking",
+    "text": "G.3 Networking\n\nJoin Mastodon/BlueSky/Twitter and post a message\nMake a simple website (or LinkedIn profile) promoting yourself and your science/technology\nInitiate contact with a scientist/professional outside the lab/institution (whom you don’t know before) – get career advice, scientific advice, or a letter",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>G</span>  <span class='chapter-title'>Career/Professional Development</span>"
+    ]
+  },
+  {
+    "objectID": "career-dev.html#other",
+    "href": "career-dev.html#other",
+    "title": "Appendix G — Career/Professional Development",
+    "section": "G.4 Other",
+    "text": "G.4 Other\n\nJoin a professional society\n\n\nG.4.1 Credits\nAvasthi and Krishnan labs.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>G</span>  <span class='chapter-title'>Career/Professional Development</span>"
+    ]
+  }
+]
