@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Appendix D — Remote Work – JRaviLab docs</title>
+<title>Appendix H — LLM use guidelines for research trainees – JRaviLab docs</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./howto_make_poster.html" rel="next">
-<link href="./howto_write_sourcecode.html" rel="prev">
+<link href="./career-dev.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -249,7 +248,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./meetings.html">Appendices</a></li><li class="breadcrumb-item"><a href="./howto_work_remotely.html"><span class="chapter-number">D</span>&nbsp; <span class="chapter-title">Remote Work</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./meetings.html">Appendices</a></li><li class="breadcrumb-item"><a href="./llm_use_guidelines.html"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">LLM use guidelines for research trainees</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -348,7 +347,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./howto_work_remotely.html" class="sidebar-item-text sidebar-link active">
+  <a href="./howto_work_remotely.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">D</span>&nbsp; <span class="chapter-title">Remote Work</span></span></a>
   </div>
 </li>
@@ -372,7 +371,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./llm_use_guidelines.html" class="sidebar-item-text sidebar-link">
+  <a href="./llm_use_guidelines.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">LLM use guidelines for research trainees</span></span></a>
   </div>
 </li>
@@ -388,24 +387,51 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#few-generic-tips" id="toc-few-generic-tips" class="nav-link active" data-scroll-target="#few-generic-tips"><span class="header-section-number">E</span> Few generic tips</a></li>
-  <li><a href="#workfromhome-tips" id="toc-workfromhome-tips" class="nav-link" data-scroll-target="#workfromhome-tips"><span class="header-section-number">F</span> #WorkFromHome tips</a>
+  <li><a href="#core-principle" id="toc-core-principle" class="nav-link active" data-scroll-target="#core-principle"><span class="header-section-number">H.1</span> Core principle</a></li>
+  <li><a href="#strategic-uses-enhance-learning" id="toc-strategic-uses-enhance-learning" class="nav-link" data-scroll-target="#strategic-uses-enhance-learning"><span class="header-section-number">H.2</span> ✓ Strategic uses (enhance learning)</a>
   <ul class="collapse">
-  <li><a href="#daily-scrum" id="toc-daily-scrum" class="nav-link" data-scroll-target="#daily-scrum"><span class="header-section-number">F.1</span> 1. Daily Scrum</a></li>
-  <li><a href="#casual-co-work" id="toc-casual-co-work" class="nav-link" data-scroll-target="#casual-co-work"><span class="header-section-number">F.2</span> 2. Casual Co-work</a></li>
-  <li><a href="#finding-time-to-chat-with-me" id="toc-finding-time-to-chat-with-me" class="nav-link" data-scroll-target="#finding-time-to-chat-with-me"><span class="header-section-number">F.3</span> 3. Finding time to chat with me</a></li>
-  <li><a href="#acknowledgments" id="toc-acknowledgments" class="nav-link" data-scroll-target="#acknowledgments"><span class="header-section-number">F.4</span> Acknowledgments</a></li>
+  <li><a href="#documentation-organization" id="toc-documentation-organization" class="nav-link" data-scroll-target="#documentation-organization"><span class="header-section-number">H.2.1</span> Documentation &amp; organization</a></li>
+  <li><a href="#learning-skill-development" id="toc-learning-skill-development" class="nav-link" data-scroll-target="#learning-skill-development"><span class="header-section-number">H.2.2</span> Learning &amp; skill development</a></li>
+  <li><a href="#critique-gap-analysis" id="toc-critique-gap-analysis" class="nav-link" data-scroll-target="#critique-gap-analysis"><span class="header-section-number">H.2.3</span> Critique &amp; gap analysis</a></li>
+  <li><a href="#code-assistance-after-mastery" id="toc-code-assistance-after-mastery" class="nav-link" data-scroll-target="#code-assistance-after-mastery"><span class="header-section-number">H.2.4</span> Code assistance (after mastery)</a></li>
+  <li><a href="#communication-practice" id="toc-communication-practice" class="nav-link" data-scroll-target="#communication-practice"><span class="header-section-number">H.2.5</span> Communication practice</a></li>
+  <li><a href="#literature-search" id="toc-literature-search" class="nav-link" data-scroll-target="#literature-search"><span class="header-section-number">H.2.6</span> Literature search</a></li>
   </ul></li>
+  <li><a href="#avoid-compromises-training" id="toc-avoid-compromises-training" class="nav-link" data-scroll-target="#avoid-compromises-training"><span class="header-section-number">H.3</span> ✗ Avoid (compromises training)</a>
+  <ul class="collapse">
+  <li><a href="#writing-thinking" id="toc-writing-thinking" class="nav-link" data-scroll-target="#writing-thinking"><span class="header-section-number">H.3.1</span> Writing &amp; thinking</a></li>
+  <li><a href="#code-analysis" id="toc-code-analysis" class="nav-link" data-scroll-target="#code-analysis"><span class="header-section-number">H.3.2</span> Code &amp; analysis</a></li>
+  <li><a href="#data-results" id="toc-data-results" class="nav-link" data-scroll-target="#data-results"><span class="header-section-number">H.3.3</span> Data &amp; results</a></li>
+  <li><a href="#core-scientific-skills" id="toc-core-scientific-skills" class="nav-link" data-scroll-target="#core-scientific-skills"><span class="header-section-number">H.3.4</span> Core scientific skills</a></li>
+  </ul></li>
+  <li><a href="#critical-requirements" id="toc-critical-requirements" class="nav-link" data-scroll-target="#critical-requirements"><span class="header-section-number">H.4</span> Critical requirements</a>
+  <ul class="collapse">
+  <li><a href="#accountability-verification" id="toc-accountability-verification" class="nav-link" data-scroll-target="#accountability-verification"><span class="header-section-number">H.4.1</span> 1. Accountability &amp; verification</a></li>
+  <li><a href="#documentation" id="toc-documentation" class="nav-link" data-scroll-target="#documentation"><span class="header-section-number">H.4.2</span> 2. Documentation</a></li>
+  <li><a href="#communication" id="toc-communication" class="nav-link" data-scroll-target="#communication"><span class="header-section-number">H.4.3</span> 3. Communication</a></li>
+  <li><a href="#protect-sensitive-information" id="toc-protect-sensitive-information" class="nav-link" data-scroll-target="#protect-sensitive-information"><span class="header-section-number">H.4.4</span> 4. Protect sensitive information</a></li>
+  </ul></li>
+  <li><a href="#career-stage-guidance" id="toc-career-stage-guidance" class="nav-link" data-scroll-target="#career-stage-guidance"><span class="header-section-number">H.5</span> Career stage guidance</a>
+  <ul class="collapse">
+  <li><a href="#early-stage-years-1-3-undergrads" id="toc-early-stage-years-1-3-undergrads" class="nav-link" data-scroll-target="#early-stage-years-1-3-undergrads"><span class="header-section-number">H.5.1</span> Early stage (years 1-3, undergrads)</a></li>
+  <li><a href="#mid-career-advanced-grad-students-postdocs" id="toc-mid-career-advanced-grad-students-postdocs" class="nav-link" data-scroll-target="#mid-career-advanced-grad-students-postdocs"><span class="header-section-number">H.5.2</span> Mid-career (advanced grad students, postdocs)</a></li>
+  <li><a href="#wet-lab-specific" id="toc-wet-lab-specific" class="nav-link" data-scroll-target="#wet-lab-specific"><span class="header-section-number">H.5.3</span> Wet-lab specific</a></li>
+  </ul></li>
+  <li><a href="#the-decision-framework" id="toc-the-decision-framework" class="nav-link" data-scroll-target="#the-decision-framework"><span class="header-section-number">H.6</span> The decision framework</a>
+  <ul class="collapse">
+  <li><a href="#before-using-aillm-ask-yourself" id="toc-before-using-aillm-ask-yourself" class="nav-link" data-scroll-target="#before-using-aillm-ask-yourself"><span class="header-section-number">H.6.1</span> Before using AI/LLM, ask yourself</a></li>
+  </ul></li>
+  <li><a href="#remember" id="toc-remember" class="nav-link" data-scroll-target="#remember"><span class="header-section-number">H.7</span> Remember</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jravilab/lab_docs/edit/main/howto_work_remotely.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jravilab/lab_docs/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jravilab/lab_docs/edit/main/llm_use_guidelines.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jravilab/lab_docs/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./meetings.html">Appendices</a></li><li class="breadcrumb-item"><a href="./howto_work_remotely.html"><span class="chapter-number">D</span>&nbsp; <span class="chapter-title">Remote Work</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./meetings.html">Appendices</a></li><li class="breadcrumb-item"><a href="./llm_use_guidelines.html"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">LLM use guidelines for research trainees</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Appendix D — Remote Work</h1>
+<h1 class="title">Appendix H — LLM use guidelines for research trainees</h1>
 </div>
 
 
@@ -422,49 +448,222 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>updated during/due to the COVID-19 pandemic.</em></p>
-<section id="few-generic-tips" class="level1" data-number="E">
-<h1 data-number="E"><span class="header-section-number">E</span> Few generic tips</h1>
-<ol type="1">
-<li>Focus on health – physical and mental</li>
-<li>Setting goals &amp; planning a ‘tight’ schedule</li>
-<li>Figure out what’s accomplished and what not on a weekly basis &amp; start the process over</li>
-<li>Find accountability partners</li>
-<li>Maintain good contact with me and the group</li>
-<li>Relax and meditate! [my audible/kindle account details are shared via Slack]</li>
-</ol>
+<p><em>Enhancing learning without compromising training potential.</em></p>
+<p><em>A brief, meta compilation of LLM guidelines using an LLM!</em></p>
+<blockquote class="blockquote">
+<p><strong>Note:</strong> At CU as of December 2025, only MS Copilot (and potentially GitHub Copilot) is approved for use. Do not use other public LLM systems with university research data. Inspiration: KrishnanLab LLM guidelines.</p>
+</blockquote>
+<hr>
+<section id="core-principle" class="level2" data-number="H.1">
+<h2 data-number="H.1" class="anchored" data-anchor-id="core-principle"><span class="header-section-number">H.1</span> Core principle</h2>
+<p>Your primary goal in training is developing independent scientific thinking, not maximizing efficiency. LLMs are tools that should <strong>amplify your capabilities</strong>, not replace the intellectual work that builds expertise.</p>
+<hr>
 </section>
-<section id="workfromhome-tips" class="level1" data-number="F">
-<h1 data-number="F"><span class="header-section-number">F</span> #WorkFromHome tips</h1>
-<p>~ Most tips may also be applicable to your coursework.</p>
-<section id="daily-scrum" class="level2" data-number="F.1">
-<h2 data-number="F.1" class="anchored" data-anchor-id="daily-scrum"><span class="header-section-number">F.1</span> 1. Daily Scrum</h2>
-<p>At the beginning of each day you’re working, think or write down the following:</p>
-<ol type="1">
-<li>What did you do yesterday? [“Yesterday, I …”]</li>
-<li>What will you do today? [“Today, I’m going to …”]</li>
-<li>Are there any impediments in your way?</li>
-</ol>
-</section>
-<section id="casual-co-work" class="level2" data-number="F.2">
-<h2 data-number="F.2" class="anchored" data-anchor-id="casual-co-work"><span class="header-section-number">F.2</span> 2. Casual Co-work</h2>
-<p>Members are encouraged to setup co-work times to co-write, for code review, or just to work! (based off our most recent When2meet poll)</p>
-</section>
-<section id="finding-time-to-chat-with-me" class="level2" data-number="F.3">
-<h2 data-number="F.3" class="anchored" data-anchor-id="finding-time-to-chat-with-me"><span class="header-section-number">F.3</span> 3. Finding time to chat with me</h2>
-<p>Finally, as a substitute for scheduling in-person meetings via Slack, I’ve made my full calendar available <a href="http://bit.ly/janani-cucal">here</a>, where you can easily fix a time to chat.</p>
+<section id="strategic-uses-enhance-learning" class="level2" data-number="H.2">
+<h2 data-number="H.2" class="anchored" data-anchor-id="strategic-uses-enhance-learning"><span class="header-section-number">H.2</span> ✓ Strategic uses (enhance learning)</h2>
+<section id="documentation-organization" class="level3" data-number="H.2.1">
+<h3 data-number="H.2.1" class="anchored" data-anchor-id="documentation-organization"><span class="header-section-number">H.2.1</span> Documentation &amp; organization</h3>
 <ul>
-<li>No need to ping me ahead.</li>
-<li>No need to have a specific purpose/agenda, although this might help me prepare if it’s for a scientific/technical check-in. We can talk about anything – research, courses, work-life, home-life – or just say “Hi!” 🙂</li>
-<li>Pick a corresponding slot – 15min, 30min, or 1h.</li>
+<li>Clean up (not draft) READMEs, code comments, inline documentation</li>
+<li>Organize project directories and file structures</li>
+<li>Create documentation templates for GitHub repos, datasets</li>
+<li>Generate boilerplate code structure (after understanding fundamentals)</li>
 </ul>
 </section>
-<section id="acknowledgments" class="level2" data-number="F.4">
-<h2 data-number="F.4" class="anchored" data-anchor-id="acknowledgments"><span class="header-section-number">F.4</span> Acknowledgments</h2>
-<p>Our JRaviLab group discussions + ideas from Baucom and Krishnan Labs.</p>
-
-
+<section id="learning-skill-development" class="level3" data-number="H.2.2">
+<h3 data-number="H.2.2" class="anchored" data-anchor-id="learning-skill-development"><span class="header-section-number">H.2.2</span> Learning &amp; skill development</h3>
+<ul>
+<li><strong>After independent attempts:</strong> Get explanations of complex concepts</li>
+<li>Generate analogies to understand difficult topics</li>
+<li>Brainstorm approaches to problems (but verify with literature/experts)</li>
+<li>Use tools like Perplexity to generate reading lists (always check for predatory journals, hallucinated citations)</li>
+<li>Ask “what topics do I need to know to understand this paper/method?”</li>
+</ul>
 </section>
+<section id="critique-gap-analysis" class="level3" data-number="H.2.3">
+<h3 data-number="H.2.3" class="anchored" data-anchor-id="critique-gap-analysis"><span class="header-section-number">H.2.3</span> Critique &amp; gap analysis</h3>
+<ul>
+<li>Get feedback on drafts you’ve already written (after ≥2 revision rounds w/ colleagues)</li>
+<li>Identify logical gaps, clarity issues, or missing considerations</li>
+<li>Check for completeness in project proposals or documentation</li>
+<li>Request alternative perspectives on your interpretations</li>
+</ul>
+</section>
+<section id="code-assistance-after-mastery" class="level3" data-number="H.2.4">
+<h3 data-number="H.2.4" class="anchored" data-anchor-id="code-assistance-after-mastery"><span class="header-section-number">H.2.4</span> Code assistance (after mastery)</h3>
+<ul>
+<li>Debug assistance when you’ve already diagnosed the problem area</li>
+<li>Syntax help for languages you already understand</li>
+<li>Code refactoring suggestions (when you understand the tradeoffs)</li>
+<li>Standard visualization templates (after learning plotting fundamentals)</li>
+</ul>
+</section>
+<section id="communication-practice" class="level3" data-number="H.2.5">
+<h3 data-number="H.2.5" class="anchored" data-anchor-id="communication-practice"><span class="header-section-number">H.2.5</span> Communication practice</h3>
+<ul>
+<li><strong>Voice mode for talk practice:</strong> Deliver presentations, get feedback on flow, narrative, pacing, clarity</li>
+<li>Practice for comprehensive exams or conference talks</li>
+<li>Get suggestions for improving scientific communication style</li>
+<li>Polish grammar and style (like an advanced Grammarly)</li>
+</ul>
+</section>
+<section id="literature-search" class="level3" data-number="H.2.6">
+<h3 data-number="H.2.6" class="anchored" data-anchor-id="literature-search"><span class="header-section-number">H.2.6</span> Literature search</h3>
+<ul>
+<li>Generate lists of related papers to explore (verify all exist)</li>
+<li>Find connections between research areas</li>
+<li>Identify key terminology and concepts in new fields</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="avoid-compromises-training" class="level2" data-number="H.3">
+<h2 data-number="H.3" class="anchored" data-anchor-id="avoid-compromises-training"><span class="header-section-number">H.3</span> ✗ Avoid (compromises training)</h2>
+<section id="writing-thinking" class="level3" data-number="H.3.1">
+<h3 data-number="H.3.1" class="anchored" data-anchor-id="writing-thinking"><span class="header-section-number">H.3.1</span> Writing &amp; thinking</h3>
+<ul>
+<li>❌ Having LLMs write any first draft (manuscripts, proposals, abstracts, reports)</li>
+<li>❌ Generating content from bullet points without writing yourself</li>
+<li>❌ Summarizing your own results or data interpretations</li>
+<li>❌ Writing discussion/conclusion sections</li>
+<li>❌ Any writing task you’ve done &lt;10-20 times independently</li>
+</ul>
+</section>
+<section id="code-analysis" class="level3" data-number="H.3.2">
+<h3 data-number="H.3.2" class="anchored" data-anchor-id="code-analysis"><span class="header-section-number">H.3.2</span> Code &amp; analysis</h3>
+<ul>
+<li>❌ Generating analysis code for methods you don’t understand</li>
+<li>❌ Writing entire scripts/pipelines without knowing each component</li>
+<li>❌ Using AI for statistical approaches you can’t verify</li>
+<li>❌ Debugging without first attempting to understand the error yourself</li>
+<li>❌ Any coding task you’ve done &lt;5-10 times independently</li>
+</ul>
+</section>
+<section id="data-results" class="level3" data-number="H.3.3">
+<h3 data-number="H.3.3" class="anchored" data-anchor-id="data-results"><span class="header-section-number">H.3.3</span> Data &amp; results</h3>
+<ul>
+<li>❌ Uploading raw research data to public LLM systems</li>
+<li>❌ Having AI analyze, visualize, or interpret your experimental/computational data</li>
+<li>❌ Using AI for any task involving sensitive, unpublished, or controlled-access data</li>
+</ul>
+</section>
+<section id="core-scientific-skills" class="level3" data-number="H.3.4">
+<h3 data-number="H.3.4" class="anchored" data-anchor-id="core-scientific-skills"><span class="header-section-number">H.3.4</span> Core scientific skills</h3>
+<ul>
+<li>❌ Bypassing reading original papers (especially in first 1-3 years)</li>
+<li>❌ Using AI instead of asking labmates/mentors for help</li>
+<li>❌ Generating hypotheses or research questions</li>
+<li>❌ Tasks where discussion with colleagues provides more learning value</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="critical-requirements" class="level2" data-number="H.4">
+<h2 data-number="H.4" class="anchored" data-anchor-id="critical-requirements"><span class="header-section-number">H.4</span> Critical requirements</h2>
+<section id="accountability-verification" class="level3" data-number="H.4.1">
+<h3 data-number="H.4.1" class="anchored" data-anchor-id="accountability-verification"><span class="header-section-number">H.4.1</span> 1. Accountability &amp; verification</h3>
+<ul>
+<li>You are fully responsible for ALL AI-generated content</li>
+<li><strong>Verification requires expertise</strong> - if you can’t verify output correctness, don’t use AI for that task</li>
+<li>For code: Understand every line, test thoroughly</li>
+<li>For writing: Fact-check every claim, verify every citation exists</li>
+<li>For analysis: Verify statistical approaches, check assumptions</li>
+</ul>
+</section>
+<section id="documentation" class="level3" data-number="H.4.2">
+<h3 data-number="H.4.2" class="anchored" data-anchor-id="documentation"><span class="header-section-number">H.4.2</span> 2. Documentation</h3>
+<p>When you use AI, document:</p>
+<ul>
+<li>Tool name and version</li>
+<li>Date of use</li>
+<li>Prompts used</li>
+<li>Output generated</li>
+<li>How you verified/modified it</li>
+<li>Errors found and corrected</li>
+</ul>
+</section>
+<section id="communication" class="level3" data-number="H.4.3">
+<h3 data-number="H.4.3" class="anchored" data-anchor-id="communication"><span class="header-section-number">H.4.3</span> 3. Communication</h3>
+<ul>
+<li>Inform your PI within 1 week of AI use for research tasks</li>
+<li>Be transparent with collaborators before/during work</li>
+<li>Never present AI outputs as your own understanding</li>
+</ul>
+</section>
+<section id="protect-sensitive-information" class="level3" data-number="H.4.4">
+<h3 data-number="H.4.4" class="anchored" data-anchor-id="protect-sensitive-information"><span class="header-section-number">H.4.4</span> 4. Protect sensitive information</h3>
+<p>☠️ Never input into public AI systems:</p>
+<ul>
+<li>Unpublished results or data</li>
+<li>Proprietary datasets or code</li>
+<li>Novel research ideas or hypotheses</li>
+<li>Patient data or controlled-access information</li>
+<li>Grant proposals or manuscript drafts in development</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="career-stage-guidance" class="level2" data-number="H.5">
+<h2 data-number="H.5" class="anchored" data-anchor-id="career-stage-guidance"><span class="header-section-number">H.5</span> Career stage guidance</h2>
+<section id="early-stage-years-1-3-undergrads" class="level3" data-number="H.5.1">
+<h3 data-number="H.5.1" class="anchored" data-anchor-id="early-stage-years-1-3-undergrads"><span class="header-section-number">H.5.1</span> Early stage (years 1-3, undergrads)</h3>
+<ul>
+<li>Focus on building foundational skills <strong>without</strong> AI for core competencies</li>
+<li>Use AI primarily for learning/documentation, not execution</li>
+<li>Default to asking your colleagues (or PI) first</li>
+</ul>
+</section>
+<section id="mid-career-advanced-grad-students-postdocs" class="level3" data-number="H.5.2">
+<h3 data-number="H.5.2" class="anchored" data-anchor-id="mid-career-advanced-grad-students-postdocs"><span class="header-section-number">H.5.2</span> Mid-career (advanced grad students, postdocs)</h3>
+<ul>
+<li>Use AI augmentatively for tasks you’ve mastered</li>
+<li>Still avoid AI for novel methods or approaches you’re learning</li>
+<li>Emphasize critique/feedback uses over generation</li>
+</ul>
+</section>
+<section id="wet-lab-specific" class="level3" data-number="H.5.3">
+<h3 data-number="H.5.3" class="anchored" data-anchor-id="wet-lab-specific"><span class="header-section-number">H.5.3</span> Wet-lab specific</h3>
+<ul>
+<li>Use AI for experimental design documentation</li>
+<li>Literature mining for method optimization</li>
+<li>Protocol organization and note-taking</li>
+<li>Never for data analysis/interpretation without computational expertise</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="the-decision-framework" class="level2" data-number="H.6">
+<h2 data-number="H.6" class="anchored" data-anchor-id="the-decision-framework"><span class="header-section-number">H.6</span> The decision framework</h2>
+<section id="before-using-aillm-ask-yourself" class="level3" data-number="H.6.1">
+<h3 data-number="H.6.1" class="anchored" data-anchor-id="before-using-aillm-ask-yourself"><span class="header-section-number">H.6.1</span> Before using AI/LLM, ask yourself</h3>
+<ol type="1">
+<li><strong>Is this a skill I need to develop?</strong> If yes → do it yourself</li>
+<li><strong>Have I mastered this through 10+ independent attempts?</strong> If no → do it yourself<br>
+</li>
+<li><strong>Will using AI prevent intellectual struggle that builds understanding?</strong> If yes → do it yourself</li>
+<li><strong>Could discussing with a colleague provide more learning value?</strong> If yes → talk to colleagues</li>
+<li><strong>Am I using AI because the task is hard</strong> (bad reason) <strong>or because I’ve mastered it</strong> (acceptable)?</li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="remember" class="level2" data-number="H.7">
+<h2 data-number="H.7" class="anchored" data-anchor-id="remember"><span class="header-section-number">H.7</span> Remember</h2>
+<ul>
+<li><strong>Speed ≠ learning.</strong> Efficiency now can mean skill gaps later</li>
+<li><strong>AI outputs look polished but may be wrong.</strong> Confidence ≠ correctness</li>
+<li><strong>What distinguishes you:</strong> Deep thinking, original perspectives, robust foundational skills</li>
+<li><strong>AI often introduces subtle errors that a human would not: these can lead to profound consequences</strong></li>
+<li><strong>Hallucinations are real:</strong> Always verify citations, facts, and technical claims</li>
+<li><strong>When in doubt, ask your PI first</strong></li>
+<li>Check LLM’s Settings → Privacy/Data controls` and turn off chat history, memory, personalization, and training‑related data usage for maximum privacy and no data retention.</li>
+<li></li>
+</ul>
+<blockquote class="blockquote">
+<p>The goal isn’t to avoid AI entirely — it’s to use it strategically so you emerge from training as an independent scientist with distinctive capabilities, not someone dependent on tools they can’t verify or correct. You will have ample opportunities as a PI or a scientist in an industry, to learn and use LLMs quickly and efficiently — there’s no need to rush into it now at the cost of your successful training.</p>
+</blockquote>
+
+
 </section>
 
 </main> <!-- /main -->
@@ -883,14 +1082,11 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./howto_write_sourcecode.html" class="pagination-link" aria-label="Code/Data Best Practices">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">C</span>&nbsp; <span class="chapter-title">Code/Data Best Practices</span></span>
+      <a href="./career-dev.html" class="pagination-link" aria-label="Career/Professional Development">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">G</span>&nbsp; <span class="chapter-title">Career/Professional Development</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./howto_make_poster.html" class="pagination-link" aria-label="Make a poster">
-        <span class="nav-page-text"><span class="chapter-number">E</span>&nbsp; <span class="chapter-title">Make a poster</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
@@ -898,4 +1094,4 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jravilab/lab_docs/edit/main/howto_work_remotely.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jravilab/lab_docs/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jravilab/lab_docs/edit/main/llm_use_guidelines.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jravilab/lab_docs/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
