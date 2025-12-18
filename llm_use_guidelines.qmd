@@ -168,6 +168,7 @@ When you use AI, document:
 -   **Speed ≠ learning.** Efficiency now can mean skill gaps later
 -   **AI outputs look polished but may be wrong.** Confidence ≠ correctness
 -   **What distinguishes you:** Deep thinking, original perspectives, robust foundational skills
+-   **AI often introduces subtle errors that a human would not: these can lead to profound consequences** 
 -   **Hallucinations are real:** Always verify citations, facts, and technical claims
 -   **When in doubt, ask your PI first**
 
