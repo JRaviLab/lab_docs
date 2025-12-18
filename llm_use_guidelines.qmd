@@ -122,7 +122,7 @@ When you use AI, document:
 
 ### 4. Protect sensitive information
 
-Never input into public AI systems:
+☠️ Never input into public AI systems:
 
 - Unpublished results or data
 - Proprietary datasets or code
