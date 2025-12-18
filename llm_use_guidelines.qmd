@@ -171,6 +171,6 @@ When you use AI, document:
 -   **AI often introduces subtle errors that a human would not: these can lead to profound consequences** 
 -   **Hallucinations are real:** Always verify citations, facts, and technical claims
 -   **When in doubt, ask your PI first**
--   Check LLM's Settings → Privacy/Data controls` and turn off chat history, memory, personalization, and training‑related data usage for maximum privacy and no data retention.
+-   Check LLM's *Settings → Privacy/Data controls* and turn off chat history, memory, personalization, and training‑related data usage for maximum privacy and no data retention.
 
 >The goal isn't to avoid AI entirely --- it's to use it strategically so you emerge from training as an independent scientist with distinctive capabilities, not someone dependent on tools they can't verify or correct. You will have ample opportunities as a PI or a scientist in an industry, to learn and use LLMs quickly and efficiently --- there's no need to rush into it now at the cost of your successful training.
