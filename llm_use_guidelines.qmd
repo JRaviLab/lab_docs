@@ -4,7 +4,7 @@
 
 *A brief, meta compilation of LLM guidelines using an LLM!*
 
->**Note:** At CU, only MS Copilot (and potentially GitHub Copilot) is approved for use. Do not use other public LLM systems with university research data. Inspiration: KrishnanLab LLM guidelines.
+>**Note:** At CU as of December 2025, only MS Copilot (and potentially GitHub Copilot) is approved for use. Do not use other public LLM systems with university research data. Inspiration: KrishnanLab LLM guidelines.
 
 ---
 
