@@ -1,0 +1,177 @@
+# LLM use guidelines for research trainees
+
+*Enhancing learning without compromising training potential.*
+
+*A brief, meta compilation of LLM guidelines using an LLM!*
+
+>**Note:** At CU as of December 2025, only MS Copilot (and potentially GitHub Copilot) is approved for use. Do not use other public LLM systems with university research data. Inspiration: KrishnanLab LLM guidelines.
+
+---
+
+## Core principle
+
+Your primary goal in training is developing independent scientific thinking, not maximizing efficiency. LLMs are tools that should **amplify your capabilities**, not replace the intellectual work that builds expertise.
+
+------------------------------------------------------------------------
+
+## ✓ Strategic uses (enhance learning)
+
+### Documentation & organization
+
+-   Clean up (not draft) READMEs, code comments, inline documentation
+-   Organize project directories and file structures
+-   Create documentation templates for GitHub repos, datasets
+-   Generate boilerplate code structure (after understanding fundamentals)
+
+### Learning & skill development
+
+-   **After independent attempts:** Get explanations of complex concepts
+-   Generate analogies to understand difficult topics
+-   Brainstorm approaches to problems (but verify with literature/experts)
+-   Use tools like Perplexity to generate reading lists (always check for predatory journals, hallucinated citations)
+-   Ask "what topics do I need to know to understand this paper/method?"
+
+### Critique & gap analysis
+
+-   Get feedback on drafts you've already written (after ≥2 revision rounds w/ colleagues)
+-   Identify logical gaps, clarity issues, or missing considerations
+-   Check for completeness in project proposals or documentation
+-   Request alternative perspectives on your interpretations
+
+### Code assistance (after mastery)
+
+-   Debug assistance when you've already diagnosed the problem area
+-   Syntax help for languages you already understand
+-   Code refactoring suggestions (when you understand the tradeoffs)
+-   Standard visualization templates (after learning plotting fundamentals)
+
+### Communication practice
+
+-   **Voice mode for talk practice:** Deliver presentations, get feedback on flow, narrative, pacing, clarity
+-   Practice for comprehensive exams or conference talks
+-   Get suggestions for improving scientific communication style
+-   Polish grammar and style (like an advanced Grammarly)
+
+### Literature search
+
+-   Generate lists of related papers to explore (verify all exist)
+-   Find connections between research areas
+-   Identify key terminology and concepts in new fields
+
+------------------------------------------------------------------------
+
+## ✗ Avoid (compromises training)
+
+### Writing & thinking
+
+-   ❌ Having LLMs write any first draft (manuscripts, proposals, abstracts, reports)
+-   ❌ Generating content from bullet points without writing yourself
+-   ❌ Summarizing your own results or data interpretations
+-   ❌ Writing discussion/conclusion sections
+-   ❌ Any writing task you've done \<10-20 times independently
+
+### Code & analysis
+
+-   ❌ Generating analysis code for methods you don't understand
+-   ❌ Writing entire scripts/pipelines without knowing each component
+-   ❌ Using AI for statistical approaches you can't verify
+-   ❌ Debugging without first attempting to understand the error yourself
+-   ❌ Any coding task you've done \<5-10 times independently
+
+### Data & results
+
+-   ❌ Uploading raw research data to public LLM systems
+-   ❌ Having AI analyze, visualize, or interpret your experimental/computational data
+-   ❌ Using AI for any task involving sensitive, unpublished, or controlled-access data
+
+### Core scientific skills
+
+-   ❌ Bypassing reading original papers (especially in first 1-3 years)
+-   ❌ Using AI instead of asking labmates/mentors for help
+-   ❌ Generating hypotheses or research questions
+-   ❌ Tasks where discussion with colleagues provides more learning value
+
+------------------------------------------------------------------------
+
+## Critical requirements
+
+### 1. Accountability & verification
+
+-   You are fully responsible for ALL AI-generated content
+-   **Verification requires expertise** - if you can't verify output correctness, don't use AI for that task
+-   For code: Understand every line, test thoroughly
+-   For writing: Fact-check every claim, verify every citation exists
+-   For analysis: Verify statistical approaches, check assumptions
+
+### 2. Documentation
+
+When you use AI, document:
+
+- Tool name and version
+- Date of use
+- Prompts used
+- Output generated
+- How you verified/modified it
+- Errors found and corrected
+
+### 3. Communication
+
+-   Inform your PI within 1 week of AI use for research tasks
+-   Be transparent with collaborators before/during work
+-   Never present AI outputs as your own understanding
+
+### 4. Protect sensitive information
+
+☠️ Never input into public AI systems:
+
+- Unpublished results or data
+- Proprietary datasets or code
+- Novel research ideas or hypotheses
+- Patient data or controlled-access information
+- Grant proposals or manuscript drafts in development
+
+------------------------------------------------------------------------
+
+## Career stage guidance
+
+### Early stage (years 1-3, undergrads)
+- Focus on building foundational skills **without** AI for core competencies 
+- Use AI primarily for learning/documentation, not execution
+- Default to asking your colleagues (or PI) first
+
+### Mid-career (advanced grad students, postdocs)
+- Use AI augmentatively for tasks you've mastered
+- Still avoid AI for novel methods or approaches you're learning
+- Emphasize critique/feedback uses over generation
+
+### Wet-lab specific
+- Use AI for experimental design documentation
+- Literature mining for method optimization
+- Protocol organization and note-taking
+- Never for data analysis/interpretation without computational expertise
+
+------------------------------------------------------------------------
+
+## The decision framework
+
+### Before using AI/LLM, ask yourself
+1. **Is this a skill I need to develop?** If yes → do it yourself
+2. **Have I mastered this through 10+ independent attempts?** If no → do it yourself\
+3. **Will using AI prevent intellectual struggle that builds understanding?** If yes → do it yourself
+4. **Could discussing with a colleague provide more learning value?** If yes → talk to colleagues
+5. **Am I using AI because the task is hard** (bad reason) **or because I've mastered it** (acceptable)?
+
+------------------------------------------------------------------------
+
+## Remember
+
+-   **Speed ≠ learning.** Efficiency now can mean skill gaps later
+-   **AI outputs look polished but may be wrong.** Confidence ≠ correctness
+-   **What distinguishes you:** Deep thinking, original perspectives, robust foundational skills
+-   **AI often introduces subtle errors that a human would not: these can lead to profound consequences** 
+-   **Hallucinations are real:** Always verify citations, facts, and technical claims
+-   **When in doubt, ask your PI first**
+- Check LLM's Settings → Privacy/Data controls` and turn off chat history, memory, personalization, and training‑related data usage for maximum privacy and no data retention.
+- 
+
+>The goal isn't to avoid AI entirely --- it's to use it strategically so you emerge from training as an independent scientist with distinctive capabilities, not someone dependent on tools they can't verify or correct. You will have ample opportunities as a PI or a scientist in an industry, to learn and use LLMs quickly and efficiently --- there's no need to rush into it now at the cost of your successful training.
