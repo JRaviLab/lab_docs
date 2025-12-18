@@ -10,7 +10,7 @@
 
 ## Core principle
 
-Your primary goal in training is developing independent scientific thinking, not maximizing efficiency. LLMs are tools that should **amplify your capabilities**, not replace the intellectual work that builds expertise.
+Your primary goal in training is to develop independent scientific thinking, not to maximize efficiency. LLMs are tools that should **amplify your capabilities**, not replace the intellectual work that builds expertise.
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Your primary goal in training is developing independent scientific thinking, not
 
 ### Documentation & organization
 
--   Clean up (not draft) READMEs, code comments, inline documentation
+-   Clean up (not draft) READMEs, code comments, and inline documentation
 -   Organize project directories and file structures
 -   Create documentation templates for GitHub repos, datasets
 -   Generate boilerplate code structure (after understanding fundamentals)
@@ -33,7 +33,7 @@ Your primary goal in training is developing independent scientific thinking, not
 
 ### Critique & gap analysis
 
--   Get feedback on drafts you've already written (after ≥2 revision rounds w/ colleagues)
+-   Get feedback on drafts you've already written (after ≥2 revision rounds with colleagues)
 -   Identify logical gaps, clarity issues, or missing considerations
 -   Check for completeness in project proposals or documentation
 -   Request alternative perspectives on your interpretations
@@ -86,7 +86,7 @@ Your primary goal in training is developing independent scientific thinking, not
 
 ### Core scientific skills
 
--   ❌ Bypassing reading original papers (especially in first 1-3 years)
+-   ❌ Bypassing reading original papers (especially in the first 1-3 years)
 -   ❌ Using AI instead of asking labmates/mentors for help
 -   ❌ Generating hypotheses or research questions
 -   ❌ Tasks where discussion with colleagues provides more learning value
@@ -111,7 +111,7 @@ When you use AI, document:
 - Date of use
 - Prompts used
 - Output generated
-- How you verified/modified it
+- How you verified/modified the LLM output
 - Errors found and corrected
 
 ### 3. Communication
@@ -171,7 +171,6 @@ When you use AI, document:
 -   **AI often introduces subtle errors that a human would not: these can lead to profound consequences** 
 -   **Hallucinations are real:** Always verify citations, facts, and technical claims
 -   **When in doubt, ask your PI first**
-- Check LLM's Settings → Privacy/Data controls` and turn off chat history, memory, personalization, and training‑related data usage for maximum privacy and no data retention.
-- 
+-   Check LLM's Settings → Privacy/Data controls` and turn off chat history, memory, personalization, and training‑related data usage for maximum privacy and no data retention.
 
 >The goal isn't to avoid AI entirely --- it's to use it strategically so you emerge from training as an independent scientist with distinctive capabilities, not someone dependent on tools they can't verify or correct. You will have ample opportunities as a PI or a scientist in an industry, to learn and use LLMs quickly and efficiently --- there's no need to rush into it now at the cost of your successful training.
