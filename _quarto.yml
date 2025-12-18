@@ -30,6 +30,7 @@ book:
     - howto_make_poster.qmd
     - howto_write_paper.qmd
     - career-dev.qmd
+    - llm_use_guidelines.qmd
 
 bibliography: references.bib
 
