@@ -1,0 +1,235 @@
+# How to attend a scientific conference
+
+**Authors:** Janani Ravi & members of JRaviLab\
+**Last updated:** April 2026
+
+------------------------------------------------------------------------
+
+Attending a conference is an investment — of time, money, and energy — by you, the lab, and often a funding agency. That investment deserves to be taken seriously. Done well, a conference can reshape how you think about your science, open unexpected doors, and leave you genuinely inspired. Done poorly, it's a few days of jet lag and a tote bag. This guide is to help you make it count. So go in with an open mind and engage fully! DO NOT be indifferent -- meetings (or labs, for that matter) aren't the right place for this attitude.
+
+Whether you are heading to a small focused meeting like CSHL Biological Data Science or GRC, or a large community meeting like ISMB or RECOMB, the principles are the same — the scale just changes.
+
+------------------------------------------------------------------------
+
+## Before you go
+
+### Know why you're going
+
+Be explicit with yourself (and tell your PI) about your goals for this conference:
+
+-   Are you presenting (talk or poster)?
+-   Are you recruiting collaborators, seeking feedback on a project, or exploring a new sub-field?
+-   Are you job-market adjacent and want to make yourself known?
+-   Are you early enough that the main goal is to absorb, get inspired, and understand the landscape?
+-   What's your career stage (junior: undergrad/early grad student; mid: advanced grad student/early postdoc; senior: ≥2Y postdoc or beyond)?
+-   Are you going to engage -- talk to people about their talks or yours? Meetings are to meet people. So if you are attending, please be prepared to do that!
+
+All of these are valid. Knowing which applies to you helps you plan your time well.
+
+### Do your homework
+
+-   Read the full program as soon as it's posted. Identify the talks and posters most relevant to your work, and a few that are adjacent or new to you.
+-   Look up speakers you want to interact with: what have they published recently? What is their broader trajectory? What questions does their work raise for you?
+-   If there's a keynote or invited speaker you've long admired (or never heard of), spend 30 minutes reading about them before you arrive.
+-   Identify 3–5 people you genuinely want to talk to. For each, come prepared with: (1) a clear description of who you are and what you work on; (2) one scientific question connected to their work or yours; and (3) one career or professional question you can actually learn from them.
+
+This prep isn't just politeness --- it's what allows the conversation to be real rather than awkward.
+
+### Plan your schedule deliberately
+
+-   Block out talks/posters you want to attend on your calendar before you arrive.
+-   Note poster sessions --- they are often where the most interesting science is happening, and the conversations are easier.
+-   Leave buffer time. You will run into someone interesting in the hallway and want to keep talking. Let yourself; be organic.
+-   For large meetings (ISMB, ASM), parallel sessions are unavoidable. Make choices in advance rather than deciding in the moment.
+
+### You represent more than yourself
+
+Remember: at a conference, you are representing yourself, your lab, and your institution.
+
+How you show up --- how you engage, how you treat speakers and attendees, how you conduct yourself during talks — reflects on all three. Take that seriously. It is not a burden; it's an opportunity to build the kind of reputation you want to have.
+
+------------------------------------------------------------------------
+
+## During the conference
+
+### Show up fully, be present, and stay
+
+There is no point flying to a meeting and skipping half of it.
+
+Pace yourself so you can be present for the whole thing:
+
+-   Plan ahead to be fully present at the meeting.
+-   Sleep enough.
+-   Eat real food. Hydrate.
+-   Know your own bandwidth for socializing and build in recovery time — especially for introverts. But introverts still need to actively prepare to step out of their comfort zone and talk to at least a few people outside their lab/university at each session.
+-   That said: be there. Show up on time for talks. Attend the sessions you planned to attend & attempt a full schedule. Don't disappear after your own poster session.
+
+### Taking notes
+
+Bring a lightweight way to capture ideas —-- a shared lab doc (e.g., a Google Doc) works well and means your notes are immediately useful to others in the lab. *Keep your phone/laptop use minimal during talks — distraction-free note-taking beats half-attentive live commentary.*
+
+Jot:
+
+-   Key findings or methods that surprised you
+-   Papers you want to read
+-   Names of people to follow up with
+-   Questions you didn't get to ask
+-   Ideas for your own work (or labmate's) sparked from someone else's talk
+
+### Engaging with talks
+
+-   Ask questions --- especially if you're early-career. It's one of the best ways to become known in a field. A good question is specific, genuinely curious, and brief.
+-   If you're too nervous to ask during the Q&A, catch the speaker afterward. This is completely normal and often leads to better conversations than the public Q&A anyway.
+-   Be present and respectful during all talks, even ones outside your immediate area. You never know what will spark something.
+
+### Posters
+
+Poster sessions are often the most high-value time at a conference. Walk the full session.
+
+At posters:
+
+-   Give the presenter a chance to give their pitch before you pepper them with questions.
+-   Ask genuine questions. If you're confused, say so — that's useful feedback for them.
+-   When it's *your* poster: have different versions of your pitch ready. A 1-minute pitch for someone passing by who asks "what's this about?" is different from a 5-minute deep-dive for a collaborator or expert in your sub-field. Know your audience — computational biologist, microbiologist, generalist, senior scientist, grad student — and adapt accordingly.
+-   Don't cluster only around posters from your own lab or sub-field. Be curious.
+
+### Meeting people: the hospitality model
+
+Think about meeting someone at a conference the same way you'd think about welcoming a guest: with warmth, genuine attention, and preparation. Being aloof or giving one-word answers is not professionalism — it's the opposite of how you want to be remembered, or how you represent where you come from.
+
+If you're an introvert and are thinking "I can't do this spontaneously" — you don't have to. Prepare a few phrases and openers in advance. Once you're in a conversation, it usually flows. And if it's a computational meeting, most people are like you --- they will appreciate your preparation and thoughtfulness.
+
+**For hallway conversations, coffee chats, and meals:**
+
+-   Introduce yourself clearly: your name, who you work with, and what you're working on — in one or two sentences.
+-   Ask them something genuine about their work or career. People love talking about their science.
+-   Take turns. Don't monologue. Don't pepper them with questions either.
+-   Be open to unexpected conversations. Some of the most important connections start with "I liked your talk" in a coffee queue.
+
+**For meeting more senior scientists:**
+
+-   Prepare before you approach them. Know their recent work, their broader role, and what you genuinely want to learn from them.
+-   Come with: (1) a crisp self-introduction; (2) one scientific question; and (3) one career question.
+-   Be curious, not starstruck. Senior scientists were trainees once. Most are happy to talk to someone who has done their homework.
+-   Don't monopolize their time. A short, memorable conversation is better than a long awkward one.
+
+**After their talk or poster:** - Specific praise or a follow-up question lands much better than a generic "great talk!" - "I was thinking about how your approach might connect to X — does that seem plausible to you?" is a great opening.
+
+### Going in with an open mind
+
+The best conference experiences often come from the sessions *you almost skipped*. Go to at least one talk per day that is outside your immediate area. Let yourself be surprised. Some of the most important ideas in your research career may come from a field you weren't expecting.
+
+------------------------------------------------------------------------
+
+## After the conference
+
+Within 1–2 days of returning:
+
+-   **Follow up** with the people you connected with --- a short email ("enjoyed our chat about X, here's the paper I mentioned") goes a long way. Connect on LinkedIn if relevant.
+-   **Consolidate your notes** while they're fresh. Flag: papers to read, methods to explore, ideas to pursue.
+-   **Share highlights with the lab** --- a brief Slack message or lab meeting summary helps everyone, especially those who couldn't attend. They might even help you with questions if you tell them where you plan to be!
+-   **Reflect on your goals**: did you get what you came for? What would you do differently? What do you want to follow up on?
+
+------------------------------------------------------------------------
+
+## By career stage
+
+### Undergrads and early grad students
+
+Your primary goal is to **absorb and get inspired**. You don't need to have all the answers; you need to ask good questions and be genuinely curious.
+
+Focus on:
+
+-   Attending broadly — don't just go to talks in your exact sub-field
+-   Introducing yourself to at least 2–3 people you don't already know
+-   Coming home with a list of papers you want to read and questions you want to explore
+
+### Advanced grad students
+
+You likely have a research story to tell.
+
+Use the conference to **get feedback and build visibility**:
+
+-   If you have a poster or talk, prepare it well in advance and practice multiple versions of your pitch
+-   Identify potential collaborators or people whose methods could help your work
+-   Start building your independent reputation — your name should begin to be associated with a specific scientific question
+
+### Postdocs
+
+You are transitioning from trainee to peer.
+
+Act like it:
+
+-   Engage as a colleague, not a student — you have expertise worth sharing
+-   Think strategically about who you want to meet in the context of your next career move
+-   Seek out PIs who are hiring, future collaborators, and people outside your current network
+-   Represent the lab and your own independent scientific identity simultaneously
+
+------------------------------------------------------------------------
+
+## Presenter prep (talk or poster)
+
+*(A more detailed guide is in the works — see also: [How to make a poster](https://jravilab.github.io/lab_docs/howto_make_poster.html))*
+
+A few essentials:
+
+-   **Have multiple versions of your pitch**: 30 seconds (elevator), 2 minutes (casual intro), 5+ minutes (deep dive). Calibrate by who's in front of you.
+-   **Know your audience for each conversation**: computational vs. biological vs. mixed background; same sub-field vs. adjacent; career stage. Adjust accordingly.
+-   **Anticipate questions** — especially the hard ones. Being caught off guard by an obvious question is avoidable.
+-   **Be honest about limitations**. Reviewers and collaborators respect intellectual honesty far more than overselling.
+
+------------------------------------------------------------------------
+
+## A note on virtual and hybrid conferences
+
+Virtual and hybrid meetings (Zoom-based, Gather, etc.) require extra intentionality since the informal scaffolding — hallways, coffee lines, poster walks — is missing or limited.
+
+-   Do all the pre-meeting homework more carefully; the scheduled interactions are all you have.
+-   Use virtual poster and networking sessions; don't skip them because it feels awkward.
+-   Follow up even more promptly — a quick post-talk message on Slack or email while the session is fresh is easy and effective.
+-   Take breaks between sessions. Screen fatigue is real.
+
+------------------------------------------------------------------------
+
+## Conferences worth knowing (for our community)
+
+Some examples across scales and scopes:
+
+-   **Focused/small**: CSHL Biological Data Science, GRC (various), MLCB (Seattle), RECOMB satellite meetings
+-   **Regional**: Great Plains Bioinformatics Conference, Rocky Mountain ASM
+-   **Mid-size**: RECOMB
+-   **Large**: ISMB/ECCB, major society meetings
+
+Each type requires a slightly different strategy --- at smaller focused meetings, nearly everyone in the room will know your work eventually; at large meetings, you have to be far more deliberate about who you seek out.
+
+------------------------------------------------------------------------
+
+## Quick checklists
+
+### Before you go
+
+-   [ ] Goals defined (presenting? networking? learning? job market?)
+-   [ ] Program reviewed; key talks/posters marked
+-   [ ] 3–5 people identified to connect with; done homework on each
+-   [ ] Self-introduction (1–2 sentences) practiced
+-   [ ] Shared lab note-taking doc created
+-   [ ] Poster/talk practiced with multiple pitch lengths (if presenting)
+
+### During the conference
+
+-   [ ] Attending sessions you planned to attend (not skipping)
+-   [ ] Notes being captured in shared doc
+-   [ ] Talking to at least 1–2 new people each day
+-   [ ] Following up on interesting talks/posters in the moment
+-   [ ] Pacing yourself to stay present for the full meeting
+
+### After the conference
+
+-   [ ] Follow-up emails sent within 1–2 days
+-   [ ] Notes consolidated; papers/methods flagged
+-   [ ] Lab update shared (Slack/meeting)
+-   [ ] Reflection: what worked, what to do differently next time
+
+------------------------------------------------------------------------
+
+*Questions or suggestions? Submit a pull request to the [lab_docs GitHub repository](https://github.com/JRaviLab/lab_docs) or [email me](mailto:janani.ravi@cuanschutz.edu).*

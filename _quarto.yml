@@ -26,10 +26,11 @@ book:
     - meetings.qmd
     - howto_code_review.qmd
     - howto_write_sourcecode.qmd
-    - howto_work_remotely.qmd
-    - howto_make_poster.qmd
     - howto_write_paper.qmd
+    - howto_make_poster.qmd
+    - howto_attend_conference.qmd
     - career-dev.qmd
+    - howto_work_remotely.qmd
     - llm_use_guidelines.qmd
 
 bibliography: references.bib
