@@ -350,58 +350,36 @@
     ]
   },
   {
-    "objectID": "howto_work_remotely.html",
-    "href": "howto_work_remotely.html",
-    "title": "Appendix D — Remote Work",
+    "objectID": "howto_write_paper.html",
+    "href": "howto_write_paper.html",
+    "title": "Appendix D — Writing papers",
     "section": "",
-    "text": "E Few generic tips\nupdated during/due to the COVID-19 pandemic.",
+    "text": "D.1 How to write a scientific paper once we decide that you have one or more interesting results\nStart by discussing with me what the paper is about!",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Remote Work</span>"
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Writing papers</span>"
     ]
   },
   {
-    "objectID": "howto_work_remotely.html#daily-scrum",
-    "href": "howto_work_remotely.html#daily-scrum",
-    "title": "Appendix D — Remote Work",
-    "section": "F.1 1. Daily Scrum",
-    "text": "F.1 1. Daily Scrum\nAt the beginning of each day you’re working, think or write down the following:\n\nWhat did you do yesterday? [“Yesterday, I …”]\nWhat will you do today? [“Today, I’m going to …”]\nAre there any impediments in your way?",
+    "objectID": "howto_write_paper.html#how-to-write-a-scientific-paper-once-we-decide-that-you-have-one-or-more-interesting-results",
+    "href": "howto_write_paper.html#how-to-write-a-scientific-paper-once-we-decide-that-you-have-one-or-more-interesting-results",
+    "title": "Appendix D — Writing papers",
+    "section": "",
+    "text": "D.1.1 Figures and Tables\n\nCreate a draft of your ideal set of Figures & Tables (in addition to supplements) that can tell an interesting, coherent story.\n\nWrite detailed figure/table legends to help understand what piece of the story each figure/table will convey.\nGet feedback on the entire story draft from colleagues / collaborators / committee.\nBased on these interactions, keep revisiting & revising this draft.\n\n\n\n\nD.1.2 Introduction & Discussion\n\nRead widely and deeply. Read often.\n\nRemember that this exercise is going to entirely feed your Introduction and Discussion sections.\nRecord all the papers in a Zotero library, starting with Slack shares and periodic PubMed searches.\nCreate a single Google Doc and make notes about each paper along with its title & link. The purpose of the notes is to make the points you will write in your manuscript to cite each paper.\nBased on these readings and discussions during project meetings, pick a target journal.\n\n\n\n\nD.1.3 Supplementary data\n\nMake all main and supplemental Figures and Tables along with declarative titles & detailed legends.\n\nRun many controls and sanity checks.\nRapidly iterate with me & colleagues and do additional analyses needed to fill gaps & round-out the story.\nPrepare for & do code review.\n\n\n\n\nD.1.4 Methods & Code+Data\n\nWrite a very detailed Methods section and prepare Code & Data to be released.\n\nDecide (w/ me) what Code & Data need to be released with this manuscript.\nAs you write each sub-section of Methods, organize and document the pertinent code, data, and results.\n\n\n\n\nD.1.5 Results\n\nWrite the Results section and rapidly iterate with me & colleagues to make changes/improvements.\n\n\n\nD.1.6 Tying them together\n\nStart with the story line.\nMake the Figures/Tables (you will keep iterating over these until submission).\nWrite the Methods since that’s the easiest one to tackle.\nThen, write the Results describing your Figs/Tables.\nFinally, write the Introduction and Discussion sections, and add References (e.g., Zotero + Google Docs integration).\n\nThe Introduction section should lead up to the main questions and results of the manuscript.\nThe Discussion should put the new results in the context of existing work, describe novelty & potential impact, and conclude with opportunities for future work.\nPerform any additional analyses/comparisons needed to make these sections airtight.\n\n\n\n\nD.1.7 Title & Abstract\n\nWrite Title and Abstract, and get feedback from me/colleagues/collaborators on this full document.\n\n\n\nD.1.8 Last Steps\n\nWhile others are critically reviewing the manuscript:\n\nCreate a well-organized & documented companion GitHub repo for the manuscript.\n\nThis should contain all the Code & Data (from Step 4) that will be publicly released.\n\nWrite the Cover Letter.\n\nSubmit on bioRxiv, share on social media, and submit to journal! 🎉",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Remote Work</span>"
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Writing papers</span>"
     ]
   },
   {
-    "objectID": "howto_work_remotely.html#casual-co-work",
-    "href": "howto_work_remotely.html#casual-co-work",
-    "title": "Appendix D — Remote Work",
-    "section": "F.2 2. Casual Co-work",
-    "text": "F.2 2. Casual Co-work\nMembers are encouraged to setup co-work times to co-write, for code review, or just to work! (based off our most recent When2meet poll)",
+    "objectID": "howto_write_paper.html#resources",
+    "href": "howto_write_paper.html#resources",
+    "title": "Appendix D — Writing papers",
+    "section": "D.2 Resources",
+    "text": "D.2 Resources\n\nMuch has already been written on how to think about and go about writing good papers. This doc contains pointers to great resources on these aspects.\n\n\nD.2.0.1 Getting Started – General Thoughts and Principles\n\nHow to write a first-class paper – Six experts offer advice on producing a manuscript that will get published and pull in readers.\nTen Simple Rules for Writing Research Papers – Principles and attitude that can help guide the process of writing in particular and research in general.\n\n\n\nD.2.0.2 Writing the Paper – Sections and Structure\n\nThe CommKit is a collection of guides to successful communication in the biological sciences. It contains an entire section on writing Journal Articles with annotated real-world examples. Highly recommended!\nTen Simple Rules for Structuring Papers – Clearly laid out structure for papers.   \nWriting Scientific Papers — Structuring, Drafting, and Revising\n\n\n\nD.2.0.3 Nailing Key Sections and Fine-tuning\n\nThe 5 pivotal paragraphs in a paper – There are five really pivotal paragraphs in any paper. If you get those five paragraphs right, you are likely to have and communicate the story arc in a way that grabs attention.\nHow to write paragraphs in research texts – Essay on crafting solid paragraphs.\nHow small changes to a paper can help to smooth the review process – Aspects of presentation that make it as easy as possible for editors and reviewers to focus on the work’s scientific content by avoiding confusion or misinterpretation (generate substantial delays in the review process).\nHow to write an effective abstract – An excellent annotated abstract from Nature detailing all the components & flow of a good abstract.\n\n\n\nD.2.1 Reading, Writing, Reviewing, Sharing Data, Creating an R pkg | from Jeff Leek\n\nHow to read papers\nHow to review papers\nHow to write your first paper\nHow to share data\nHow to write an R package\n\n\n\nD.2.2 Acknowledgments\nCited sources above + KrishnanLab.",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Remote Work</span>"
-    ]
-  },
-  {
-    "objectID": "howto_work_remotely.html#finding-time-to-chat-with-me",
-    "href": "howto_work_remotely.html#finding-time-to-chat-with-me",
-    "title": "Appendix D — Remote Work",
-    "section": "F.3 3. Finding time to chat with me",
-    "text": "F.3 3. Finding time to chat with me\nFinally, as a substitute for scheduling in-person meetings via Slack, I’ve made my full calendar available here, where you can easily fix a time to chat.\n\nNo need to ping me ahead.\nNo need to have a specific purpose/agenda, although this might help me prepare if it’s for a scientific/technical check-in. We can talk about anything – research, courses, work-life, home-life – or just say “Hi!” 🙂\nPick a corresponding slot – 15min, 30min, or 1h.",
-    "crumbs": [
-      "Appendices",
-      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Remote Work</span>"
-    ]
-  },
-  {
-    "objectID": "howto_work_remotely.html#acknowledgments",
-    "href": "howto_work_remotely.html#acknowledgments",
-    "title": "Appendix D — Remote Work",
-    "section": "F.4 Acknowledgments",
-    "text": "F.4 Acknowledgments\nOur JRaviLab group discussions + ideas from Baucom and Krishnan Labs.",
-    "crumbs": [
-      "Appendices",
-      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Remote Work</span>"
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Writing papers</span>"
     ]
   },
   {
@@ -438,36 +416,102 @@
     ]
   },
   {
-    "objectID": "howto_write_paper.html",
-    "href": "howto_write_paper.html",
-    "title": "Appendix F — Writing papers",
+    "objectID": "howto_attend_conference.html",
+    "href": "howto_attend_conference.html",
+    "title": "Appendix F — How to attend a scientific conference",
     "section": "",
-    "text": "F.1 How to write a scientific paper once we decide that you have one or more interesting results\nStart by discussing with me what the paper is about!",
+    "text": "F.1 Before you go\nAuthors: Janani Ravi & members of JRaviLab\nLast updated: April 2026\nAttending a conference is an investment — of time, money, and energy — by you, the lab, and often a funding agency. That investment deserves to be taken seriously. Done well, a conference can reshape how you think about your science, open unexpected doors, and leave you genuinely inspired. Done poorly, it’s a few days of jet lag and a tote bag. This guide is to help you make it count. So go in with an open mind and engage fully! DO NOT be indifferent – meetings (or labs, for that matter) aren’t the right place for this attitude.\nWhether you are heading to a small focused meeting like CSHL Biological Data Science or GRC, or a large community meeting like ISMB or RECOMB, the principles are the same — the scale just changes.",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Writing papers</span>"
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>How to attend a scientific conference</span>"
     ]
   },
   {
-    "objectID": "howto_write_paper.html#how-to-write-a-scientific-paper-once-we-decide-that-you-have-one-or-more-interesting-results",
-    "href": "howto_write_paper.html#how-to-write-a-scientific-paper-once-we-decide-that-you-have-one-or-more-interesting-results",
-    "title": "Appendix F — Writing papers",
+    "objectID": "howto_attend_conference.html#before-you-go",
+    "href": "howto_attend_conference.html#before-you-go",
+    "title": "Appendix F — How to attend a scientific conference",
     "section": "",
-    "text": "F.1.1 Figures and Tables\n\nCreate a draft of your ideal set of Figures & Tables (in addition to supplements) that can tell an interesting, coherent story.\n\nWrite detailed figure/table legends to help understand what piece of the story each figure/table will convey.\nGet feedback on the entire story draft from colleagues / collaborators / committee.\nBased on these interactions, keep revisiting & revising this draft.\n\n\n\n\nF.1.2 Introduction & Discussion\n\nRead widely and deeply. Read often.\n\nRemember that this exercise is going to entirely feed your Introduction and Discussion sections.\nRecord all the papers in a Zotero library, starting with Slack shares and periodic PubMed searches.\nCreate a single Google Doc and make notes about each paper along with its title & link. The purpose of the notes is to make the points you will write in your manuscript to cite each paper.\nBased on these readings and discussions during project meetings, pick a target journal.\n\n\n\n\nF.1.3 Supplementary data\n\nMake all main and supplemental Figures and Tables along with declarative titles & detailed legends.\n\nRun many controls and sanity checks.\nRapidly iterate with me & colleagues and do additional analyses needed to fill gaps & round-out the story.\nPrepare for & do code review.\n\n\n\n\nF.1.4 Methods & Code+Data\n\nWrite a very detailed Methods section and prepare Code & Data to be released.\n\nDecide (w/ me) what Code & Data need to be released with this manuscript.\nAs you write each sub-section of Methods, organize and document the pertinent code, data, and results.\n\n\n\n\nF.1.5 Results\n\nWrite the Results section and rapidly iterate with me & colleagues to make changes/improvements.\n\n\n\nF.1.6 Tying them together\n\nStart with the story line.\nMake the Figures/Tables (you will keep iterating over these until submission).\nWrite the Methods since that’s the easiest one to tackle.\nThen, write the Results describing your Figs/Tables.\nFinally, write the Introduction and Discussion sections, and add References (e.g., Zotero + Google Docs integration).\n\nThe Introduction section should lead up to the main questions and results of the manuscript.\nThe Discussion should put the new results in the context of existing work, describe novelty & potential impact, and conclude with opportunities for future work.\nPerform any additional analyses/comparisons needed to make these sections airtight.\n\n\n\n\nF.1.7 Title & Abstract\n\nWrite Title and Abstract, and get feedback from me/colleagues/collaborators on this full document.\n\n\n\nF.1.8 Last Steps\n\nWhile others are critically reviewing the manuscript:\n\nCreate a well-organized & documented companion GitHub repo for the manuscript.\n\nThis should contain all the Code & Data (from Step 4) that will be publicly released.\n\nWrite the Cover Letter.\n\nSubmit on bioRxiv, share on social media, and submit to journal! 🎉",
+    "text": "F.1.1 Know why you’re going\nBe explicit with yourself (and tell your PI) about your goals for this conference:\n\nAre you presenting (talk or poster)?\nAre you recruiting collaborators, seeking feedback on a project, or exploring a new sub-field?\nAre you job-market adjacent and want to make yourself known?\nAre you early enough that the main goal is to absorb, get inspired, and understand the landscape?\nWhat’s your career stage (junior: undergrad/early grad student; mid: advanced grad student/early postdoc; senior: ≥2Y postdoc or beyond)?\nAre you going to engage – talk to people about their talks or yours? Meetings are to meet people. So if you are attending, please be prepared to do that!\n\nAll of these are valid. Knowing which applies to you helps you plan your time well.\n\n\nF.1.2 Do your homework\n\nRead the full program as soon as it’s posted. Identify the talks and posters most relevant to your work, and a few that are adjacent or new to you.\nLook up speakers you want to interact with: what have they published recently? What is their broader trajectory? What questions does their work raise for you?\nIf there’s a keynote or invited speaker you’ve long admired (or never heard of), spend 30 minutes reading about them before you arrive.\nIdentify 3–5 people you genuinely want to talk to. For each, come prepared with: (1) a clear description of who you are and what you work on; (2) one scientific question connected to their work or yours; and (3) one career or professional question you can actually learn from them.\n\nThis prep isn’t just politeness — it’s what allows the conversation to be real rather than awkward.\n\n\nF.1.3 Plan your schedule deliberately\n\nBlock out talks/posters you want to attend on your calendar before you arrive.\nNote poster sessions — they are often where the most interesting science is happening, and the conversations are easier.\nLeave buffer time. You will run into someone interesting in the hallway and want to keep talking. Let yourself; be organic.\nFor large meetings (ISMB, ASM), parallel sessions are unavoidable. Make choices in advance rather than deciding in the moment.\n\n\n\nF.1.4 You represent more than yourself\nRemember: at a conference, you are representing yourself, your lab, and your institution.\nHow you show up — how you engage, how you treat speakers and attendees, how you conduct yourself during talks — reflects on all three. Take that seriously. It is not a burden; it’s an opportunity to build the kind of reputation you want to have.",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Writing papers</span>"
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>How to attend a scientific conference</span>"
     ]
   },
   {
-    "objectID": "howto_write_paper.html#resources",
-    "href": "howto_write_paper.html#resources",
-    "title": "Appendix F — Writing papers",
-    "section": "F.2 Resources",
-    "text": "F.2 Resources\n\nMuch has already been written on how to think about and go about writing good papers. This doc contains pointers to great resources on these aspects.\n\n\nF.2.0.1 Getting Started – General Thoughts and Principles\n\nHow to write a first-class paper – Six experts offer advice on producing a manuscript that will get published and pull in readers.\nTen Simple Rules for Writing Research Papers – Principles and attitude that can help guide the process of writing in particular and research in general.\n\n\n\nF.2.0.2 Writing the Paper – Sections and Structure\n\nThe CommKit is a collection of guides to successful communication in the biological sciences. It contains an entire section on writing Journal Articles with annotated real-world examples. Highly recommended!\nTen Simple Rules for Structuring Papers – Clearly laid out structure for papers.   \nWriting Scientific Papers — Structuring, Drafting, and Revising\n\n\n\nF.2.0.3 Nailing Key Sections and Fine-tuning\n\nThe 5 pivotal paragraphs in a paper – There are five really pivotal paragraphs in any paper. If you get those five paragraphs right, you are likely to have and communicate the story arc in a way that grabs attention.\nHow to write paragraphs in research texts – Essay on crafting solid paragraphs.\nHow small changes to a paper can help to smooth the review process – Aspects of presentation that make it as easy as possible for editors and reviewers to focus on the work’s scientific content by avoiding confusion or misinterpretation (generate substantial delays in the review process).\nHow to write an effective abstract – An excellent annotated abstract from Nature detailing all the components & flow of a good abstract.\n\n\n\nF.2.1 Reading, Writing, Reviewing, Sharing Data, Creating an R pkg | from Jeff Leek\n\nHow to read papers\nHow to review papers\nHow to write your first paper\nHow to share data\nHow to write an R package\n\n\n\nF.2.2 Acknowledgments\nCited sources above + KrishnanLab.",
+    "objectID": "howto_attend_conference.html#during-the-conference",
+    "href": "howto_attend_conference.html#during-the-conference",
+    "title": "Appendix F — How to attend a scientific conference",
+    "section": "F.2 During the conference",
+    "text": "F.2 During the conference\n\nF.2.1 Show up fully, be present, and stay\nThere is no point flying to a meeting and skipping half of it.\nPace yourself so you can be present for the whole thing:\n\nPlan ahead to be fully present at the meeting.\nSleep enough.\nEat real food. Hydrate.\nKnow your own bandwidth for socializing and build in recovery time — especially for introverts. But introverts still need to actively prepare to step out of their comfort zone and talk to at least a few people outside their lab/university at each session.\nThat said: be there. Show up on time for talks. Attend the sessions you planned to attend & attempt a full schedule. Don’t disappear after your own poster session.\n\n\n\nF.2.2 Taking notes\nBring a lightweight way to capture ideas — a shared lab doc (e.g., a Google Doc) works well and means your notes are immediately useful to others in the lab. Keep your phone/laptop use minimal during talks — distraction-free note-taking beats half-attentive live commentary.\nJot:\n\nKey findings or methods that surprised you\nPapers you want to read\nNames of people to follow up with\nQuestions you didn’t get to ask\nIdeas for your own work (or labmate’s) sparked from someone else’s talk\n\n\n\nF.2.3 Engaging with talks\n\nAsk questions — especially if you’re early-career. It’s one of the best ways to become known in a field. A good question is specific, genuinely curious, and brief.\nIf you’re too nervous to ask during the Q&A, catch the speaker afterward. This is completely normal and often leads to better conversations than the public Q&A anyway.\nBe present and respectful during all talks, even ones outside your immediate area. You never know what will spark something.\n\n\n\nF.2.4 Posters\nPoster sessions are often the most high-value time at a conference. Walk the full session.\nAt posters:\n\nGive the presenter a chance to give their pitch before you pepper them with questions.\nAsk genuine questions. If you’re confused, say so — that’s useful feedback for them.\nWhen it’s your poster: have different versions of your pitch ready. A 1-minute pitch for someone passing by who asks “what’s this about?” is different from a 5-minute deep-dive for a collaborator or expert in your sub-field. Know your audience — computational biologist, microbiologist, generalist, senior scientist, grad student — and adapt accordingly.\nDon’t cluster only around posters from your own lab or sub-field. Be curious.\n\n\n\nF.2.5 Meeting people: the hospitality model\nThink about meeting someone at a conference the same way you’d think about welcoming a guest: with warmth, genuine attention, and preparation. Being aloof or giving one-word answers is not professionalism — it’s the opposite of how you want to be remembered, or how you represent where you come from.\nIf you’re an introvert and are thinking “I can’t do this spontaneously” — you don’t have to. Prepare a few phrases and openers in advance. Once you’re in a conversation, it usually flows. And if it’s a computational meeting, most people are like you — they will appreciate your preparation and thoughtfulness.\nFor hallway conversations, coffee chats, and meals:\n\nIntroduce yourself clearly: your name, who you work with, and what you’re working on — in one or two sentences.\nAsk them something genuine about their work or career. People love talking about their science.\nTake turns. Don’t monologue. Don’t pepper them with questions either.\nBe open to unexpected conversations. Some of the most important connections start with “I liked your talk” in a coffee queue.\n\nFor meeting more senior scientists:\n\nPrepare before you approach them. Know their recent work, their broader role, and what you genuinely want to learn from them.\nCome with: (1) a crisp self-introduction; (2) one scientific question; and (3) one career question.\nBe curious, not starstruck. Senior scientists were trainees once. Most are happy to talk to someone who has done their homework.\nDon’t monopolize their time. A short, memorable conversation is better than a long awkward one.\n\nAfter their talk or poster:\n\nSpecific praise or a follow-up question lands much better than a generic “great talk!”\n“I was thinking about how your approach might connect to X — does that seem plausible to you?” is a great opening.\n\n\n\nF.2.6 Going in with an open mind\nThe best conference experiences often come from the sessions you almost skipped. Go to at least one talk per day that is outside your immediate area. Let yourself be surprised. Some of the most important ideas in your research career may come from a field you weren’t expecting.",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Writing papers</span>"
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>How to attend a scientific conference</span>"
+    ]
+  },
+  {
+    "objectID": "howto_attend_conference.html#after-the-conference",
+    "href": "howto_attend_conference.html#after-the-conference",
+    "title": "Appendix F — How to attend a scientific conference",
+    "section": "F.3 After the conference",
+    "text": "F.3 After the conference\nWithin 1–2 days of returning:\n\nFollow up with the people you connected with — a short email (“enjoyed our chat about X, here’s the paper I mentioned”) goes a long way. Connect on LinkedIn if relevant.\nConsolidate your notes while they’re fresh. Flag: papers to read, methods to explore, ideas to pursue.\nShare highlights with the lab — a brief Slack message or lab meeting summary helps everyone, especially those who couldn’t attend. They might even help you with questions if you tell them where you plan to be!\nReflect on your goals: did you get what you came for? What would you do differently? What do you want to follow up on?",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>How to attend a scientific conference</span>"
+    ]
+  },
+  {
+    "objectID": "howto_attend_conference.html#by-career-stage",
+    "href": "howto_attend_conference.html#by-career-stage",
+    "title": "Appendix F — How to attend a scientific conference",
+    "section": "F.4 By career stage",
+    "text": "F.4 By career stage\n\nF.4.1 Undergrads and early grad students\nYour primary goal is to absorb and get inspired. You don’t need to have all the answers; you need to ask good questions and be genuinely curious.\nFocus on:\n\nAttending broadly — don’t just go to talks in your exact sub-field\nIntroducing yourself to at least 2–3 people you don’t already know\nComing home with a list of papers you want to read and questions you want to explore\n\n\n\nF.4.2 Advanced grad students\nYou likely have a research story to tell.\nUse the conference to get feedback and build visibility:\n\nIf you have a poster or talk, prepare it well in advance and practice multiple versions of your pitch\nIdentify potential collaborators or people whose methods could help your work\nStart building your independent reputation — your name should begin to be associated with a specific scientific question\n\n\n\nF.4.3 Postdocs\nYou are transitioning from trainee to peer.\nAct like it:\n\nEngage as a colleague, not a student — you have expertise worth sharing\nThink strategically about who you want to meet in the context of your next career move\nSeek out PIs who are hiring, future collaborators, and people outside your current network\nRepresent the lab and your own independent scientific identity simultaneously",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>How to attend a scientific conference</span>"
+    ]
+  },
+  {
+    "objectID": "howto_attend_conference.html#presenter-prep-talk-or-poster",
+    "href": "howto_attend_conference.html#presenter-prep-talk-or-poster",
+    "title": "Appendix F — How to attend a scientific conference",
+    "section": "F.5 Presenter prep (talk or poster)",
+    "text": "F.5 Presenter prep (talk or poster)\n(A more detailed guide is in the works — see also: How to make a poster)\nA few essentials:\n\nHave multiple versions of your pitch: 30 seconds (elevator), 2 minutes (casual intro), 5+ minutes (deep dive). Calibrate by who’s in front of you.\nKnow your audience for each conversation: computational vs. biological vs. mixed background; same sub-field vs. adjacent; career stage. Adjust accordingly.\nAnticipate questions, especially the hard ones. Being caught off guard by an obvious question is avoidable.\nBe honest about limitations. Reviewers and collaborators respect intellectual honesty far more than overselling.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>How to attend a scientific conference</span>"
+    ]
+  },
+  {
+    "objectID": "howto_attend_conference.html#a-note-on-virtual-and-hybrid-conferences",
+    "href": "howto_attend_conference.html#a-note-on-virtual-and-hybrid-conferences",
+    "title": "Appendix F — How to attend a scientific conference",
+    "section": "F.6 A note on virtual and hybrid conferences",
+    "text": "F.6 A note on virtual and hybrid conferences\nVirtual and hybrid meetings (Zoom-based, Gather, etc.) require extra intentionality since the informal scaffolding — hallways, coffee lines, poster walks — is missing or limited.\n\nDo all the pre-meeting homework more carefully; the scheduled interactions are all you have.\nUse virtual poster and networking sessions; don’t skip them because it feels awkward.\nFollow up even more promptly — a quick post-talk message on Slack or email while the session is fresh is easy and effective.\nTake breaks between sessions. Screen fatigue is real.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>How to attend a scientific conference</span>"
+    ]
+  },
+  {
+    "objectID": "howto_attend_conference.html#conferences-worth-knowing-for-our-community",
+    "href": "howto_attend_conference.html#conferences-worth-knowing-for-our-community",
+    "title": "Appendix F — How to attend a scientific conference",
+    "section": "F.7 Conferences worth knowing (for our community)",
+    "text": "F.7 Conferences worth knowing (for our community)\nSome examples across scales and scopes:\n\nFocused/small: CSHL Biological Data Science, GRC (various), MLCB (Seattle), RECOMB satellite meetings\nRegional: Great Plains Bioinformatics Conference, Rocky Mountain ASM\nMid-size: RECOMB\nLarge: ISMB/ECCB, major society meetings\n\nEach type requires a slightly different strategy — at smaller focused meetings, nearly everyone in the room will know your work eventually; at large meetings, you have to be far more deliberate about who you seek out.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>How to attend a scientific conference</span>"
+    ]
+  },
+  {
+    "objectID": "howto_attend_conference.html#quick-checklists",
+    "href": "howto_attend_conference.html#quick-checklists",
+    "title": "Appendix F — How to attend a scientific conference",
+    "section": "F.8 Quick checklists",
+    "text": "F.8 Quick checklists\n\nF.8.1 Before you go\n\nGoals defined (presenting? networking? learning? job market?)\nProgram reviewed; key talks/posters marked\n3–5 people identified to connect with; done homework on each\nSelf-introduction (1–2 sentences) practiced\nShared lab note-taking doc created\nPoster/talk practiced with multiple pitch lengths (if presenting)\n\n\n\nF.8.2 During the conference\n\nAttending sessions you planned to attend (not skipping)\nNotes being captured in shared doc\nTalking to at least 1–2 new people each day\nFollowing up on interesting talks/posters in the moment\nPacing yourself to stay present for the full meeting\n\n\n\nF.8.3 After the conference\n\nFollow-up emails sent within 1–2 days\nNotes consolidated; papers/methods flagged\nLab update shared (Slack/meeting)\nReflection: what worked, what to do differently next time\n\n\nQuestions or suggestions? Submit a pull request to the lab_docs GitHub repository or email me.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>How to attend a scientific conference</span>"
     ]
   },
   {
@@ -526,80 +570,135 @@
     ]
   },
   {
-    "objectID": "llm_use_guidelines.html",
-    "href": "llm_use_guidelines.html",
-    "title": "Appendix H — LLM use guidelines for research trainees",
+    "objectID": "howto_work_remotely.html",
+    "href": "howto_work_remotely.html",
+    "title": "Appendix H — Remote Work",
     "section": "",
-    "text": "H.1 Core principle\nEnhancing learning without compromising training potential.\nA brief, meta compilation of LLM guidelines using an LLM!\nYour primary goal in training is to develop independent scientific thinking, not to maximize efficiency. LLMs are tools that should amplify your capabilities, not replace the intellectual work that builds expertise.",
+    "text": "I Few generic tips\nupdated during/due to the COVID-19 pandemic.",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>H</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
+      "<span class='chapter-number'>H</span>  <span class='chapter-title'>Remote Work</span>"
+    ]
+  },
+  {
+    "objectID": "howto_work_remotely.html#daily-scrum",
+    "href": "howto_work_remotely.html#daily-scrum",
+    "title": "Appendix H — Remote Work",
+    "section": "J.1 1. Daily Scrum",
+    "text": "J.1 1. Daily Scrum\nAt the beginning of each day you’re working, think or write down the following:\n\nWhat did you do yesterday? [“Yesterday, I …”]\nWhat will you do today? [“Today, I’m going to …”]\nAre there any impediments in your way?",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>H</span>  <span class='chapter-title'>Remote Work</span>"
+    ]
+  },
+  {
+    "objectID": "howto_work_remotely.html#casual-co-work",
+    "href": "howto_work_remotely.html#casual-co-work",
+    "title": "Appendix H — Remote Work",
+    "section": "J.2 2. Casual Co-work",
+    "text": "J.2 2. Casual Co-work\nMembers are encouraged to setup co-work times to co-write, for code review, or just to work! (based off our most recent When2meet poll)",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>H</span>  <span class='chapter-title'>Remote Work</span>"
+    ]
+  },
+  {
+    "objectID": "howto_work_remotely.html#finding-time-to-chat-with-me",
+    "href": "howto_work_remotely.html#finding-time-to-chat-with-me",
+    "title": "Appendix H — Remote Work",
+    "section": "J.3 3. Finding time to chat with me",
+    "text": "J.3 3. Finding time to chat with me\nFinally, as a substitute for scheduling in-person meetings via Slack, I’ve made my full calendar available here, where you can easily fix a time to chat.\n\nNo need to ping me ahead.\nNo need to have a specific purpose/agenda, although this might help me prepare if it’s for a scientific/technical check-in. We can talk about anything – research, courses, work-life, home-life – or just say “Hi!” 🙂\nPick a corresponding slot – 15min, 30min, or 1h.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>H</span>  <span class='chapter-title'>Remote Work</span>"
+    ]
+  },
+  {
+    "objectID": "howto_work_remotely.html#acknowledgments",
+    "href": "howto_work_remotely.html#acknowledgments",
+    "title": "Appendix H — Remote Work",
+    "section": "J.4 Acknowledgments",
+    "text": "J.4 Acknowledgments\nOur JRaviLab group discussions + ideas from Baucom and Krishnan Labs.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>H</span>  <span class='chapter-title'>Remote Work</span>"
+    ]
+  },
+  {
+    "objectID": "llm_use_guidelines.html",
+    "href": "llm_use_guidelines.html",
+    "title": "Appendix I — LLM use guidelines for research trainees",
+    "section": "",
+    "text": "I.1 Core principle\nEnhancing learning without compromising training potential.\nA brief, meta compilation of LLM guidelines using an LLM!\nYour primary goal in training is to develop independent scientific thinking, not to maximize efficiency. LLMs are tools that should amplify your capabilities, not replace the intellectual work that builds expertise.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>I</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
     ]
   },
   {
     "objectID": "llm_use_guidelines.html#strategic-uses-enhance-learning",
     "href": "llm_use_guidelines.html#strategic-uses-enhance-learning",
-    "title": "Appendix H — LLM use guidelines for research trainees",
-    "section": "H.2 ✓ Strategic uses (enhance learning)",
-    "text": "H.2 ✓ Strategic uses (enhance learning)\n\nH.2.1 Documentation & organization\n\nClean up (not draft) READMEs, code comments, and inline documentation\nOrganize project directories and file structures\nCreate documentation templates for GitHub repos, datasets\nGenerate boilerplate code structure (after understanding fundamentals)\n\n\n\nH.2.2 Learning & skill development\n\nAfter independent attempts: Get explanations of complex concepts\nGenerate analogies to understand difficult topics\nBrainstorm approaches to problems (but verify with literature/experts)\nUse tools like Perplexity to generate reading lists (always check for predatory journals, hallucinated citations)\nAsk “what topics do I need to know to understand this paper/method?”\n\n\n\nH.2.3 Critique & gap analysis\n\nGet feedback on drafts you’ve already written (after ≥2 revision rounds with colleagues)\nIdentify logical gaps, clarity issues, or missing considerations\nCheck for completeness in project proposals or documentation\nRequest alternative perspectives on your interpretations\n\n\n\nH.2.4 Code assistance (after mastery)\n\nDebug assistance when you’ve already diagnosed the problem area\nSyntax help for languages you already understand\nCode refactoring suggestions (when you understand the tradeoffs)\nStandard visualization templates (after learning plotting fundamentals)\n\n\n\nH.2.5 Communication practice\n\nVoice mode for talk practice: Deliver presentations, get feedback on flow, narrative, pacing, clarity\nPractice for comprehensive exams or conference talks\nGet suggestions for improving scientific communication style\nPolish grammar and style (like an advanced Grammarly)\n\n\n\nH.2.6 Literature search\n\nGenerate lists of related papers to explore (verify all exist)\nFind connections between research areas\nIdentify key terminology and concepts in new fields",
+    "title": "Appendix I — LLM use guidelines for research trainees",
+    "section": "I.2 ✓ Strategic uses (enhance learning)",
+    "text": "I.2 ✓ Strategic uses (enhance learning)\n\nI.2.1 Documentation & organization\n\nClean up (not draft) READMEs, code comments, and inline documentation\nOrganize project directories and file structures\nCreate documentation templates for GitHub repos, datasets\nGenerate boilerplate code structure (after understanding fundamentals)\n\n\n\nI.2.2 Learning & skill development\n\nAfter independent attempts: Get explanations of complex concepts\nGenerate analogies to understand difficult topics\nBrainstorm approaches to problems (but verify with literature/experts)\nUse tools like Perplexity to generate reading lists (always check for predatory journals, hallucinated citations)\nAsk “what topics do I need to know to understand this paper/method?”\n\n\n\nI.2.3 Critique & gap analysis\n\nGet feedback on drafts you’ve already written (after ≥2 revision rounds with colleagues)\nIdentify logical gaps, clarity issues, or missing considerations\nCheck for completeness in project proposals or documentation\nRequest alternative perspectives on your interpretations\n\n\n\nI.2.4 Code assistance (after mastery)\n\nDebug assistance when you’ve already diagnosed the problem area\nSyntax help for languages you already understand\nCode refactoring suggestions (when you understand the tradeoffs)\nStandard visualization templates (after learning plotting fundamentals)\n\n\n\nI.2.5 Communication practice\n\nVoice mode for talk practice: Deliver presentations, get feedback on flow, narrative, pacing, clarity\nPractice for comprehensive exams or conference talks\nGet suggestions for improving scientific communication style\nPolish grammar and style (like an advanced Grammarly)\n\n\n\nI.2.6 Literature search\n\nGenerate lists of related papers to explore (verify all exist)\nFind connections between research areas\nIdentify key terminology and concepts in new fields",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>H</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
+      "<span class='chapter-number'>I</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
     ]
   },
   {
     "objectID": "llm_use_guidelines.html#avoid-compromises-training",
     "href": "llm_use_guidelines.html#avoid-compromises-training",
-    "title": "Appendix H — LLM use guidelines for research trainees",
-    "section": "H.3 ✗ Avoid (compromises training)",
-    "text": "H.3 ✗ Avoid (compromises training)\n\nH.3.1 Writing & thinking\n\n❌ Having LLMs write any first draft (manuscripts, proposals, abstracts, reports)\n❌ Generating content from bullet points without writing yourself\n❌ Summarizing your own results or data interpretations\n❌ Writing discussion/conclusion sections\n❌ Any writing task you’ve done &lt;10-20 times independently\n\n\n\nH.3.2 Code & analysis\n\n❌ Generating analysis code for methods you don’t understand\n❌ Writing entire scripts/pipelines without knowing each component\n❌ Using AI for statistical approaches you can’t verify\n❌ Debugging without first attempting to understand the error yourself\n❌ Any coding task you’ve done &lt;5-10 times independently\n\n\n\nH.3.3 Data & results\n\n❌ Uploading raw research data to public LLM systems\n❌ Having AI analyze, visualize, or interpret your experimental/computational data\n❌ Using AI for any task involving sensitive, unpublished, or controlled-access data\n\n\n\nH.3.4 Core scientific skills\n\n❌ Bypassing reading original papers (especially in the first 1-3 years)\n❌ Using AI instead of asking labmates/mentors for help\n❌ Generating hypotheses or research questions\n❌ Tasks where discussion with colleagues provides more learning value",
+    "title": "Appendix I — LLM use guidelines for research trainees",
+    "section": "I.3 ✗ Avoid (compromises training)",
+    "text": "I.3 ✗ Avoid (compromises training)\n\nI.3.1 Writing & thinking\n\n❌ Having LLMs write any first draft (manuscripts, proposals, abstracts, reports)\n❌ Generating content from bullet points without writing yourself\n❌ Summarizing your own results or data interpretations\n❌ Writing discussion/conclusion sections\n❌ Any writing task you’ve done &lt;10-20 times independently\n\n\n\nI.3.2 Code & analysis\n\n❌ Generating analysis code for methods you don’t understand\n❌ Writing entire scripts/pipelines without knowing each component\n❌ Using AI for statistical approaches you can’t verify\n❌ Debugging without first attempting to understand the error yourself\n❌ Any coding task you’ve done &lt;5-10 times independently\n\n\n\nI.3.3 Data & results\n\n❌ Uploading raw research data to public LLM systems\n❌ Having AI analyze, visualize, or interpret your experimental/computational data\n❌ Using AI for any task involving sensitive, unpublished, or controlled-access data\n\n\n\nI.3.4 Core scientific skills\n\n❌ Bypassing reading original papers (especially in the first 1-3 years)\n❌ Using AI instead of asking labmates/mentors for help\n❌ Generating hypotheses or research questions\n❌ Tasks where discussion with colleagues provides more learning value",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>H</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
+      "<span class='chapter-number'>I</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
     ]
   },
   {
     "objectID": "llm_use_guidelines.html#critical-requirements",
     "href": "llm_use_guidelines.html#critical-requirements",
-    "title": "Appendix H — LLM use guidelines for research trainees",
-    "section": "H.4 Critical requirements",
-    "text": "H.4 Critical requirements\n\nH.4.1 1. Accountability & verification\n\nYou are fully responsible for ALL AI-generated content\nVerification requires expertise - if you can’t verify output correctness, don’t use AI for that task\nFor code: Understand every line, test thoroughly\nFor writing: Fact-check every claim, verify every citation exists\nFor analysis: Verify statistical approaches, check assumptions\n\n\n\nH.4.2 2. Documentation\nWhen you use AI, document:\n\nTool name and version\nDate of use\nPrompts used\nOutput generated\nHow you verified/modified the LLM output\nErrors found and corrected\n\n\n\nH.4.3 3. Communication\n\nInform your PI within 1 week of AI use for research tasks\nBe transparent with collaborators before/during work\nNever present AI outputs as your own understanding\n\n\n\nH.4.4 4. Protect sensitive information\n☠️ Never input into public AI systems:\n\nUnpublished results or data\nProprietary datasets or code\nNovel research ideas or hypotheses\nPatient data or controlled-access information\nGrant proposals or manuscript drafts in development",
+    "title": "Appendix I — LLM use guidelines for research trainees",
+    "section": "I.4 Critical requirements",
+    "text": "I.4 Critical requirements\n\nI.4.1 1. Accountability & verification\n\nYou are fully responsible for ALL AI-generated content\nVerification requires expertise - if you can’t verify output correctness, don’t use AI for that task\nFor code: Understand every line, test thoroughly\nFor writing: Fact-check every claim, verify every citation exists\nFor analysis: Verify statistical approaches, check assumptions\n\n\n\nI.4.2 2. Documentation\nWhen you use AI, document:\n\nTool name and version\nDate of use\nPrompts used\nOutput generated\nHow you verified/modified the LLM output\nErrors found and corrected\n\n\n\nI.4.3 3. Communication\n\nInform your PI within 1 week of AI use for research tasks\nBe transparent with collaborators before/during work\nNever present AI outputs as your own understanding\n\n\n\nI.4.4 4. Protect sensitive information\n☠️ Never input into public AI systems:\n\nUnpublished results or data\nProprietary datasets or code\nNovel research ideas or hypotheses\nPatient data or controlled-access information\nGrant proposals or manuscript drafts in development",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>H</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
+      "<span class='chapter-number'>I</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
     ]
   },
   {
     "objectID": "llm_use_guidelines.html#career-stage-guidance",
     "href": "llm_use_guidelines.html#career-stage-guidance",
-    "title": "Appendix H — LLM use guidelines for research trainees",
-    "section": "H.5 Career stage guidance",
-    "text": "H.5 Career stage guidance\n\nH.5.1 Early stage (years 1-3, undergrads)\n\nFocus on building foundational skills without AI for core competencies\nUse AI primarily for learning/documentation, not execution\nDefault to asking your colleagues (or PI) first\n\n\n\nH.5.2 Mid-career (advanced grad students, postdocs)\n\nUse AI augmentatively for tasks you’ve mastered\nStill avoid AI for novel methods or approaches you’re learning\nEmphasize critique/feedback uses over generation\n\n\n\nH.5.3 Wet-lab specific\n\nUse AI for experimental design documentation\nLiterature mining for method optimization\nProtocol organization and note-taking\nNever for data analysis/interpretation without computational expertise",
+    "title": "Appendix I — LLM use guidelines for research trainees",
+    "section": "I.5 Career stage guidance",
+    "text": "I.5 Career stage guidance\n\nI.5.1 Early stage (years 1-3, undergrads)\n\nFocus on building foundational skills without AI for core competencies\nUse AI primarily for learning/documentation, not execution\nDefault to asking your colleagues (or PI) first\n\n\n\nI.5.2 Mid-career (advanced grad students, postdocs)\n\nUse AI augmentatively for tasks you’ve mastered\nStill avoid AI for novel methods or approaches you’re learning\nEmphasize critique/feedback uses over generation\n\n\n\nI.5.3 Wet-lab specific\n\nUse AI for experimental design documentation\nLiterature mining for method optimization\nProtocol organization and note-taking\nNever for data analysis/interpretation without computational expertise",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>H</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
+      "<span class='chapter-number'>I</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
     ]
   },
   {
     "objectID": "llm_use_guidelines.html#the-decision-framework",
     "href": "llm_use_guidelines.html#the-decision-framework",
-    "title": "Appendix H — LLM use guidelines for research trainees",
-    "section": "H.6 The decision framework",
-    "text": "H.6 The decision framework\n\nH.6.1 Before using AI/LLM, ask yourself\n\nIs this a skill I need to develop? If yes → do it yourself\nHave I mastered this through 10+ independent attempts? If no → do it yourself\n\nWill using AI prevent intellectual struggle that builds understanding? If yes → do it yourself\nCould discussing with a colleague provide more learning value? If yes → talk to colleagues\nAm I using AI because the task is hard (bad reason) or because I’ve mastered it (acceptable)?",
+    "title": "Appendix I — LLM use guidelines for research trainees",
+    "section": "I.6 The decision framework",
+    "text": "I.6 The decision framework\n\nI.6.1 Before using AI/LLM, ask yourself\n\nIs this a skill I need to develop? If yes → do it yourself\nHave I mastered this through 10+ independent attempts? If no → do it yourself\n\nWill using AI prevent intellectual struggle that builds understanding? If yes → do it yourself\nCould discussing with a colleague provide more learning value? If yes → talk to colleagues\nAm I using AI because the task is hard (bad reason) or because I’ve mastered it (acceptable)?",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>H</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
+      "<span class='chapter-number'>I</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
     ]
   },
   {
     "objectID": "llm_use_guidelines.html#remember",
     "href": "llm_use_guidelines.html#remember",
-    "title": "Appendix H — LLM use guidelines for research trainees",
-    "section": "H.7 Remember",
-    "text": "H.7 Remember\n\nSpeed ≠ learning. Efficiency now can mean skill gaps later\nAI outputs look polished but may be wrong. Confidence ≠ correctness\nWhat distinguishes you: Deep thinking, original perspectives, robust foundational skills\nAI often introduces subtle errors that a human would not: these can lead to profound consequences\nHallucinations are real: Always verify citations, facts, and technical claims\nWhen in doubt, ask your PI first\nCheck LLM’s Settings → Privacy/Data controls and turn off chat history, memory, personalization, and training‑related data usage for maximum privacy and no data retention.\n\n\nThe goal isn’t to avoid AI entirely — it’s to use it strategically so you emerge from training as an independent scientist with distinctive capabilities, not someone dependent on tools they can’t verify or correct. You will have ample opportunities as a PI or a scientist in an industry, to learn and use LLMs quickly and efficiently — there’s no need to rush into it now at the cost of your successful training.",
+    "title": "Appendix I — LLM use guidelines for research trainees",
+    "section": "I.7 Remember",
+    "text": "I.7 Remember\n\nSpeed ≠ learning. Efficiency now can mean skill gaps later\nAI outputs look polished but may be wrong. Confidence ≠ correctness\nWhat distinguishes you: Deep thinking, original perspectives, robust foundational skills\nAI often introduces subtle errors that a human would not: these can lead to profound consequences\nHallucinations are real: Always verify citations, facts, and technical claims\nWhen in doubt, ask your PI first\nCheck LLM’s Settings → Privacy/Data controls and turn off chat history, memory, personalization, and training‑related data usage for maximum privacy and no data retention.\n\n\nThe goal isn’t to avoid AI entirely — it’s to use it strategically so you emerge from training as an independent scientist with distinctive capabilities, not someone dependent on tools they can’t verify or correct. You will have ample opportunities as a PI or a scientist in an industry, to learn and use LLMs quickly and efficiently — there’s no need to rush into it now at the cost of your successful training.",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>H</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
+      "<span class='chapter-number'>I</span>  <span class='chapter-title'>LLM use guidelines for research trainees</span>"
     ]
   }
 ]
