@@ -6,7 +6,7 @@
 
 >**Note:** At CU as of December 2025, only MS Copilot (and potentially GitHub Copilot) is approved for use. Do not use other public LLM systems with university research data. Inspiration: KrishnanLab LLM guidelines.
 
----
+------------------------------------------------------------------------
 
 ## Core principle
 
@@ -156,7 +156,7 @@ When you use AI, document:
 
 ### Before using AI/LLM, ask yourself
 1. **Is this a skill I need to develop?** If yes → do it yourself
-2. **Have I mastered this through 10+ independent attempts?** If no → do it yourself\
+2. **Have I mastered this through 10+ independent attempts?** If no → do it yourself
 3. **Will using AI prevent intellectual struggle that builds understanding?** If yes → do it yourself
 4. **Could discussing with a colleague provide more learning value?** If yes → talk to colleagues
 5. **Am I using AI because the task is hard** (bad reason) **or because I've mastered it** (acceptable)?

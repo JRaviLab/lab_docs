@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-Attending a conference is an investment --- of time, money, and energy --- by you, the lab, and often a funding agency. That investment deserves to be taken seriously. Done well, a conference can reshape how you think about your science, open unexpected doors, and leave you genuinely inspired. Done poorly, it's a few days of jet lag and a tote bag. This guide is to help you make it count. So go in with an open mind and engage fully! DO NOT be indifferent -- meetings (or labs, for that matter) aren't the right place for this attitude.
+Attending a conference is an investment --- of time, money, and energy --- by you, the lab, and often a funding agency. That investment deserves to be taken seriously. Done well, a conference can reshape how you think about your science, open unexpected doors, and leave you genuinely inspired. Done poorly, it's a few days of jet lag and a tote bag. This guide is to help you make it count. So go in with an open mind and engage fully! DO NOT be indifferent --- meetings (or labs, for that matter) aren't the right place for this attitude.
 
 Whether you are heading to a small focused meeting like CSHL Biological Data Science or GRC, or a large community meeting like ISMB or RECOMB, the principles are the same --- the scale just changes.
 
@@ -22,7 +22,7 @@ Be explicit with yourself (and tell your PI) about your goals for this conferenc
 -   Are you job-market adjacent and want to make yourself known?
 -   Are you early enough that the main goal is to absorb, get inspired, and understand the landscape?
 -   What's your career stage (junior: undergrad/early grad student; mid: advanced grad student/early postdoc; senior: ≥2Y postdoc or beyond)?
--   Are you going to engage -- talk to people about their talks or yours? Meetings are to meet people. So if you are attending, please be prepared to do that!
+-   Are you going to engage --- talk to people about their talks or yours? Meetings are to meet people. So if you are attending, please be prepared to do that!
 
 All of these are valid. Knowing which applies to you helps you plan your time well.
 
