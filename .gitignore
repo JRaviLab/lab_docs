@@ -8,3 +8,5 @@ Icon?
 /_site/
 /_book/
 docs
+
+**/*.quarto_ipynb
